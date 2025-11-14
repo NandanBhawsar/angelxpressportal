@@ -1,0 +1,1654 @@
+id,studentId,studentName,weekStartDate,score,comment
+PERF000001,STU001,Meera Verma,2025-01-05,7,Excellent performance this week!
+PERF000002,STU002,Deepak Iyer,2025-01-05,8,Shows enthusiasm for learning.
+PERF000003,STU004,Nikhil Saxena,2025-01-05,10,Needs extra attention in mathematics.
+PERF000004,STU005,Abhishek Joshi,2025-01-05,7,Needs extra attention in mathematics.
+PERF000005,STU006,Arjun Saxena,2025-01-05,8,Very active and participates well in class.
+PERF000006,STU007,Manish Mehta,2025-01-05,8,Needs help with time management.
+PERF000007,STU008,Aishwarya Joshi,2025-01-05,9,Good teamwork skills demonstrated.
+PERF000008,STU009,Amit Bansal,2025-01-05,7,Excellent performance this week!
+PERF000009,STU010,Sakshi Mehta,2025-01-05,7,Very active and participates well in class.
+PERF000010,STU011,Neha Mishra,2025-01-05,10,Shows enthusiasm for learning.
+PERF000011,STU012,Sneha Mehta,2025-01-05,10,Needs more practice with homework assignments.
+PERF000012,STU013,Sagar Rao,2025-01-05,9,Shows enthusiasm for learning.
+PERF000013,STU015,Ananya Verma,2025-01-05,10,Shows enthusiasm for learning.
+PERF000014,STU016,Abhishek Reddy,2025-01-05,10,Excellent performance this week!
+PERF000015,STU017,Tanvi Nair,2025-01-05,8,Shows great improvement in understanding concepts.
+PERF000016,STU018,Kritika Patel,2025-01-05,9,Attendance needs improvement.
+PERF000017,STU020,Ravi Sharma,2025-01-05,7,Attendance needs improvement.
+PERF000018,STU021,Aishwarya Bansal,2025-01-05,10,Should practice more at home.
+PERF000019,STU022,Meera Sharma,2025-01-05,8,Good teamwork skills demonstrated.
+PERF000020,STU023,Amit Kumar,2025-01-05,8,Very active and participates well in class.
+PERF000021,STU024,Manish Joshi,2025-01-05,7,Shows great improvement in understanding concepts.
+PERF000022,STU025,Sakshi Mishra,2025-01-05,9,Needs help with time management.
+PERF000023,STU026,Harsh Arora,2025-01-05,7,Needs more practice with homework assignments.
+PERF000024,STU027,Aishwarya Arora,2025-01-05,8,Needs extra attention in mathematics.
+PERF000025,STU028,Jyoti Saxena,2025-01-05,9,Should focus more on reading skills.
+PERF000026,STU030,Rahul Goyal,2025-01-05,10,Requires additional support in reading.
+PERF000027,STU031,Swati Bansal,2025-01-05,7,Needs more practice with homework assignments.
+PERF000028,STU032,Aditya Rao,2025-01-05,9,Good teamwork skills demonstrated.
+PERF000029,STU033,Arjun Patel,2025-01-05,7,Attendance needs improvement.
+PERF000030,STU034,Sagar Mishra,2025-01-05,7,Very active and participates well in class.
+PERF000031,STU035,Divya Rao,2025-01-05,9,Needs help with time management.
+PERF000032,STU001,Meera Verma,2025-01-12,10,Should practice more at home.
+PERF000033,STU002,Deepak Iyer,2025-01-12,10,Making steady progress in all subjects.
+PERF000034,STU004,Nikhil Saxena,2025-01-12,9,Creative and shows good problem-solving skills.
+PERF000035,STU005,Abhishek Joshi,2025-01-12,10,Very attentive and asks good questions.
+PERF000036,STU006,Arjun Saxena,2025-01-12,9,Attendance needs improvement.
+PERF000037,STU007,Manish Mehta,2025-01-12,10,Very active and participates well in class.
+PERF000038,STU008,Aishwarya Joshi,2025-01-12,8,Shows enthusiasm for learning.
+PERF000039,STU009,Amit Bansal,2025-01-12,8,Requires additional support in reading.
+PERF000040,STU010,Sakshi Mehta,2025-01-12,10,Needs more practice with homework assignments.
+PERF000041,STU011,Neha Mishra,2025-01-12,9,Making steady progress in all subjects.
+PERF000042,STU012,Sneha Mehta,2025-01-12,7,Should practice more at home.
+PERF000043,STU013,Sagar Rao,2025-01-12,8,Making steady progress in all subjects.
+PERF000044,STU014,Anjali Tiwari,2025-01-12,9,Requires additional support in reading.
+PERF000045,STU015,Ananya Verma,2025-01-12,9,Should focus more on reading skills.
+PERF000046,STU016,Abhishek Reddy,2025-01-12,7,Very active and participates well in class.
+PERF000047,STU017,Tanvi Nair,2025-01-12,7,Needs more practice with homework assignments.
+PERF000048,STU018,Kritika Patel,2025-01-12,10,Making steady progress in all subjects.
+PERF000049,STU019,Pooja Mehta,2025-01-12,9,Making steady progress in all subjects.
+PERF000050,STU020,Ravi Sharma,2025-01-12,10,Should focus more on reading skills.
+PERF000051,STU021,Aishwarya Bansal,2025-01-12,10,Shows enthusiasm for learning.
+PERF000052,STU022,Meera Sharma,2025-01-12,9,Requires additional support in reading.
+PERF000053,STU023,Amit Kumar,2025-01-12,10,Shows enthusiasm for learning.
+PERF000054,STU024,Manish Joshi,2025-01-12,8,Very active and participates well in class.
+PERF000055,STU025,Sakshi Mishra,2025-01-12,9,Needs extra attention in mathematics.
+PERF000056,STU026,Harsh Arora,2025-01-12,9,Should focus more on reading skills.
+PERF000057,STU027,Aishwarya Arora,2025-01-12,10,Very attentive and asks good questions.
+PERF000058,STU028,Jyoti Saxena,2025-01-12,7,Excellent performance this week!
+PERF000059,STU029,Pooja Joshi,2025-01-12,9,Very active and participates well in class.
+PERF000060,STU030,Rahul Goyal,2025-01-12,10,Very attentive and asks good questions.
+PERF000061,STU031,Swati Bansal,2025-01-12,9,Very active and participates well in class.
+PERF000062,STU033,Arjun Patel,2025-01-12,9,Needs extra attention in mathematics.
+PERF000063,STU034,Sagar Mishra,2025-01-12,10,Requires additional support in reading.
+PERF000064,STU035,Divya Rao,2025-01-12,9,Excellent performance this week!
+PERF000065,STU001,Meera Verma,2025-01-19,8,Requires additional support in reading.
+PERF000066,STU002,Deepak Iyer,2025-01-19,10,Creative and shows good problem-solving skills.
+PERF000067,STU003,Rohit Kapoor,2025-01-19,8,Good teamwork skills demonstrated.
+PERF000068,STU004,Nikhil Saxena,2025-01-19,10,Requires additional support in reading.
+PERF000069,STU005,Abhishek Joshi,2025-01-19,9,Creative and shows good problem-solving skills.
+PERF000070,STU006,Arjun Saxena,2025-01-19,9,Needs help with time management.
+PERF000071,STU008,Aishwarya Joshi,2025-01-19,8,Shows enthusiasm for learning.
+PERF000072,STU009,Amit Bansal,2025-01-19,8,Attendance needs improvement.
+PERF000073,STU010,Sakshi Mehta,2025-01-19,8,Needs more practice with homework assignments.
+PERF000074,STU011,Neha Mishra,2025-01-19,10,Should practice more at home.
+PERF000075,STU012,Sneha Mehta,2025-01-19,9,Shows enthusiasm for learning.
+PERF000076,STU013,Sagar Rao,2025-01-19,7,Should practice more at home.
+PERF000077,STU014,Anjali Tiwari,2025-01-19,7,Attendance needs improvement.
+PERF000078,STU015,Ananya Verma,2025-01-19,7,Requires additional support in reading.
+PERF000079,STU016,Abhishek Reddy,2025-01-19,9,Shows enthusiasm for learning.
+PERF000080,STU017,Tanvi Nair,2025-01-19,9,Needs help with time management.
+PERF000081,STU018,Kritika Patel,2025-01-19,8,Needs more practice with homework assignments.
+PERF000082,STU019,Pooja Mehta,2025-01-19,9,Needs extra attention in mathematics.
+PERF000083,STU020,Ravi Sharma,2025-01-19,9,Requires additional support in reading.
+PERF000084,STU021,Aishwarya Bansal,2025-01-19,10,Attendance needs improvement.
+PERF000085,STU022,Meera Sharma,2025-01-19,8,Very active and participates well in class.
+PERF000086,STU023,Amit Kumar,2025-01-19,9,Should practice more at home.
+PERF000087,STU024,Manish Joshi,2025-01-19,7,Attendance needs improvement.
+PERF000088,STU025,Sakshi Mishra,2025-01-19,7,Creative and shows good problem-solving skills.
+PERF000089,STU026,Harsh Arora,2025-01-19,7,Needs help with time management.
+PERF000090,STU027,Aishwarya Arora,2025-01-19,7,Shows enthusiasm for learning.
+PERF000091,STU028,Jyoti Saxena,2025-01-19,8,Making steady progress in all subjects.
+PERF000092,STU029,Pooja Joshi,2025-01-19,7,Shows enthusiasm for learning.
+PERF000093,STU030,Rahul Goyal,2025-01-19,10,Needs more practice with homework assignments.
+PERF000094,STU031,Swati Bansal,2025-01-19,8,Needs more practice with homework assignments.
+PERF000095,STU032,Aditya Rao,2025-01-19,9,Requires additional support in reading.
+PERF000096,STU033,Arjun Patel,2025-01-19,8,Making steady progress in all subjects.
+PERF000097,STU034,Sagar Mishra,2025-01-19,8,Very attentive and asks good questions.
+PERF000098,STU035,Divya Rao,2025-01-19,8,Shows great improvement in understanding concepts.
+PERF000099,STU001,Meera Verma,2025-01-26,10,Excellent performance this week!
+PERF000100,STU002,Deepak Iyer,2025-01-26,9,Shows enthusiasm for learning.
+PERF000101,STU003,Rohit Kapoor,2025-01-26,8,Very attentive and asks good questions.
+PERF000102,STU004,Nikhil Saxena,2025-01-26,8,Should focus more on reading skills.
+PERF000103,STU005,Abhishek Joshi,2025-01-26,7,Needs extra attention in mathematics.
+PERF000104,STU006,Arjun Saxena,2025-01-26,8,Should focus more on reading skills.
+PERF000105,STU009,Amit Bansal,2025-01-26,7,Very active and participates well in class.
+PERF000106,STU010,Sakshi Mehta,2025-01-26,9,Requires additional support in reading.
+PERF000107,STU011,Neha Mishra,2025-01-26,7,Needs more practice with homework assignments.
+PERF000108,STU013,Sagar Rao,2025-01-26,8,Needs more practice with homework assignments.
+PERF000109,STU015,Ananya Verma,2025-01-26,8,Requires additional support in reading.
+PERF000110,STU016,Abhishek Reddy,2025-01-26,8,Attendance needs improvement.
+PERF000111,STU017,Tanvi Nair,2025-01-26,10,Needs more practice with homework assignments.
+PERF000112,STU019,Pooja Mehta,2025-01-26,8,Needs extra attention in mathematics.
+PERF000113,STU020,Ravi Sharma,2025-01-26,10,Attendance needs improvement.
+PERF000114,STU021,Aishwarya Bansal,2025-01-26,8,Attendance needs improvement.
+PERF000115,STU022,Meera Sharma,2025-01-26,10,Excellent performance this week!
+PERF000116,STU023,Amit Kumar,2025-01-26,7,Making steady progress in all subjects.
+PERF000117,STU024,Manish Joshi,2025-01-26,7,Creative and shows good problem-solving skills.
+PERF000118,STU025,Sakshi Mishra,2025-01-26,10,Very attentive and asks good questions.
+PERF000119,STU026,Harsh Arora,2025-01-26,9,Good teamwork skills demonstrated.
+PERF000120,STU027,Aishwarya Arora,2025-01-26,10,Very attentive and asks good questions.
+PERF000121,STU028,Jyoti Saxena,2025-01-26,9,Shows enthusiasm for learning.
+PERF000122,STU029,Pooja Joshi,2025-01-26,10,Should practice more at home.
+PERF000123,STU030,Rahul Goyal,2025-01-26,8,Excellent performance this week!
+PERF000124,STU032,Aditya Rao,2025-01-26,7,Shows enthusiasm for learning.
+PERF000125,STU033,Arjun Patel,2025-01-26,7,Good teamwork skills demonstrated.
+PERF000126,STU034,Sagar Mishra,2025-01-26,7,Requires additional support in reading.
+PERF000127,STU035,Divya Rao,2025-01-26,10,Requires additional support in reading.
+PERF000128,STU001,Meera Verma,2025-02-02,8,Shows great improvement in understanding concepts.
+PERF000129,STU002,Deepak Iyer,2025-02-02,10,Excellent performance this week!
+PERF000130,STU003,Rohit Kapoor,2025-02-02,8,Good teamwork skills demonstrated.
+PERF000131,STU004,Nikhil Saxena,2025-02-02,10,Needs more practice with homework assignments.
+PERF000132,STU005,Abhishek Joshi,2025-02-02,10,Very attentive and asks good questions.
+PERF000133,STU006,Arjun Saxena,2025-02-02,9,Requires additional support in reading.
+PERF000134,STU007,Manish Mehta,2025-02-02,9,Making steady progress in all subjects.
+PERF000135,STU008,Aishwarya Joshi,2025-02-02,8,Good teamwork skills demonstrated.
+PERF000136,STU009,Amit Bansal,2025-02-02,7,Shows great improvement in understanding concepts.
+PERF000137,STU010,Sakshi Mehta,2025-02-02,10,Very attentive and asks good questions.
+PERF000138,STU011,Neha Mishra,2025-02-02,8,Shows great improvement in understanding concepts.
+PERF000139,STU012,Sneha Mehta,2025-02-02,7,Very active and participates well in class.
+PERF000140,STU013,Sagar Rao,2025-02-02,7,Very attentive and asks good questions.
+PERF000141,STU014,Anjali Tiwari,2025-02-02,8,Should practice more at home.
+PERF000142,STU015,Ananya Verma,2025-02-02,8,Making steady progress in all subjects.
+PERF000143,STU016,Abhishek Reddy,2025-02-02,7,Good teamwork skills demonstrated.
+PERF000144,STU017,Tanvi Nair,2025-02-02,7,Should focus more on reading skills.
+PERF000145,STU018,Kritika Patel,2025-02-02,7,Excellent performance this week!
+PERF000146,STU019,Pooja Mehta,2025-02-02,8,Shows great improvement in understanding concepts.
+PERF000147,STU020,Ravi Sharma,2025-02-02,9,Shows enthusiasm for learning.
+PERF000148,STU021,Aishwarya Bansal,2025-02-02,9,Very active and participates well in class.
+PERF000149,STU022,Meera Sharma,2025-02-02,7,Shows great improvement in understanding concepts.
+PERF000150,STU023,Amit Kumar,2025-02-02,8,Needs extra attention in mathematics.
+PERF000151,STU024,Manish Joshi,2025-02-02,7,Excellent performance this week!
+PERF000152,STU026,Harsh Arora,2025-02-02,10,Very active and participates well in class.
+PERF000153,STU027,Aishwarya Arora,2025-02-02,7,Attendance needs improvement.
+PERF000154,STU028,Jyoti Saxena,2025-02-02,8,Making steady progress in all subjects.
+PERF000155,STU029,Pooja Joshi,2025-02-02,10,Good teamwork skills demonstrated.
+PERF000156,STU030,Rahul Goyal,2025-02-02,10,Should practice more at home.
+PERF000157,STU031,Swati Bansal,2025-02-02,9,Attendance needs improvement.
+PERF000158,STU032,Aditya Rao,2025-02-02,8,Good teamwork skills demonstrated.
+PERF000159,STU033,Arjun Patel,2025-02-02,7,Needs more practice with homework assignments.
+PERF000160,STU034,Sagar Mishra,2025-02-02,7,Making steady progress in all subjects.
+PERF000161,STU035,Divya Rao,2025-02-02,7,Creative and shows good problem-solving skills.
+PERF000162,STU001,Meera Verma,2025-02-09,9,Very attentive and asks good questions.
+PERF000163,STU002,Deepak Iyer,2025-02-09,9,Making steady progress in all subjects.
+PERF000164,STU003,Rohit Kapoor,2025-02-09,9,Creative and shows good problem-solving skills.
+PERF000165,STU004,Nikhil Saxena,2025-02-09,8,Needs more practice with homework assignments.
+PERF000166,STU005,Abhishek Joshi,2025-02-09,7,Should focus more on reading skills.
+PERF000167,STU006,Arjun Saxena,2025-02-09,7,Making steady progress in all subjects.
+PERF000168,STU008,Aishwarya Joshi,2025-02-09,8,Requires additional support in reading.
+PERF000169,STU009,Amit Bansal,2025-02-09,8,Needs help with time management.
+PERF000170,STU010,Sakshi Mehta,2025-02-09,10,Requires additional support in reading.
+PERF000171,STU011,Neha Mishra,2025-02-09,9,Attendance needs improvement.
+PERF000172,STU012,Sneha Mehta,2025-02-09,10,Very attentive and asks good questions.
+PERF000173,STU013,Sagar Rao,2025-02-09,7,Needs help with time management.
+PERF000174,STU014,Anjali Tiwari,2025-02-09,8,Shows enthusiasm for learning.
+PERF000175,STU015,Ananya Verma,2025-02-09,10,Shows great improvement in understanding concepts.
+PERF000176,STU016,Abhishek Reddy,2025-02-09,8,Needs extra attention in mathematics.
+PERF000177,STU018,Kritika Patel,2025-02-09,10,Good teamwork skills demonstrated.
+PERF000178,STU019,Pooja Mehta,2025-02-09,10,Needs extra attention in mathematics.
+PERF000179,STU020,Ravi Sharma,2025-02-09,10,Should practice more at home.
+PERF000180,STU021,Aishwarya Bansal,2025-02-09,7,Very attentive and asks good questions.
+PERF000181,STU022,Meera Sharma,2025-02-09,10,Should focus more on reading skills.
+PERF000182,STU023,Amit Kumar,2025-02-09,10,Shows great improvement in understanding concepts.
+PERF000183,STU024,Manish Joshi,2025-02-09,10,Needs more practice with homework assignments.
+PERF000184,STU025,Sakshi Mishra,2025-02-09,9,Needs extra attention in mathematics.
+PERF000185,STU026,Harsh Arora,2025-02-09,9,Creative and shows good problem-solving skills.
+PERF000186,STU027,Aishwarya Arora,2025-02-09,10,Needs more practice with homework assignments.
+PERF000187,STU028,Jyoti Saxena,2025-02-09,8,Creative and shows good problem-solving skills.
+PERF000188,STU029,Pooja Joshi,2025-02-09,7,Shows enthusiasm for learning.
+PERF000189,STU030,Rahul Goyal,2025-02-09,8,Very active and participates well in class.
+PERF000190,STU031,Swati Bansal,2025-02-09,7,Shows enthusiasm for learning.
+PERF000191,STU032,Aditya Rao,2025-02-09,7,Should practice more at home.
+PERF000192,STU034,Sagar Mishra,2025-02-09,7,Creative and shows good problem-solving skills.
+PERF000193,STU035,Divya Rao,2025-02-09,10,Excellent performance this week!
+PERF000194,STU001,Meera Verma,2025-02-16,7,Good teamwork skills demonstrated.
+PERF000195,STU002,Deepak Iyer,2025-02-16,10,Needs help with time management.
+PERF000196,STU003,Rohit Kapoor,2025-02-16,8,Making steady progress in all subjects.
+PERF000197,STU004,Nikhil Saxena,2025-02-16,10,Very active and participates well in class.
+PERF000198,STU005,Abhishek Joshi,2025-02-16,10,Should practice more at home.
+PERF000199,STU006,Arjun Saxena,2025-02-16,7,Creative and shows good problem-solving skills.
+PERF000200,STU007,Manish Mehta,2025-02-16,7,Needs extra attention in mathematics.
+PERF000201,STU008,Aishwarya Joshi,2025-02-16,9,Should focus more on reading skills.
+PERF000202,STU009,Amit Bansal,2025-02-16,8,Excellent performance this week!
+PERF000203,STU010,Sakshi Mehta,2025-02-16,10,Needs more practice with homework assignments.
+PERF000204,STU011,Neha Mishra,2025-02-16,9,Creative and shows good problem-solving skills.
+PERF000205,STU012,Sneha Mehta,2025-02-16,9,Very attentive and asks good questions.
+PERF000206,STU013,Sagar Rao,2025-02-16,10,Very attentive and asks good questions.
+PERF000207,STU014,Anjali Tiwari,2025-02-16,7,Very attentive and asks good questions.
+PERF000208,STU015,Ananya Verma,2025-02-16,10,Good teamwork skills demonstrated.
+PERF000209,STU016,Abhishek Reddy,2025-02-16,8,Creative and shows good problem-solving skills.
+PERF000210,STU017,Tanvi Nair,2025-02-16,10,Shows enthusiasm for learning.
+PERF000211,STU018,Kritika Patel,2025-02-16,9,Should focus more on reading skills.
+PERF000212,STU020,Ravi Sharma,2025-02-16,8,Shows great improvement in understanding concepts.
+PERF000213,STU021,Aishwarya Bansal,2025-02-16,10,Good teamwork skills demonstrated.
+PERF000214,STU022,Meera Sharma,2025-02-16,8,Excellent performance this week!
+PERF000215,STU023,Amit Kumar,2025-02-16,8,Attendance needs improvement.
+PERF000216,STU024,Manish Joshi,2025-02-16,7,Should focus more on reading skills.
+PERF000217,STU026,Harsh Arora,2025-02-16,8,Very attentive and asks good questions.
+PERF000218,STU027,Aishwarya Arora,2025-02-16,10,Should practice more at home.
+PERF000219,STU028,Jyoti Saxena,2025-02-16,10,Very attentive and asks good questions.
+PERF000220,STU029,Pooja Joshi,2025-02-16,9,Making steady progress in all subjects.
+PERF000221,STU030,Rahul Goyal,2025-02-16,10,Should focus more on reading skills.
+PERF000222,STU031,Swati Bansal,2025-02-16,9,Shows great improvement in understanding concepts.
+PERF000223,STU032,Aditya Rao,2025-02-16,7,Needs extra attention in mathematics.
+PERF000224,STU033,Arjun Patel,2025-02-16,9,Creative and shows good problem-solving skills.
+PERF000225,STU034,Sagar Mishra,2025-02-16,9,Requires additional support in reading.
+PERF000226,STU035,Divya Rao,2025-02-16,8,Very attentive and asks good questions.
+PERF000227,STU001,Meera Verma,2025-02-23,7,Excellent performance this week!
+PERF000228,STU003,Rohit Kapoor,2025-02-23,8,Good teamwork skills demonstrated.
+PERF000229,STU004,Nikhil Saxena,2025-02-23,8,Should focus more on reading skills.
+PERF000230,STU005,Abhishek Joshi,2025-02-23,7,Good teamwork skills demonstrated.
+PERF000231,STU006,Arjun Saxena,2025-02-23,8,Requires additional support in reading.
+PERF000232,STU008,Aishwarya Joshi,2025-02-23,10,Should practice more at home.
+PERF000233,STU009,Amit Bansal,2025-02-23,8,Very attentive and asks good questions.
+PERF000234,STU010,Sakshi Mehta,2025-02-23,8,Very active and participates well in class.
+PERF000235,STU011,Neha Mishra,2025-02-23,7,Needs more practice with homework assignments.
+PERF000236,STU012,Sneha Mehta,2025-02-23,10,Should practice more at home.
+PERF000237,STU013,Sagar Rao,2025-02-23,9,Excellent performance this week!
+PERF000238,STU014,Anjali Tiwari,2025-02-23,7,Excellent performance this week!
+PERF000239,STU015,Ananya Verma,2025-02-23,9,Should practice more at home.
+PERF000240,STU017,Tanvi Nair,2025-02-23,10,Very active and participates well in class.
+PERF000241,STU018,Kritika Patel,2025-02-23,8,Very active and participates well in class.
+PERF000242,STU019,Pooja Mehta,2025-02-23,7,Shows great improvement in understanding concepts.
+PERF000243,STU020,Ravi Sharma,2025-02-23,9,Attendance needs improvement.
+PERF000244,STU022,Meera Sharma,2025-02-23,10,Making steady progress in all subjects.
+PERF000245,STU024,Manish Joshi,2025-02-23,7,Requires additional support in reading.
+PERF000246,STU025,Sakshi Mishra,2025-02-23,10,Very active and participates well in class.
+PERF000247,STU026,Harsh Arora,2025-02-23,7,Should focus more on reading skills.
+PERF000248,STU027,Aishwarya Arora,2025-02-23,7,Needs help with time management.
+PERF000249,STU028,Jyoti Saxena,2025-02-23,7,Good teamwork skills demonstrated.
+PERF000250,STU030,Rahul Goyal,2025-02-23,9,Requires additional support in reading.
+PERF000251,STU032,Aditya Rao,2025-02-23,7,Creative and shows good problem-solving skills.
+PERF000252,STU033,Arjun Patel,2025-02-23,9,Should focus more on reading skills.
+PERF000253,STU034,Sagar Mishra,2025-02-23,7,Good teamwork skills demonstrated.
+PERF000254,STU035,Divya Rao,2025-02-23,9,Making steady progress in all subjects.
+PERF000255,STU001,Meera Verma,2025-03-02,9,Good teamwork skills demonstrated.
+PERF000256,STU002,Deepak Iyer,2025-03-02,10,Good teamwork skills demonstrated.
+PERF000257,STU003,Rohit Kapoor,2025-03-02,7,Needs more practice with homework assignments.
+PERF000258,STU004,Nikhil Saxena,2025-03-02,10,Good teamwork skills demonstrated.
+PERF000259,STU005,Abhishek Joshi,2025-03-02,7,Should practice more at home.
+PERF000260,STU006,Arjun Saxena,2025-03-02,8,Very attentive and asks good questions.
+PERF000261,STU007,Manish Mehta,2025-03-02,7,Needs extra attention in mathematics.
+PERF000262,STU008,Aishwarya Joshi,2025-03-02,8,Should practice more at home.
+PERF000263,STU009,Amit Bansal,2025-03-02,9,Needs help with time management.
+PERF000264,STU010,Sakshi Mehta,2025-03-02,7,Shows enthusiasm for learning.
+PERF000265,STU011,Neha Mishra,2025-03-02,8,Excellent performance this week!
+PERF000266,STU012,Sneha Mehta,2025-03-02,8,Very attentive and asks good questions.
+PERF000267,STU013,Sagar Rao,2025-03-02,9,Good teamwork skills demonstrated.
+PERF000268,STU014,Anjali Tiwari,2025-03-02,9,Needs more practice with homework assignments.
+PERF000269,STU015,Ananya Verma,2025-03-02,9,Excellent performance this week!
+PERF000270,STU016,Abhishek Reddy,2025-03-02,7,Needs extra attention in mathematics.
+PERF000271,STU017,Tanvi Nair,2025-03-02,9,Should practice more at home.
+PERF000272,STU018,Kritika Patel,2025-03-02,7,Excellent performance this week!
+PERF000273,STU019,Pooja Mehta,2025-03-02,7,Very active and participates well in class.
+PERF000274,STU020,Ravi Sharma,2025-03-02,7,Needs extra attention in mathematics.
+PERF000275,STU021,Aishwarya Bansal,2025-03-02,7,Needs help with time management.
+PERF000276,STU022,Meera Sharma,2025-03-02,10,Good teamwork skills demonstrated.
+PERF000277,STU023,Amit Kumar,2025-03-02,7,Needs extra attention in mathematics.
+PERF000278,STU025,Sakshi Mishra,2025-03-02,9,Very attentive and asks good questions.
+PERF000279,STU026,Harsh Arora,2025-03-02,8,Making steady progress in all subjects.
+PERF000280,STU027,Aishwarya Arora,2025-03-02,7,Very active and participates well in class.
+PERF000281,STU029,Pooja Joshi,2025-03-02,10,Attendance needs improvement.
+PERF000282,STU030,Rahul Goyal,2025-03-02,10,Shows enthusiasm for learning.
+PERF000283,STU031,Swati Bansal,2025-03-02,7,Attendance needs improvement.
+PERF000284,STU032,Aditya Rao,2025-03-02,9,Should practice more at home.
+PERF000285,STU033,Arjun Patel,2025-03-02,9,Shows enthusiasm for learning.
+PERF000286,STU034,Sagar Mishra,2025-03-02,9,Very attentive and asks good questions.
+PERF000287,STU035,Divya Rao,2025-03-02,7,Needs more practice with homework assignments.
+PERF000288,STU001,Meera Verma,2025-03-09,8,Excellent performance this week!
+PERF000289,STU002,Deepak Iyer,2025-03-09,10,Should focus more on reading skills.
+PERF000290,STU003,Rohit Kapoor,2025-03-09,9,Needs more practice with homework assignments.
+PERF000291,STU004,Nikhil Saxena,2025-03-09,7,Shows enthusiasm for learning.
+PERF000292,STU005,Abhishek Joshi,2025-03-09,10,Needs help with time management.
+PERF000293,STU006,Arjun Saxena,2025-03-09,8,Needs more practice with homework assignments.
+PERF000294,STU007,Manish Mehta,2025-03-09,9,Attendance needs improvement.
+PERF000295,STU008,Aishwarya Joshi,2025-03-09,8,Good teamwork skills demonstrated.
+PERF000296,STU009,Amit Bansal,2025-03-09,9,Shows enthusiasm for learning.
+PERF000297,STU010,Sakshi Mehta,2025-03-09,9,Very active and participates well in class.
+PERF000298,STU011,Neha Mishra,2025-03-09,8,Very active and participates well in class.
+PERF000299,STU012,Sneha Mehta,2025-03-09,10,Shows enthusiasm for learning.
+PERF000300,STU013,Sagar Rao,2025-03-09,9,Making steady progress in all subjects.
+PERF000301,STU014,Anjali Tiwari,2025-03-09,8,Creative and shows good problem-solving skills.
+PERF000302,STU015,Ananya Verma,2025-03-09,7,Needs extra attention in mathematics.
+PERF000303,STU016,Abhishek Reddy,2025-03-09,9,Should focus more on reading skills.
+PERF000304,STU017,Tanvi Nair,2025-03-09,9,Attendance needs improvement.
+PERF000305,STU018,Kritika Patel,2025-03-09,9,Very attentive and asks good questions.
+PERF000306,STU019,Pooja Mehta,2025-03-09,7,Excellent performance this week!
+PERF000307,STU020,Ravi Sharma,2025-03-09,10,Making steady progress in all subjects.
+PERF000308,STU021,Aishwarya Bansal,2025-03-09,10,Good teamwork skills demonstrated.
+PERF000309,STU022,Meera Sharma,2025-03-09,9,Creative and shows good problem-solving skills.
+PERF000310,STU023,Amit Kumar,2025-03-09,9,Should focus more on reading skills.
+PERF000311,STU025,Sakshi Mishra,2025-03-09,8,Needs help with time management.
+PERF000312,STU026,Harsh Arora,2025-03-09,9,Shows great improvement in understanding concepts.
+PERF000313,STU027,Aishwarya Arora,2025-03-09,10,Shows great improvement in understanding concepts.
+PERF000314,STU028,Jyoti Saxena,2025-03-09,10,Needs help with time management.
+PERF000315,STU029,Pooja Joshi,2025-03-09,8,Needs help with time management.
+PERF000316,STU030,Rahul Goyal,2025-03-09,7,Requires additional support in reading.
+PERF000317,STU031,Swati Bansal,2025-03-09,7,Requires additional support in reading.
+PERF000318,STU032,Aditya Rao,2025-03-09,9,Making steady progress in all subjects.
+PERF000319,STU033,Arjun Patel,2025-03-09,9,Requires additional support in reading.
+PERF000320,STU034,Sagar Mishra,2025-03-09,10,Making steady progress in all subjects.
+PERF000321,STU035,Divya Rao,2025-03-09,8,Needs more practice with homework assignments.
+PERF000322,STU001,Meera Verma,2025-03-16,7,Shows great improvement in understanding concepts.
+PERF000323,STU002,Deepak Iyer,2025-03-16,9,Shows enthusiasm for learning.
+PERF000324,STU003,Rohit Kapoor,2025-03-16,9,Should focus more on reading skills.
+PERF000325,STU004,Nikhil Saxena,2025-03-16,7,Attendance needs improvement.
+PERF000326,STU005,Abhishek Joshi,2025-03-16,8,Making steady progress in all subjects.
+PERF000327,STU006,Arjun Saxena,2025-03-16,7,Making steady progress in all subjects.
+PERF000328,STU007,Manish Mehta,2025-03-16,10,Shows enthusiasm for learning.
+PERF000329,STU008,Aishwarya Joshi,2025-03-16,10,Should practice more at home.
+PERF000330,STU009,Amit Bansal,2025-03-16,10,Good teamwork skills demonstrated.
+PERF000331,STU010,Sakshi Mehta,2025-03-16,8,Needs extra attention in mathematics.
+PERF000332,STU011,Neha Mishra,2025-03-16,9,Should practice more at home.
+PERF000333,STU012,Sneha Mehta,2025-03-16,9,Should practice more at home.
+PERF000334,STU013,Sagar Rao,2025-03-16,9,Excellent performance this week!
+PERF000335,STU014,Anjali Tiwari,2025-03-16,8,Should practice more at home.
+PERF000336,STU015,Ananya Verma,2025-03-16,9,Attendance needs improvement.
+PERF000337,STU016,Abhishek Reddy,2025-03-16,7,Attendance needs improvement.
+PERF000338,STU017,Tanvi Nair,2025-03-16,8,Shows enthusiasm for learning.
+PERF000339,STU018,Kritika Patel,2025-03-16,9,Requires additional support in reading.
+PERF000340,STU019,Pooja Mehta,2025-03-16,7,Attendance needs improvement.
+PERF000341,STU020,Ravi Sharma,2025-03-16,8,Requires additional support in reading.
+PERF000342,STU021,Aishwarya Bansal,2025-03-16,9,Attendance needs improvement.
+PERF000343,STU022,Meera Sharma,2025-03-16,10,Requires additional support in reading.
+PERF000344,STU023,Amit Kumar,2025-03-16,7,Shows enthusiasm for learning.
+PERF000345,STU025,Sakshi Mishra,2025-03-16,9,Shows great improvement in understanding concepts.
+PERF000346,STU027,Aishwarya Arora,2025-03-16,8,Very attentive and asks good questions.
+PERF000347,STU028,Jyoti Saxena,2025-03-16,10,Needs more practice with homework assignments.
+PERF000348,STU029,Pooja Joshi,2025-03-16,10,Needs more practice with homework assignments.
+PERF000349,STU032,Aditya Rao,2025-03-16,7,Creative and shows good problem-solving skills.
+PERF000350,STU033,Arjun Patel,2025-03-16,9,Attendance needs improvement.
+PERF000351,STU034,Sagar Mishra,2025-03-16,10,Should focus more on reading skills.
+PERF000352,STU035,Divya Rao,2025-03-16,8,Needs help with time management.
+PERF000353,STU001,Meera Verma,2025-03-23,9,Creative and shows good problem-solving skills.
+PERF000354,STU002,Deepak Iyer,2025-03-23,8,Needs more practice with homework assignments.
+PERF000355,STU003,Rohit Kapoor,2025-03-23,9,Needs more practice with homework assignments.
+PERF000356,STU005,Abhishek Joshi,2025-03-23,10,Should practice more at home.
+PERF000357,STU006,Arjun Saxena,2025-03-23,7,Needs extra attention in mathematics.
+PERF000358,STU008,Aishwarya Joshi,2025-03-23,7,Very attentive and asks good questions.
+PERF000359,STU009,Amit Bansal,2025-03-23,8,Requires additional support in reading.
+PERF000360,STU011,Neha Mishra,2025-03-23,9,Needs more practice with homework assignments.
+PERF000361,STU012,Sneha Mehta,2025-03-23,10,Excellent performance this week!
+PERF000362,STU013,Sagar Rao,2025-03-23,9,Attendance needs improvement.
+PERF000363,STU015,Ananya Verma,2025-03-23,8,Good teamwork skills demonstrated.
+PERF000364,STU016,Abhishek Reddy,2025-03-23,10,Needs help with time management.
+PERF000365,STU017,Tanvi Nair,2025-03-23,9,Very attentive and asks good questions.
+PERF000366,STU019,Pooja Mehta,2025-03-23,9,Requires additional support in reading.
+PERF000367,STU020,Ravi Sharma,2025-03-23,8,Shows enthusiasm for learning.
+PERF000368,STU021,Aishwarya Bansal,2025-03-23,9,Attendance needs improvement.
+PERF000369,STU022,Meera Sharma,2025-03-23,10,Needs help with time management.
+PERF000370,STU023,Amit Kumar,2025-03-23,10,Excellent performance this week!
+PERF000371,STU024,Manish Joshi,2025-03-23,7,Making steady progress in all subjects.
+PERF000372,STU025,Sakshi Mishra,2025-03-23,9,Excellent performance this week!
+PERF000373,STU026,Harsh Arora,2025-03-23,9,Needs help with time management.
+PERF000374,STU027,Aishwarya Arora,2025-03-23,9,Should practice more at home.
+PERF000375,STU028,Jyoti Saxena,2025-03-23,7,Very active and participates well in class.
+PERF000376,STU030,Rahul Goyal,2025-03-23,8,Very attentive and asks good questions.
+PERF000377,STU031,Swati Bansal,2025-03-23,7,Should focus more on reading skills.
+PERF000378,STU032,Aditya Rao,2025-03-23,7,Shows enthusiasm for learning.
+PERF000379,STU033,Arjun Patel,2025-03-23,10,Excellent performance this week!
+PERF000380,STU034,Sagar Mishra,2025-03-23,10,Making steady progress in all subjects.
+PERF000381,STU035,Divya Rao,2025-03-23,7,Creative and shows good problem-solving skills.
+PERF000382,STU001,Meera Verma,2025-03-30,7,Very attentive and asks good questions.
+PERF000383,STU002,Deepak Iyer,2025-03-30,8,Attendance needs improvement.
+PERF000384,STU003,Rohit Kapoor,2025-03-30,9,Should focus more on reading skills.
+PERF000385,STU004,Nikhil Saxena,2025-03-30,7,Should practice more at home.
+PERF000386,STU006,Arjun Saxena,2025-03-30,7,Attendance needs improvement.
+PERF000387,STU007,Manish Mehta,2025-03-30,7,Creative and shows good problem-solving skills.
+PERF000388,STU009,Amit Bansal,2025-03-30,7,Good teamwork skills demonstrated.
+PERF000389,STU010,Sakshi Mehta,2025-03-30,9,Should practice more at home.
+PERF000390,STU011,Neha Mishra,2025-03-30,10,Needs extra attention in mathematics.
+PERF000391,STU012,Sneha Mehta,2025-03-30,7,Should focus more on reading skills.
+PERF000392,STU014,Anjali Tiwari,2025-03-30,9,Good teamwork skills demonstrated.
+PERF000393,STU015,Ananya Verma,2025-03-30,9,Requires additional support in reading.
+PERF000394,STU016,Abhishek Reddy,2025-03-30,7,Needs more practice with homework assignments.
+PERF000395,STU017,Tanvi Nair,2025-03-30,9,Very active and participates well in class.
+PERF000396,STU018,Kritika Patel,2025-03-30,8,Needs more practice with homework assignments.
+PERF000397,STU019,Pooja Mehta,2025-03-30,10,Making steady progress in all subjects.
+PERF000398,STU020,Ravi Sharma,2025-03-30,7,Needs extra attention in mathematics.
+PERF000399,STU021,Aishwarya Bansal,2025-03-30,9,Needs help with time management.
+PERF000400,STU022,Meera Sharma,2025-03-30,9,Needs help with time management.
+PERF000401,STU023,Amit Kumar,2025-03-30,7,Excellent performance this week!
+PERF000402,STU024,Manish Joshi,2025-03-30,7,Excellent performance this week!
+PERF000403,STU025,Sakshi Mishra,2025-03-30,7,Good teamwork skills demonstrated.
+PERF000404,STU026,Harsh Arora,2025-03-30,7,Attendance needs improvement.
+PERF000405,STU027,Aishwarya Arora,2025-03-30,7,Making steady progress in all subjects.
+PERF000406,STU028,Jyoti Saxena,2025-03-30,8,Good teamwork skills demonstrated.
+PERF000407,STU029,Pooja Joshi,2025-03-30,9,Should focus more on reading skills.
+PERF000408,STU030,Rahul Goyal,2025-03-30,7,Creative and shows good problem-solving skills.
+PERF000409,STU032,Aditya Rao,2025-03-30,10,Shows enthusiasm for learning.
+PERF000410,STU033,Arjun Patel,2025-03-30,10,Excellent performance this week!
+PERF000411,STU034,Sagar Mishra,2025-03-30,7,Making steady progress in all subjects.
+PERF000412,STU035,Divya Rao,2025-03-30,9,Should focus more on reading skills.
+PERF000413,STU002,Deepak Iyer,2025-04-06,10,Shows great improvement in understanding concepts.
+PERF000414,STU003,Rohit Kapoor,2025-04-06,7,Creative and shows good problem-solving skills.
+PERF000415,STU004,Nikhil Saxena,2025-04-06,7,Needs help with time management.
+PERF000416,STU005,Abhishek Joshi,2025-04-06,9,Should focus more on reading skills.
+PERF000417,STU006,Arjun Saxena,2025-04-06,7,Very attentive and asks good questions.
+PERF000418,STU007,Manish Mehta,2025-04-06,7,Excellent performance this week!
+PERF000419,STU008,Aishwarya Joshi,2025-04-06,10,Attendance needs improvement.
+PERF000420,STU009,Amit Bansal,2025-04-06,8,Very active and participates well in class.
+PERF000421,STU011,Neha Mishra,2025-04-06,10,Making steady progress in all subjects.
+PERF000422,STU012,Sneha Mehta,2025-04-06,7,Needs help with time management.
+PERF000423,STU013,Sagar Rao,2025-04-06,8,Creative and shows good problem-solving skills.
+PERF000424,STU015,Ananya Verma,2025-04-06,8,Shows great improvement in understanding concepts.
+PERF000425,STU016,Abhishek Reddy,2025-04-06,10,Needs more practice with homework assignments.
+PERF000426,STU017,Tanvi Nair,2025-04-06,7,Needs help with time management.
+PERF000427,STU018,Kritika Patel,2025-04-06,9,Needs help with time management.
+PERF000428,STU019,Pooja Mehta,2025-04-06,9,Shows great improvement in understanding concepts.
+PERF000429,STU021,Aishwarya Bansal,2025-04-06,8,Excellent performance this week!
+PERF000430,STU022,Meera Sharma,2025-04-06,7,Attendance needs improvement.
+PERF000431,STU023,Amit Kumar,2025-04-06,7,Excellent performance this week!
+PERF000432,STU024,Manish Joshi,2025-04-06,7,Needs extra attention in mathematics.
+PERF000433,STU025,Sakshi Mishra,2025-04-06,10,Good teamwork skills demonstrated.
+PERF000434,STU026,Harsh Arora,2025-04-06,10,Good teamwork skills demonstrated.
+PERF000435,STU027,Aishwarya Arora,2025-04-06,9,Excellent performance this week!
+PERF000436,STU028,Jyoti Saxena,2025-04-06,7,Very active and participates well in class.
+PERF000437,STU029,Pooja Joshi,2025-04-06,9,Shows enthusiasm for learning.
+PERF000438,STU030,Rahul Goyal,2025-04-06,7,Requires additional support in reading.
+PERF000439,STU031,Swati Bansal,2025-04-06,10,Should focus more on reading skills.
+PERF000440,STU032,Aditya Rao,2025-04-06,8,Shows great improvement in understanding concepts.
+PERF000441,STU033,Arjun Patel,2025-04-06,7,Creative and shows good problem-solving skills.
+PERF000442,STU034,Sagar Mishra,2025-04-06,8,Shows enthusiasm for learning.
+PERF000443,STU035,Divya Rao,2025-04-06,8,Needs more practice with homework assignments.
+PERF000444,STU001,Meera Verma,2025-04-13,10,Creative and shows good problem-solving skills.
+PERF000445,STU002,Deepak Iyer,2025-04-13,8,Attendance needs improvement.
+PERF000446,STU003,Rohit Kapoor,2025-04-13,10,Shows enthusiasm for learning.
+PERF000447,STU004,Nikhil Saxena,2025-04-13,8,Requires additional support in reading.
+PERF000448,STU005,Abhishek Joshi,2025-04-13,10,Shows enthusiasm for learning.
+PERF000449,STU006,Arjun Saxena,2025-04-13,9,Creative and shows good problem-solving skills.
+PERF000450,STU007,Manish Mehta,2025-04-13,10,Should practice more at home.
+PERF000451,STU008,Aishwarya Joshi,2025-04-13,10,Should focus more on reading skills.
+PERF000452,STU009,Amit Bansal,2025-04-13,10,Creative and shows good problem-solving skills.
+PERF000453,STU010,Sakshi Mehta,2025-04-13,10,Excellent performance this week!
+PERF000454,STU011,Neha Mishra,2025-04-13,8,Shows great improvement in understanding concepts.
+PERF000455,STU012,Sneha Mehta,2025-04-13,8,Should practice more at home.
+PERF000456,STU014,Anjali Tiwari,2025-04-13,9,Shows enthusiasm for learning.
+PERF000457,STU015,Ananya Verma,2025-04-13,10,Needs extra attention in mathematics.
+PERF000458,STU016,Abhishek Reddy,2025-04-13,7,Very active and participates well in class.
+PERF000459,STU018,Kritika Patel,2025-04-13,8,Creative and shows good problem-solving skills.
+PERF000460,STU019,Pooja Mehta,2025-04-13,7,Very attentive and asks good questions.
+PERF000461,STU020,Ravi Sharma,2025-04-13,9,Very attentive and asks good questions.
+PERF000462,STU021,Aishwarya Bansal,2025-04-13,9,Should focus more on reading skills.
+PERF000463,STU022,Meera Sharma,2025-04-13,10,Very active and participates well in class.
+PERF000464,STU023,Amit Kumar,2025-04-13,8,Needs extra attention in mathematics.
+PERF000465,STU024,Manish Joshi,2025-04-13,8,Shows enthusiasm for learning.
+PERF000466,STU025,Sakshi Mishra,2025-04-13,7,Very active and participates well in class.
+PERF000467,STU026,Harsh Arora,2025-04-13,7,Needs help with time management.
+PERF000468,STU027,Aishwarya Arora,2025-04-13,10,Very attentive and asks good questions.
+PERF000469,STU028,Jyoti Saxena,2025-04-13,10,Attendance needs improvement.
+PERF000470,STU030,Rahul Goyal,2025-04-13,9,Good teamwork skills demonstrated.
+PERF000471,STU031,Swati Bansal,2025-04-13,8,Requires additional support in reading.
+PERF000472,STU032,Aditya Rao,2025-04-13,10,Excellent performance this week!
+PERF000473,STU033,Arjun Patel,2025-04-13,9,Creative and shows good problem-solving skills.
+PERF000474,STU034,Sagar Mishra,2025-04-13,10,Needs help with time management.
+PERF000475,STU001,Meera Verma,2025-04-20,9,Making steady progress in all subjects.
+PERF000476,STU002,Deepak Iyer,2025-04-20,10,Should focus more on reading skills.
+PERF000477,STU003,Rohit Kapoor,2025-04-20,10,Should practice more at home.
+PERF000478,STU004,Nikhil Saxena,2025-04-20,9,Shows great improvement in understanding concepts.
+PERF000479,STU005,Abhishek Joshi,2025-04-20,7,Needs help with time management.
+PERF000480,STU006,Arjun Saxena,2025-04-20,7,Should focus more on reading skills.
+PERF000481,STU007,Manish Mehta,2025-04-20,9,Good teamwork skills demonstrated.
+PERF000482,STU008,Aishwarya Joshi,2025-04-20,9,Shows great improvement in understanding concepts.
+PERF000483,STU009,Amit Bansal,2025-04-20,9,Making steady progress in all subjects.
+PERF000484,STU010,Sakshi Mehta,2025-04-20,8,Needs extra attention in mathematics.
+PERF000485,STU011,Neha Mishra,2025-04-20,10,Good teamwork skills demonstrated.
+PERF000486,STU012,Sneha Mehta,2025-04-20,8,Requires additional support in reading.
+PERF000487,STU013,Sagar Rao,2025-04-20,10,Very active and participates well in class.
+PERF000488,STU014,Anjali Tiwari,2025-04-20,10,Shows great improvement in understanding concepts.
+PERF000489,STU015,Ananya Verma,2025-04-20,7,Should practice more at home.
+PERF000490,STU016,Abhishek Reddy,2025-04-20,8,Should focus more on reading skills.
+PERF000491,STU017,Tanvi Nair,2025-04-20,10,Shows enthusiasm for learning.
+PERF000492,STU018,Kritika Patel,2025-04-20,7,Making steady progress in all subjects.
+PERF000493,STU019,Pooja Mehta,2025-04-20,9,Creative and shows good problem-solving skills.
+PERF000494,STU020,Ravi Sharma,2025-04-20,7,Good teamwork skills demonstrated.
+PERF000495,STU021,Aishwarya Bansal,2025-04-20,7,Creative and shows good problem-solving skills.
+PERF000496,STU022,Meera Sharma,2025-04-20,9,Needs more practice with homework assignments.
+PERF000497,STU023,Amit Kumar,2025-04-20,10,Requires additional support in reading.
+PERF000498,STU026,Harsh Arora,2025-04-20,7,Needs help with time management.
+PERF000499,STU027,Aishwarya Arora,2025-04-20,10,Requires additional support in reading.
+PERF000500,STU028,Jyoti Saxena,2025-04-20,10,Needs extra attention in mathematics.
+PERF000501,STU029,Pooja Joshi,2025-04-20,8,Shows enthusiasm for learning.
+PERF000502,STU030,Rahul Goyal,2025-04-20,7,Requires additional support in reading.
+PERF000503,STU031,Swati Bansal,2025-04-20,10,Shows enthusiasm for learning.
+PERF000504,STU032,Aditya Rao,2025-04-20,10,Very active and participates well in class.
+PERF000505,STU033,Arjun Patel,2025-04-20,9,Very active and participates well in class.
+PERF000506,STU034,Sagar Mishra,2025-04-20,9,Should focus more on reading skills.
+PERF000507,STU035,Divya Rao,2025-04-20,10,Very active and participates well in class.
+PERF000508,STU001,Meera Verma,2025-04-27,8,Shows great improvement in understanding concepts.
+PERF000509,STU002,Deepak Iyer,2025-04-27,7,Should practice more at home.
+PERF000510,STU004,Nikhil Saxena,2025-04-27,9,Very attentive and asks good questions.
+PERF000511,STU005,Abhishek Joshi,2025-04-27,7,Making steady progress in all subjects.
+PERF000512,STU006,Arjun Saxena,2025-04-27,9,Good teamwork skills demonstrated.
+PERF000513,STU007,Manish Mehta,2025-04-27,7,Very active and participates well in class.
+PERF000514,STU008,Aishwarya Joshi,2025-04-27,10,Very active and participates well in class.
+PERF000515,STU009,Amit Bansal,2025-04-27,8,Very active and participates well in class.
+PERF000516,STU010,Sakshi Mehta,2025-04-27,9,Good teamwork skills demonstrated.
+PERF000517,STU011,Neha Mishra,2025-04-27,7,Needs more practice with homework assignments.
+PERF000518,STU012,Sneha Mehta,2025-04-27,9,Excellent performance this week!
+PERF000519,STU015,Ananya Verma,2025-04-27,8,Excellent performance this week!
+PERF000520,STU016,Abhishek Reddy,2025-04-27,8,Attendance needs improvement.
+PERF000521,STU017,Tanvi Nair,2025-04-27,10,Should practice more at home.
+PERF000522,STU018,Kritika Patel,2025-04-27,7,Making steady progress in all subjects.
+PERF000523,STU019,Pooja Mehta,2025-04-27,7,Shows enthusiasm for learning.
+PERF000524,STU020,Ravi Sharma,2025-04-27,7,Should focus more on reading skills.
+PERF000525,STU021,Aishwarya Bansal,2025-04-27,7,Shows enthusiasm for learning.
+PERF000526,STU022,Meera Sharma,2025-04-27,10,Excellent performance this week!
+PERF000527,STU023,Amit Kumar,2025-04-27,9,Very attentive and asks good questions.
+PERF000528,STU024,Manish Joshi,2025-04-27,10,Shows great improvement in understanding concepts.
+PERF000529,STU025,Sakshi Mishra,2025-04-27,7,Needs help with time management.
+PERF000530,STU026,Harsh Arora,2025-04-27,7,Needs more practice with homework assignments.
+PERF000531,STU027,Aishwarya Arora,2025-04-27,7,Should practice more at home.
+PERF000532,STU028,Jyoti Saxena,2025-04-27,9,Very active and participates well in class.
+PERF000533,STU030,Rahul Goyal,2025-04-27,8,Shows enthusiasm for learning.
+PERF000534,STU031,Swati Bansal,2025-04-27,10,Shows great improvement in understanding concepts.
+PERF000535,STU032,Aditya Rao,2025-04-27,8,Should practice more at home.
+PERF000536,STU033,Arjun Patel,2025-04-27,9,Creative and shows good problem-solving skills.
+PERF000537,STU034,Sagar Mishra,2025-04-27,8,Should focus more on reading skills.
+PERF000538,STU001,Meera Verma,2025-05-04,9,Attendance needs improvement.
+PERF000539,STU002,Deepak Iyer,2025-05-04,10,Creative and shows good problem-solving skills.
+PERF000540,STU003,Rohit Kapoor,2025-05-04,7,Good teamwork skills demonstrated.
+PERF000541,STU004,Nikhil Saxena,2025-05-04,8,Needs more practice with homework assignments.
+PERF000542,STU005,Abhishek Joshi,2025-05-04,9,Very active and participates well in class.
+PERF000543,STU006,Arjun Saxena,2025-05-04,9,Requires additional support in reading.
+PERF000544,STU008,Aishwarya Joshi,2025-05-04,7,Shows great improvement in understanding concepts.
+PERF000545,STU009,Amit Bansal,2025-05-04,9,Creative and shows good problem-solving skills.
+PERF000546,STU010,Sakshi Mehta,2025-05-04,7,Needs extra attention in mathematics.
+PERF000547,STU011,Neha Mishra,2025-05-04,8,Creative and shows good problem-solving skills.
+PERF000548,STU012,Sneha Mehta,2025-05-04,8,Very active and participates well in class.
+PERF000549,STU013,Sagar Rao,2025-05-04,9,Should practice more at home.
+PERF000550,STU015,Ananya Verma,2025-05-04,7,Should focus more on reading skills.
+PERF000551,STU016,Abhishek Reddy,2025-05-04,10,Attendance needs improvement.
+PERF000552,STU017,Tanvi Nair,2025-05-04,9,Creative and shows good problem-solving skills.
+PERF000553,STU018,Kritika Patel,2025-05-04,9,Shows enthusiasm for learning.
+PERF000554,STU019,Pooja Mehta,2025-05-04,7,Should focus more on reading skills.
+PERF000555,STU020,Ravi Sharma,2025-05-04,10,Should focus more on reading skills.
+PERF000556,STU021,Aishwarya Bansal,2025-05-04,7,Very active and participates well in class.
+PERF000557,STU022,Meera Sharma,2025-05-04,9,Shows enthusiasm for learning.
+PERF000558,STU023,Amit Kumar,2025-05-04,8,Good teamwork skills demonstrated.
+PERF000559,STU026,Harsh Arora,2025-05-04,7,Very attentive and asks good questions.
+PERF000560,STU027,Aishwarya Arora,2025-05-04,10,Needs extra attention in mathematics.
+PERF000561,STU028,Jyoti Saxena,2025-05-04,9,Good teamwork skills demonstrated.
+PERF000562,STU029,Pooja Joshi,2025-05-04,9,Needs extra attention in mathematics.
+PERF000563,STU030,Rahul Goyal,2025-05-04,7,Very active and participates well in class.
+PERF000564,STU031,Swati Bansal,2025-05-04,10,Needs extra attention in mathematics.
+PERF000565,STU032,Aditya Rao,2025-05-04,8,Creative and shows good problem-solving skills.
+PERF000566,STU033,Arjun Patel,2025-05-04,10,Requires additional support in reading.
+PERF000567,STU034,Sagar Mishra,2025-05-04,8,Needs help with time management.
+PERF000568,STU035,Divya Rao,2025-05-04,9,Should focus more on reading skills.
+PERF000569,STU001,Meera Verma,2025-05-11,7,Needs help with time management.
+PERF000570,STU002,Deepak Iyer,2025-05-11,8,Attendance needs improvement.
+PERF000571,STU003,Rohit Kapoor,2025-05-11,7,Very attentive and asks good questions.
+PERF000572,STU004,Nikhil Saxena,2025-05-11,8,Good teamwork skills demonstrated.
+PERF000573,STU005,Abhishek Joshi,2025-05-11,10,Shows great improvement in understanding concepts.
+PERF000574,STU007,Manish Mehta,2025-05-11,7,Making steady progress in all subjects.
+PERF000575,STU008,Aishwarya Joshi,2025-05-11,10,Creative and shows good problem-solving skills.
+PERF000576,STU009,Amit Bansal,2025-05-11,9,Making steady progress in all subjects.
+PERF000577,STU010,Sakshi Mehta,2025-05-11,9,Very active and participates well in class.
+PERF000578,STU011,Neha Mishra,2025-05-11,9,Good teamwork skills demonstrated.
+PERF000579,STU012,Sneha Mehta,2025-05-11,7,Needs help with time management.
+PERF000580,STU013,Sagar Rao,2025-05-11,8,Needs extra attention in mathematics.
+PERF000581,STU014,Anjali Tiwari,2025-05-11,7,Needs more practice with homework assignments.
+PERF000582,STU015,Ananya Verma,2025-05-11,9,Attendance needs improvement.
+PERF000583,STU018,Kritika Patel,2025-05-11,7,Shows great improvement in understanding concepts.
+PERF000584,STU019,Pooja Mehta,2025-05-11,7,Should focus more on reading skills.
+PERF000585,STU020,Ravi Sharma,2025-05-11,9,Shows enthusiasm for learning.
+PERF000586,STU021,Aishwarya Bansal,2025-05-11,10,Attendance needs improvement.
+PERF000587,STU022,Meera Sharma,2025-05-11,9,Very attentive and asks good questions.
+PERF000588,STU023,Amit Kumar,2025-05-11,8,Very active and participates well in class.
+PERF000589,STU024,Manish Joshi,2025-05-11,7,Attendance needs improvement.
+PERF000590,STU025,Sakshi Mishra,2025-05-11,9,Good teamwork skills demonstrated.
+PERF000591,STU026,Harsh Arora,2025-05-11,9,Attendance needs improvement.
+PERF000592,STU027,Aishwarya Arora,2025-05-11,8,Needs more practice with homework assignments.
+PERF000593,STU028,Jyoti Saxena,2025-05-11,9,Making steady progress in all subjects.
+PERF000594,STU029,Pooja Joshi,2025-05-11,9,Attendance needs improvement.
+PERF000595,STU030,Rahul Goyal,2025-05-11,9,Requires additional support in reading.
+PERF000596,STU031,Swati Bansal,2025-05-11,8,Good teamwork skills demonstrated.
+PERF000597,STU032,Aditya Rao,2025-05-11,7,Shows great improvement in understanding concepts.
+PERF000598,STU033,Arjun Patel,2025-05-11,7,Shows great improvement in understanding concepts.
+PERF000599,STU034,Sagar Mishra,2025-05-11,8,Should focus more on reading skills.
+PERF000600,STU035,Divya Rao,2025-05-11,10,Excellent performance this week!
+PERF000601,STU001,Meera Verma,2025-05-18,9,Needs extra attention in mathematics.
+PERF000602,STU002,Deepak Iyer,2025-05-18,8,Attendance needs improvement.
+PERF000603,STU003,Rohit Kapoor,2025-05-18,8,Very active and participates well in class.
+PERF000604,STU004,Nikhil Saxena,2025-05-18,7,Very active and participates well in class.
+PERF000605,STU005,Abhishek Joshi,2025-05-18,7,Shows great improvement in understanding concepts.
+PERF000606,STU006,Arjun Saxena,2025-05-18,9,Needs help with time management.
+PERF000607,STU007,Manish Mehta,2025-05-18,9,Attendance needs improvement.
+PERF000608,STU008,Aishwarya Joshi,2025-05-18,8,Shows enthusiasm for learning.
+PERF000609,STU009,Amit Bansal,2025-05-18,9,Needs more practice with homework assignments.
+PERF000610,STU011,Neha Mishra,2025-05-18,10,Needs help with time management.
+PERF000611,STU012,Sneha Mehta,2025-05-18,9,Excellent performance this week!
+PERF000612,STU013,Sagar Rao,2025-05-18,8,Very attentive and asks good questions.
+PERF000613,STU014,Anjali Tiwari,2025-05-18,9,Creative and shows good problem-solving skills.
+PERF000614,STU015,Ananya Verma,2025-05-18,7,Requires additional support in reading.
+PERF000615,STU016,Abhishek Reddy,2025-05-18,10,Needs help with time management.
+PERF000616,STU017,Tanvi Nair,2025-05-18,7,Requires additional support in reading.
+PERF000617,STU018,Kritika Patel,2025-05-18,9,Creative and shows good problem-solving skills.
+PERF000618,STU019,Pooja Mehta,2025-05-18,7,Should practice more at home.
+PERF000619,STU020,Ravi Sharma,2025-05-18,10,Shows great improvement in understanding concepts.
+PERF000620,STU021,Aishwarya Bansal,2025-05-18,8,Very attentive and asks good questions.
+PERF000621,STU022,Meera Sharma,2025-05-18,7,Should practice more at home.
+PERF000622,STU023,Amit Kumar,2025-05-18,7,Making steady progress in all subjects.
+PERF000623,STU024,Manish Joshi,2025-05-18,10,Needs more practice with homework assignments.
+PERF000624,STU025,Sakshi Mishra,2025-05-18,8,Excellent performance this week!
+PERF000625,STU026,Harsh Arora,2025-05-18,8,Needs help with time management.
+PERF000626,STU027,Aishwarya Arora,2025-05-18,9,Very attentive and asks good questions.
+PERF000627,STU028,Jyoti Saxena,2025-05-18,8,Needs help with time management.
+PERF000628,STU029,Pooja Joshi,2025-05-18,10,Shows enthusiasm for learning.
+PERF000629,STU030,Rahul Goyal,2025-05-18,9,Needs more practice with homework assignments.
+PERF000630,STU031,Swati Bansal,2025-05-18,9,Creative and shows good problem-solving skills.
+PERF000631,STU032,Aditya Rao,2025-05-18,7,Excellent performance this week!
+PERF000632,STU033,Arjun Patel,2025-05-18,10,Shows great improvement in understanding concepts.
+PERF000633,STU034,Sagar Mishra,2025-05-18,8,Shows enthusiasm for learning.
+PERF000634,STU035,Divya Rao,2025-05-18,8,Making steady progress in all subjects.
+PERF000635,STU001,Meera Verma,2025-05-25,9,Requires additional support in reading.
+PERF000636,STU002,Deepak Iyer,2025-05-25,7,Excellent performance this week!
+PERF000637,STU003,Rohit Kapoor,2025-05-25,9,Needs help with time management.
+PERF000638,STU004,Nikhil Saxena,2025-05-25,8,Should focus more on reading skills.
+PERF000639,STU005,Abhishek Joshi,2025-05-25,10,Very active and participates well in class.
+PERF000640,STU006,Arjun Saxena,2025-05-25,10,Creative and shows good problem-solving skills.
+PERF000641,STU008,Aishwarya Joshi,2025-05-25,7,Shows enthusiasm for learning.
+PERF000642,STU009,Amit Bansal,2025-05-25,10,Excellent performance this week!
+PERF000643,STU010,Sakshi Mehta,2025-05-25,10,Making steady progress in all subjects.
+PERF000644,STU011,Neha Mishra,2025-05-25,10,Shows great improvement in understanding concepts.
+PERF000645,STU012,Sneha Mehta,2025-05-25,10,Needs help with time management.
+PERF000646,STU013,Sagar Rao,2025-05-25,8,Good teamwork skills demonstrated.
+PERF000647,STU014,Anjali Tiwari,2025-05-25,8,Good teamwork skills demonstrated.
+PERF000648,STU016,Abhishek Reddy,2025-05-25,7,Shows great improvement in understanding concepts.
+PERF000649,STU017,Tanvi Nair,2025-05-25,8,Requires additional support in reading.
+PERF000650,STU018,Kritika Patel,2025-05-25,10,Very active and participates well in class.
+PERF000651,STU019,Pooja Mehta,2025-05-25,9,Very attentive and asks good questions.
+PERF000652,STU020,Ravi Sharma,2025-05-25,10,Excellent performance this week!
+PERF000653,STU021,Aishwarya Bansal,2025-05-25,10,Excellent performance this week!
+PERF000654,STU022,Meera Sharma,2025-05-25,9,Making steady progress in all subjects.
+PERF000655,STU024,Manish Joshi,2025-05-25,8,Shows great improvement in understanding concepts.
+PERF000656,STU025,Sakshi Mishra,2025-05-25,7,Should practice more at home.
+PERF000657,STU026,Harsh Arora,2025-05-25,10,Needs help with time management.
+PERF000658,STU027,Aishwarya Arora,2025-05-25,8,Should practice more at home.
+PERF000659,STU028,Jyoti Saxena,2025-05-25,7,Should practice more at home.
+PERF000660,STU029,Pooja Joshi,2025-05-25,9,Making steady progress in all subjects.
+PERF000661,STU030,Rahul Goyal,2025-05-25,9,Shows enthusiasm for learning.
+PERF000662,STU031,Swati Bansal,2025-05-25,7,Requires additional support in reading.
+PERF000663,STU032,Aditya Rao,2025-05-25,9,Requires additional support in reading.
+PERF000664,STU033,Arjun Patel,2025-05-25,8,Should focus more on reading skills.
+PERF000665,STU034,Sagar Mishra,2025-05-25,10,Should practice more at home.
+PERF000666,STU035,Divya Rao,2025-05-25,8,Should practice more at home.
+PERF000667,STU001,Meera Verma,2025-06-01,8,Creative and shows good problem-solving skills.
+PERF000668,STU002,Deepak Iyer,2025-06-01,9,Creative and shows good problem-solving skills.
+PERF000669,STU003,Rohit Kapoor,2025-06-01,9,Very active and participates well in class.
+PERF000670,STU004,Nikhil Saxena,2025-06-01,10,Very active and participates well in class.
+PERF000671,STU005,Abhishek Joshi,2025-06-01,7,Very attentive and asks good questions.
+PERF000672,STU006,Arjun Saxena,2025-06-01,8,Making steady progress in all subjects.
+PERF000673,STU007,Manish Mehta,2025-06-01,10,Should focus more on reading skills.
+PERF000674,STU008,Aishwarya Joshi,2025-06-01,7,Needs help with time management.
+PERF000675,STU009,Amit Bansal,2025-06-01,7,Needs extra attention in mathematics.
+PERF000676,STU010,Sakshi Mehta,2025-06-01,7,Shows great improvement in understanding concepts.
+PERF000677,STU011,Neha Mishra,2025-06-01,8,Very attentive and asks good questions.
+PERF000678,STU012,Sneha Mehta,2025-06-01,7,Needs help with time management.
+PERF000679,STU013,Sagar Rao,2025-06-01,8,Good teamwork skills demonstrated.
+PERF000680,STU014,Anjali Tiwari,2025-06-01,10,Very active and participates well in class.
+PERF000681,STU015,Ananya Verma,2025-06-01,9,Very attentive and asks good questions.
+PERF000682,STU016,Abhishek Reddy,2025-06-01,9,Should focus more on reading skills.
+PERF000683,STU017,Tanvi Nair,2025-06-01,7,Shows enthusiasm for learning.
+PERF000684,STU018,Kritika Patel,2025-06-01,8,Needs help with time management.
+PERF000685,STU019,Pooja Mehta,2025-06-01,10,Excellent performance this week!
+PERF000686,STU020,Ravi Sharma,2025-06-01,8,Requires additional support in reading.
+PERF000687,STU021,Aishwarya Bansal,2025-06-01,10,Should practice more at home.
+PERF000688,STU023,Amit Kumar,2025-06-01,8,Needs more practice with homework assignments.
+PERF000689,STU024,Manish Joshi,2025-06-01,10,Creative and shows good problem-solving skills.
+PERF000690,STU026,Harsh Arora,2025-06-01,8,Good teamwork skills demonstrated.
+PERF000691,STU027,Aishwarya Arora,2025-06-01,9,Very active and participates well in class.
+PERF000692,STU028,Jyoti Saxena,2025-06-01,10,Should focus more on reading skills.
+PERF000693,STU029,Pooja Joshi,2025-06-01,10,Attendance needs improvement.
+PERF000694,STU030,Rahul Goyal,2025-06-01,10,Needs more practice with homework assignments.
+PERF000695,STU031,Swati Bansal,2025-06-01,8,Needs help with time management.
+PERF000696,STU032,Aditya Rao,2025-06-01,8,Shows enthusiasm for learning.
+PERF000697,STU034,Sagar Mishra,2025-06-01,10,Very active and participates well in class.
+PERF000698,STU035,Divya Rao,2025-06-01,9,Making steady progress in all subjects.
+PERF000699,STU002,Deepak Iyer,2025-06-08,8,Needs extra attention in mathematics.
+PERF000700,STU003,Rohit Kapoor,2025-06-08,9,Needs extra attention in mathematics.
+PERF000701,STU004,Nikhil Saxena,2025-06-08,8,Very attentive and asks good questions.
+PERF000702,STU005,Abhishek Joshi,2025-06-08,9,Should practice more at home.
+PERF000703,STU007,Manish Mehta,2025-06-08,8,Very active and participates well in class.
+PERF000704,STU008,Aishwarya Joshi,2025-06-08,7,Making steady progress in all subjects.
+PERF000705,STU009,Amit Bansal,2025-06-08,7,Making steady progress in all subjects.
+PERF000706,STU010,Sakshi Mehta,2025-06-08,7,Needs more practice with homework assignments.
+PERF000707,STU011,Neha Mishra,2025-06-08,9,Should practice more at home.
+PERF000708,STU013,Sagar Rao,2025-06-08,7,Should practice more at home.
+PERF000709,STU014,Anjali Tiwari,2025-06-08,9,Excellent performance this week!
+PERF000710,STU015,Ananya Verma,2025-06-08,8,Excellent performance this week!
+PERF000711,STU016,Abhishek Reddy,2025-06-08,9,Very active and participates well in class.
+PERF000712,STU017,Tanvi Nair,2025-06-08,7,Should practice more at home.
+PERF000713,STU018,Kritika Patel,2025-06-08,8,Attendance needs improvement.
+PERF000714,STU020,Ravi Sharma,2025-06-08,7,Good teamwork skills demonstrated.
+PERF000715,STU021,Aishwarya Bansal,2025-06-08,7,Making steady progress in all subjects.
+PERF000716,STU022,Meera Sharma,2025-06-08,8,Should practice more at home.
+PERF000717,STU023,Amit Kumar,2025-06-08,8,Good teamwork skills demonstrated.
+PERF000718,STU024,Manish Joshi,2025-06-08,8,Needs extra attention in mathematics.
+PERF000719,STU025,Sakshi Mishra,2025-06-08,7,Making steady progress in all subjects.
+PERF000720,STU026,Harsh Arora,2025-06-08,9,Very active and participates well in class.
+PERF000721,STU027,Aishwarya Arora,2025-06-08,7,Needs more practice with homework assignments.
+PERF000722,STU029,Pooja Joshi,2025-06-08,10,Should practice more at home.
+PERF000723,STU030,Rahul Goyal,2025-06-08,7,Very active and participates well in class.
+PERF000724,STU031,Swati Bansal,2025-06-08,8,Should practice more at home.
+PERF000725,STU032,Aditya Rao,2025-06-08,10,Needs extra attention in mathematics.
+PERF000726,STU033,Arjun Patel,2025-06-08,9,Shows great improvement in understanding concepts.
+PERF000727,STU034,Sagar Mishra,2025-06-08,10,Needs help with time management.
+PERF000728,STU035,Divya Rao,2025-06-08,8,Good teamwork skills demonstrated.
+PERF000729,STU001,Meera Verma,2025-06-15,8,Should practice more at home.
+PERF000730,STU002,Deepak Iyer,2025-06-15,9,Should practice more at home.
+PERF000731,STU003,Rohit Kapoor,2025-06-15,10,Good teamwork skills demonstrated.
+PERF000732,STU004,Nikhil Saxena,2025-06-15,8,Should practice more at home.
+PERF000733,STU005,Abhishek Joshi,2025-06-15,10,Shows great improvement in understanding concepts.
+PERF000734,STU006,Arjun Saxena,2025-06-15,7,Very active and participates well in class.
+PERF000735,STU007,Manish Mehta,2025-06-15,7,Should practice more at home.
+PERF000736,STU009,Amit Bansal,2025-06-15,10,Shows great improvement in understanding concepts.
+PERF000737,STU010,Sakshi Mehta,2025-06-15,10,Should focus more on reading skills.
+PERF000738,STU012,Sneha Mehta,2025-06-15,8,Needs extra attention in mathematics.
+PERF000739,STU013,Sagar Rao,2025-06-15,8,Creative and shows good problem-solving skills.
+PERF000740,STU015,Ananya Verma,2025-06-15,10,Very attentive and asks good questions.
+PERF000741,STU016,Abhishek Reddy,2025-06-15,10,Needs extra attention in mathematics.
+PERF000742,STU017,Tanvi Nair,2025-06-15,8,Excellent performance this week!
+PERF000743,STU020,Ravi Sharma,2025-06-15,7,Making steady progress in all subjects.
+PERF000744,STU021,Aishwarya Bansal,2025-06-15,8,Excellent performance this week!
+PERF000745,STU022,Meera Sharma,2025-06-15,7,Shows great improvement in understanding concepts.
+PERF000746,STU023,Amit Kumar,2025-06-15,9,Should focus more on reading skills.
+PERF000747,STU024,Manish Joshi,2025-06-15,7,Needs extra attention in mathematics.
+PERF000748,STU025,Sakshi Mishra,2025-06-15,10,Should practice more at home.
+PERF000749,STU026,Harsh Arora,2025-06-15,9,Creative and shows good problem-solving skills.
+PERF000750,STU027,Aishwarya Arora,2025-06-15,9,Making steady progress in all subjects.
+PERF000751,STU028,Jyoti Saxena,2025-06-15,10,Shows great improvement in understanding concepts.
+PERF000752,STU029,Pooja Joshi,2025-06-15,8,Needs help with time management.
+PERF000753,STU030,Rahul Goyal,2025-06-15,8,Attendance needs improvement.
+PERF000754,STU031,Swati Bansal,2025-06-15,7,Making steady progress in all subjects.
+PERF000755,STU033,Arjun Patel,2025-06-15,10,Should focus more on reading skills.
+PERF000756,STU034,Sagar Mishra,2025-06-15,10,Needs more practice with homework assignments.
+PERF000757,STU035,Divya Rao,2025-06-15,10,Excellent performance this week!
+PERF000758,STU002,Deepak Iyer,2025-06-22,8,Excellent performance this week!
+PERF000759,STU003,Rohit Kapoor,2025-06-22,9,Should practice more at home.
+PERF000760,STU004,Nikhil Saxena,2025-06-22,10,Excellent performance this week!
+PERF000761,STU005,Abhishek Joshi,2025-06-22,7,Attendance needs improvement.
+PERF000762,STU006,Arjun Saxena,2025-06-22,7,Needs more practice with homework assignments.
+PERF000763,STU007,Manish Mehta,2025-06-22,9,Requires additional support in reading.
+PERF000764,STU008,Aishwarya Joshi,2025-06-22,10,Should focus more on reading skills.
+PERF000765,STU009,Amit Bansal,2025-06-22,9,Should focus more on reading skills.
+PERF000766,STU010,Sakshi Mehta,2025-06-22,10,Very active and participates well in class.
+PERF000767,STU011,Neha Mishra,2025-06-22,9,Very active and participates well in class.
+PERF000768,STU012,Sneha Mehta,2025-06-22,7,Shows great improvement in understanding concepts.
+PERF000769,STU013,Sagar Rao,2025-06-22,10,Needs extra attention in mathematics.
+PERF000770,STU014,Anjali Tiwari,2025-06-22,7,Should focus more on reading skills.
+PERF000771,STU015,Ananya Verma,2025-06-22,10,Shows great improvement in understanding concepts.
+PERF000772,STU016,Abhishek Reddy,2025-06-22,8,Requires additional support in reading.
+PERF000773,STU018,Kritika Patel,2025-06-22,7,Making steady progress in all subjects.
+PERF000774,STU019,Pooja Mehta,2025-06-22,9,Excellent performance this week!
+PERF000775,STU020,Ravi Sharma,2025-06-22,7,Creative and shows good problem-solving skills.
+PERF000776,STU022,Meera Sharma,2025-06-22,10,Very active and participates well in class.
+PERF000777,STU023,Amit Kumar,2025-06-22,9,Needs extra attention in mathematics.
+PERF000778,STU024,Manish Joshi,2025-06-22,10,Shows great improvement in understanding concepts.
+PERF000779,STU025,Sakshi Mishra,2025-06-22,10,Needs extra attention in mathematics.
+PERF000780,STU026,Harsh Arora,2025-06-22,8,Requires additional support in reading.
+PERF000781,STU027,Aishwarya Arora,2025-06-22,8,Very attentive and asks good questions.
+PERF000782,STU028,Jyoti Saxena,2025-06-22,9,Should focus more on reading skills.
+PERF000783,STU029,Pooja Joshi,2025-06-22,10,Should practice more at home.
+PERF000784,STU030,Rahul Goyal,2025-06-22,8,Requires additional support in reading.
+PERF000785,STU031,Swati Bansal,2025-06-22,7,Needs help with time management.
+PERF000786,STU032,Aditya Rao,2025-06-22,10,Excellent performance this week!
+PERF000787,STU033,Arjun Patel,2025-06-22,9,Making steady progress in all subjects.
+PERF000788,STU034,Sagar Mishra,2025-06-22,7,Attendance needs improvement.
+PERF000789,STU001,Meera Verma,2025-06-29,7,Requires additional support in reading.
+PERF000790,STU003,Rohit Kapoor,2025-06-29,9,Good teamwork skills demonstrated.
+PERF000791,STU004,Nikhil Saxena,2025-06-29,10,Needs more practice with homework assignments.
+PERF000792,STU005,Abhishek Joshi,2025-06-29,10,Should focus more on reading skills.
+PERF000793,STU006,Arjun Saxena,2025-06-29,7,Very active and participates well in class.
+PERF000794,STU007,Manish Mehta,2025-06-29,9,Needs help with time management.
+PERF000795,STU008,Aishwarya Joshi,2025-06-29,9,Creative and shows good problem-solving skills.
+PERF000796,STU010,Sakshi Mehta,2025-06-29,8,Requires additional support in reading.
+PERF000797,STU011,Neha Mishra,2025-06-29,9,Making steady progress in all subjects.
+PERF000798,STU012,Sneha Mehta,2025-06-29,10,Creative and shows good problem-solving skills.
+PERF000799,STU013,Sagar Rao,2025-06-29,9,Creative and shows good problem-solving skills.
+PERF000800,STU014,Anjali Tiwari,2025-06-29,7,Very active and participates well in class.
+PERF000801,STU015,Ananya Verma,2025-06-29,10,Good teamwork skills demonstrated.
+PERF000802,STU016,Abhishek Reddy,2025-06-29,10,Shows great improvement in understanding concepts.
+PERF000803,STU017,Tanvi Nair,2025-06-29,9,Needs more practice with homework assignments.
+PERF000804,STU018,Kritika Patel,2025-06-29,8,Attendance needs improvement.
+PERF000805,STU019,Pooja Mehta,2025-06-29,10,Should focus more on reading skills.
+PERF000806,STU020,Ravi Sharma,2025-06-29,9,Good teamwork skills demonstrated.
+PERF000807,STU021,Aishwarya Bansal,2025-06-29,9,Should practice more at home.
+PERF000808,STU022,Meera Sharma,2025-06-29,8,Needs extra attention in mathematics.
+PERF000809,STU023,Amit Kumar,2025-06-29,10,Shows enthusiasm for learning.
+PERF000810,STU024,Manish Joshi,2025-06-29,9,Attendance needs improvement.
+PERF000811,STU027,Aishwarya Arora,2025-06-29,8,Making steady progress in all subjects.
+PERF000812,STU028,Jyoti Saxena,2025-06-29,10,Creative and shows good problem-solving skills.
+PERF000813,STU029,Pooja Joshi,2025-06-29,8,Very active and participates well in class.
+PERF000814,STU030,Rahul Goyal,2025-06-29,8,Very attentive and asks good questions.
+PERF000815,STU031,Swati Bansal,2025-06-29,7,Very attentive and asks good questions.
+PERF000816,STU032,Aditya Rao,2025-06-29,8,Excellent performance this week!
+PERF000817,STU033,Arjun Patel,2025-06-29,8,Shows enthusiasm for learning.
+PERF000818,STU034,Sagar Mishra,2025-06-29,7,Requires additional support in reading.
+PERF000819,STU035,Divya Rao,2025-06-29,8,Should focus more on reading skills.
+PERF000820,STU001,Meera Verma,2025-07-06,9,Should focus more on reading skills.
+PERF000821,STU002,Deepak Iyer,2025-07-06,8,Good teamwork skills demonstrated.
+PERF000822,STU003,Rohit Kapoor,2025-07-06,7,Needs extra attention in mathematics.
+PERF000823,STU004,Nikhil Saxena,2025-07-06,10,Needs extra attention in mathematics.
+PERF000824,STU005,Abhishek Joshi,2025-07-06,10,Attendance needs improvement.
+PERF000825,STU006,Arjun Saxena,2025-07-06,10,Should focus more on reading skills.
+PERF000826,STU007,Manish Mehta,2025-07-06,9,Attendance needs improvement.
+PERF000827,STU008,Aishwarya Joshi,2025-07-06,10,Shows great improvement in understanding concepts.
+PERF000828,STU009,Amit Bansal,2025-07-06,8,Very active and participates well in class.
+PERF000829,STU010,Sakshi Mehta,2025-07-06,9,Very active and participates well in class.
+PERF000830,STU011,Neha Mishra,2025-07-06,10,Shows great improvement in understanding concepts.
+PERF000831,STU012,Sneha Mehta,2025-07-06,8,Should focus more on reading skills.
+PERF000832,STU013,Sagar Rao,2025-07-06,10,Creative and shows good problem-solving skills.
+PERF000833,STU014,Anjali Tiwari,2025-07-06,9,Needs extra attention in mathematics.
+PERF000834,STU015,Ananya Verma,2025-07-06,8,Should practice more at home.
+PERF000835,STU016,Abhishek Reddy,2025-07-06,9,Shows great improvement in understanding concepts.
+PERF000836,STU017,Tanvi Nair,2025-07-06,10,Very active and participates well in class.
+PERF000837,STU018,Kritika Patel,2025-07-06,8,Attendance needs improvement.
+PERF000838,STU019,Pooja Mehta,2025-07-06,10,Excellent performance this week!
+PERF000839,STU021,Aishwarya Bansal,2025-07-06,9,Needs help with time management.
+PERF000840,STU022,Meera Sharma,2025-07-06,7,Shows great improvement in understanding concepts.
+PERF000841,STU023,Amit Kumar,2025-07-06,10,Shows enthusiasm for learning.
+PERF000842,STU024,Manish Joshi,2025-07-06,7,Should practice more at home.
+PERF000843,STU025,Sakshi Mishra,2025-07-06,8,Needs extra attention in mathematics.
+PERF000844,STU026,Harsh Arora,2025-07-06,10,Needs extra attention in mathematics.
+PERF000845,STU027,Aishwarya Arora,2025-07-06,10,Shows great improvement in understanding concepts.
+PERF000846,STU028,Jyoti Saxena,2025-07-06,8,Excellent performance this week!
+PERF000847,STU029,Pooja Joshi,2025-07-06,7,Requires additional support in reading.
+PERF000848,STU030,Rahul Goyal,2025-07-06,9,Attendance needs improvement.
+PERF000849,STU031,Swati Bansal,2025-07-06,9,Very attentive and asks good questions.
+PERF000850,STU032,Aditya Rao,2025-07-06,10,Requires additional support in reading.
+PERF000851,STU033,Arjun Patel,2025-07-06,8,Attendance needs improvement.
+PERF000852,STU034,Sagar Mishra,2025-07-06,9,Very active and participates well in class.
+PERF000853,STU035,Divya Rao,2025-07-06,10,Very active and participates well in class.
+PERF000854,STU001,Meera Verma,2025-07-13,8,Should focus more on reading skills.
+PERF000855,STU002,Deepak Iyer,2025-07-13,7,Needs extra attention in mathematics.
+PERF000856,STU003,Rohit Kapoor,2025-07-13,7,Needs more practice with homework assignments.
+PERF000857,STU004,Nikhil Saxena,2025-07-13,8,Attendance needs improvement.
+PERF000858,STU005,Abhishek Joshi,2025-07-13,8,Should practice more at home.
+PERF000859,STU006,Arjun Saxena,2025-07-13,10,Shows enthusiasm for learning.
+PERF000860,STU007,Manish Mehta,2025-07-13,8,Excellent performance this week!
+PERF000861,STU008,Aishwarya Joshi,2025-07-13,7,Should focus more on reading skills.
+PERF000862,STU009,Amit Bansal,2025-07-13,8,Needs more practice with homework assignments.
+PERF000863,STU010,Sakshi Mehta,2025-07-13,10,Requires additional support in reading.
+PERF000864,STU011,Neha Mishra,2025-07-13,7,Should focus more on reading skills.
+PERF000865,STU012,Sneha Mehta,2025-07-13,9,Attendance needs improvement.
+PERF000866,STU013,Sagar Rao,2025-07-13,10,Creative and shows good problem-solving skills.
+PERF000867,STU014,Anjali Tiwari,2025-07-13,10,Very active and participates well in class.
+PERF000868,STU015,Ananya Verma,2025-07-13,10,Shows enthusiasm for learning.
+PERF000869,STU016,Abhishek Reddy,2025-07-13,7,Shows great improvement in understanding concepts.
+PERF000870,STU017,Tanvi Nair,2025-07-13,10,Making steady progress in all subjects.
+PERF000871,STU018,Kritika Patel,2025-07-13,7,Should focus more on reading skills.
+PERF000872,STU019,Pooja Mehta,2025-07-13,10,Should focus more on reading skills.
+PERF000873,STU020,Ravi Sharma,2025-07-13,10,Creative and shows good problem-solving skills.
+PERF000874,STU021,Aishwarya Bansal,2025-07-13,10,Creative and shows good problem-solving skills.
+PERF000875,STU022,Meera Sharma,2025-07-13,10,Needs extra attention in mathematics.
+PERF000876,STU023,Amit Kumar,2025-07-13,9,Attendance needs improvement.
+PERF000877,STU024,Manish Joshi,2025-07-13,7,Should focus more on reading skills.
+PERF000878,STU025,Sakshi Mishra,2025-07-13,9,Requires additional support in reading.
+PERF000879,STU026,Harsh Arora,2025-07-13,7,Very attentive and asks good questions.
+PERF000880,STU027,Aishwarya Arora,2025-07-13,8,Very active and participates well in class.
+PERF000881,STU028,Jyoti Saxena,2025-07-13,9,Needs more practice with homework assignments.
+PERF000882,STU029,Pooja Joshi,2025-07-13,7,Good teamwork skills demonstrated.
+PERF000883,STU030,Rahul Goyal,2025-07-13,7,Should practice more at home.
+PERF000884,STU031,Swati Bansal,2025-07-13,10,Needs more practice with homework assignments.
+PERF000885,STU032,Aditya Rao,2025-07-13,10,Needs help with time management.
+PERF000886,STU033,Arjun Patel,2025-07-13,10,Needs help with time management.
+PERF000887,STU034,Sagar Mishra,2025-07-13,8,Excellent performance this week!
+PERF000888,STU001,Meera Verma,2025-07-20,7,Very attentive and asks good questions.
+PERF000889,STU002,Deepak Iyer,2025-07-20,9,Requires additional support in reading.
+PERF000890,STU003,Rohit Kapoor,2025-07-20,8,Good teamwork skills demonstrated.
+PERF000891,STU004,Nikhil Saxena,2025-07-20,7,Needs help with time management.
+PERF000892,STU005,Abhishek Joshi,2025-07-20,10,Making steady progress in all subjects.
+PERF000893,STU006,Arjun Saxena,2025-07-20,9,Needs extra attention in mathematics.
+PERF000894,STU007,Manish Mehta,2025-07-20,7,Shows great improvement in understanding concepts.
+PERF000895,STU008,Aishwarya Joshi,2025-07-20,8,Good teamwork skills demonstrated.
+PERF000896,STU010,Sakshi Mehta,2025-07-20,8,Shows great improvement in understanding concepts.
+PERF000897,STU011,Neha Mishra,2025-07-20,7,Needs extra attention in mathematics.
+PERF000898,STU012,Sneha Mehta,2025-07-20,7,Attendance needs improvement.
+PERF000899,STU013,Sagar Rao,2025-07-20,10,Needs help with time management.
+PERF000900,STU014,Anjali Tiwari,2025-07-20,9,Shows great improvement in understanding concepts.
+PERF000901,STU015,Ananya Verma,2025-07-20,9,Very attentive and asks good questions.
+PERF000902,STU016,Abhishek Reddy,2025-07-20,7,Creative and shows good problem-solving skills.
+PERF000903,STU017,Tanvi Nair,2025-07-20,7,Very active and participates well in class.
+PERF000904,STU018,Kritika Patel,2025-07-20,9,Excellent performance this week!
+PERF000905,STU019,Pooja Mehta,2025-07-20,7,Shows enthusiasm for learning.
+PERF000906,STU020,Ravi Sharma,2025-07-20,10,Creative and shows good problem-solving skills.
+PERF000907,STU021,Aishwarya Bansal,2025-07-20,10,Should practice more at home.
+PERF000908,STU022,Meera Sharma,2025-07-20,9,Needs help with time management.
+PERF000909,STU023,Amit Kumar,2025-07-20,7,Should practice more at home.
+PERF000910,STU024,Manish Joshi,2025-07-20,8,Very active and participates well in class.
+PERF000911,STU025,Sakshi Mishra,2025-07-20,8,Excellent performance this week!
+PERF000912,STU026,Harsh Arora,2025-07-20,9,Needs extra attention in mathematics.
+PERF000913,STU027,Aishwarya Arora,2025-07-20,10,Requires additional support in reading.
+PERF000914,STU028,Jyoti Saxena,2025-07-20,7,Shows great improvement in understanding concepts.
+PERF000915,STU029,Pooja Joshi,2025-07-20,8,Attendance needs improvement.
+PERF000916,STU030,Rahul Goyal,2025-07-20,8,Should focus more on reading skills.
+PERF000917,STU031,Swati Bansal,2025-07-20,9,Good teamwork skills demonstrated.
+PERF000918,STU032,Aditya Rao,2025-07-20,10,Needs more practice with homework assignments.
+PERF000919,STU033,Arjun Patel,2025-07-20,8,Making steady progress in all subjects.
+PERF000920,STU035,Divya Rao,2025-07-20,7,Very attentive and asks good questions.
+PERF000921,STU001,Meera Verma,2025-07-27,8,Making steady progress in all subjects.
+PERF000922,STU002,Deepak Iyer,2025-07-27,7,Requires additional support in reading.
+PERF000923,STU003,Rohit Kapoor,2025-07-27,8,Should focus more on reading skills.
+PERF000924,STU005,Abhishek Joshi,2025-07-27,8,Should focus more on reading skills.
+PERF000925,STU006,Arjun Saxena,2025-07-27,7,Should focus more on reading skills.
+PERF000926,STU007,Manish Mehta,2025-07-27,9,Excellent performance this week!
+PERF000927,STU008,Aishwarya Joshi,2025-07-27,9,Should practice more at home.
+PERF000928,STU009,Amit Bansal,2025-07-27,9,Needs extra attention in mathematics.
+PERF000929,STU010,Sakshi Mehta,2025-07-27,7,Needs help with time management.
+PERF000930,STU011,Neha Mishra,2025-07-27,7,Shows enthusiasm for learning.
+PERF000931,STU012,Sneha Mehta,2025-07-27,10,Creative and shows good problem-solving skills.
+PERF000932,STU013,Sagar Rao,2025-07-27,10,Shows great improvement in understanding concepts.
+PERF000933,STU014,Anjali Tiwari,2025-07-27,9,Needs more practice with homework assignments.
+PERF000934,STU015,Ananya Verma,2025-07-27,7,Very attentive and asks good questions.
+PERF000935,STU016,Abhishek Reddy,2025-07-27,8,Should focus more on reading skills.
+PERF000936,STU018,Kritika Patel,2025-07-27,9,Should focus more on reading skills.
+PERF000937,STU019,Pooja Mehta,2025-07-27,9,Excellent performance this week!
+PERF000938,STU020,Ravi Sharma,2025-07-27,7,Attendance needs improvement.
+PERF000939,STU021,Aishwarya Bansal,2025-07-27,7,Attendance needs improvement.
+PERF000940,STU022,Meera Sharma,2025-07-27,10,Very attentive and asks good questions.
+PERF000941,STU023,Amit Kumar,2025-07-27,10,Very attentive and asks good questions.
+PERF000942,STU024,Manish Joshi,2025-07-27,8,Should focus more on reading skills.
+PERF000943,STU026,Harsh Arora,2025-07-27,9,Shows great improvement in understanding concepts.
+PERF000944,STU027,Aishwarya Arora,2025-07-27,8,Excellent performance this week!
+PERF000945,STU028,Jyoti Saxena,2025-07-27,9,Should focus more on reading skills.
+PERF000946,STU029,Pooja Joshi,2025-07-27,7,Good teamwork skills demonstrated.
+PERF000947,STU030,Rahul Goyal,2025-07-27,10,Very attentive and asks good questions.
+PERF000948,STU031,Swati Bansal,2025-07-27,9,Very active and participates well in class.
+PERF000949,STU032,Aditya Rao,2025-07-27,7,Needs more practice with homework assignments.
+PERF000950,STU033,Arjun Patel,2025-07-27,9,Should focus more on reading skills.
+PERF000951,STU034,Sagar Mishra,2025-07-27,10,Very active and participates well in class.
+PERF000952,STU035,Divya Rao,2025-07-27,7,Making steady progress in all subjects.
+PERF000953,STU001,Meera Verma,2025-08-03,7,Needs more practice with homework assignments.
+PERF000954,STU002,Deepak Iyer,2025-08-03,8,Needs extra attention in mathematics.
+PERF000955,STU003,Rohit Kapoor,2025-08-03,8,Making steady progress in all subjects.
+PERF000956,STU004,Nikhil Saxena,2025-08-03,7,Needs extra attention in mathematics.
+PERF000957,STU005,Abhishek Joshi,2025-08-03,8,Should focus more on reading skills.
+PERF000958,STU006,Arjun Saxena,2025-08-03,8,Needs extra attention in mathematics.
+PERF000959,STU007,Manish Mehta,2025-08-03,9,Requires additional support in reading.
+PERF000960,STU008,Aishwarya Joshi,2025-08-03,7,Creative and shows good problem-solving skills.
+PERF000961,STU009,Amit Bansal,2025-08-03,7,Should focus more on reading skills.
+PERF000962,STU010,Sakshi Mehta,2025-08-03,9,Good teamwork skills demonstrated.
+PERF000963,STU012,Sneha Mehta,2025-08-03,8,Making steady progress in all subjects.
+PERF000964,STU013,Sagar Rao,2025-08-03,8,Should practice more at home.
+PERF000965,STU014,Anjali Tiwari,2025-08-03,8,Attendance needs improvement.
+PERF000966,STU015,Ananya Verma,2025-08-03,7,Shows great improvement in understanding concepts.
+PERF000967,STU016,Abhishek Reddy,2025-08-03,7,Creative and shows good problem-solving skills.
+PERF000968,STU017,Tanvi Nair,2025-08-03,7,Needs more practice with homework assignments.
+PERF000969,STU018,Kritika Patel,2025-08-03,10,Should focus more on reading skills.
+PERF000970,STU019,Pooja Mehta,2025-08-03,10,Needs extra attention in mathematics.
+PERF000971,STU020,Ravi Sharma,2025-08-03,9,Needs help with time management.
+PERF000972,STU021,Aishwarya Bansal,2025-08-03,9,Should focus more on reading skills.
+PERF000973,STU022,Meera Sharma,2025-08-03,7,Very attentive and asks good questions.
+PERF000974,STU023,Amit Kumar,2025-08-03,8,Attendance needs improvement.
+PERF000975,STU024,Manish Joshi,2025-08-03,10,Making steady progress in all subjects.
+PERF000976,STU025,Sakshi Mishra,2025-08-03,7,Very active and participates well in class.
+PERF000977,STU027,Aishwarya Arora,2025-08-03,9,Should practice more at home.
+PERF000978,STU028,Jyoti Saxena,2025-08-03,8,Shows great improvement in understanding concepts.
+PERF000979,STU030,Rahul Goyal,2025-08-03,9,Needs help with time management.
+PERF000980,STU031,Swati Bansal,2025-08-03,8,Needs help with time management.
+PERF000981,STU032,Aditya Rao,2025-08-03,10,Very active and participates well in class.
+PERF000982,STU033,Arjun Patel,2025-08-03,10,Needs help with time management.
+PERF000983,STU034,Sagar Mishra,2025-08-03,8,Needs extra attention in mathematics.
+PERF000984,STU035,Divya Rao,2025-08-03,7,Good teamwork skills demonstrated.
+PERF000985,STU001,Meera Verma,2025-08-10,7,Making steady progress in all subjects.
+PERF000986,STU002,Deepak Iyer,2025-08-10,8,Shows great improvement in understanding concepts.
+PERF000987,STU003,Rohit Kapoor,2025-08-10,7,Requires additional support in reading.
+PERF000988,STU004,Nikhil Saxena,2025-08-10,10,Needs more practice with homework assignments.
+PERF000989,STU005,Abhishek Joshi,2025-08-10,7,Very attentive and asks good questions.
+PERF000990,STU006,Arjun Saxena,2025-08-10,10,Attendance needs improvement.
+PERF000991,STU007,Manish Mehta,2025-08-10,10,Creative and shows good problem-solving skills.
+PERF000992,STU008,Aishwarya Joshi,2025-08-10,7,Needs help with time management.
+PERF000993,STU009,Amit Bansal,2025-08-10,9,Attendance needs improvement.
+PERF000994,STU010,Sakshi Mehta,2025-08-10,8,Should practice more at home.
+PERF000995,STU011,Neha Mishra,2025-08-10,7,Needs extra attention in mathematics.
+PERF000996,STU012,Sneha Mehta,2025-08-10,9,Should practice more at home.
+PERF000997,STU013,Sagar Rao,2025-08-10,9,Shows great improvement in understanding concepts.
+PERF000998,STU014,Anjali Tiwari,2025-08-10,8,Requires additional support in reading.
+PERF000999,STU015,Ananya Verma,2025-08-10,8,Shows enthusiasm for learning.
+PERF001000,STU016,Abhishek Reddy,2025-08-10,8,Excellent performance this week!
+PERF001001,STU017,Tanvi Nair,2025-08-10,8,Shows great improvement in understanding concepts.
+PERF001002,STU018,Kritika Patel,2025-08-10,7,Shows enthusiasm for learning.
+PERF001003,STU020,Ravi Sharma,2025-08-10,9,Excellent performance this week!
+PERF001004,STU021,Aishwarya Bansal,2025-08-10,10,Attendance needs improvement.
+PERF001005,STU022,Meera Sharma,2025-08-10,9,Excellent performance this week!
+PERF001006,STU023,Amit Kumar,2025-08-10,9,Shows great improvement in understanding concepts.
+PERF001007,STU025,Sakshi Mishra,2025-08-10,9,Needs help with time management.
+PERF001008,STU026,Harsh Arora,2025-08-10,10,Needs help with time management.
+PERF001009,STU027,Aishwarya Arora,2025-08-10,8,Making steady progress in all subjects.
+PERF001010,STU028,Jyoti Saxena,2025-08-10,10,Shows enthusiasm for learning.
+PERF001011,STU029,Pooja Joshi,2025-08-10,10,Shows great improvement in understanding concepts.
+PERF001012,STU030,Rahul Goyal,2025-08-10,7,Shows enthusiasm for learning.
+PERF001013,STU031,Swati Bansal,2025-08-10,9,Requires additional support in reading.
+PERF001014,STU032,Aditya Rao,2025-08-10,7,Should focus more on reading skills.
+PERF001015,STU033,Arjun Patel,2025-08-10,9,Shows enthusiasm for learning.
+PERF001016,STU034,Sagar Mishra,2025-08-10,7,Should practice more at home.
+PERF001017,STU035,Divya Rao,2025-08-10,9,Attendance needs improvement.
+PERF001018,STU001,Meera Verma,2025-08-17,10,Shows enthusiasm for learning.
+PERF001019,STU002,Deepak Iyer,2025-08-17,8,Excellent performance this week!
+PERF001020,STU003,Rohit Kapoor,2025-08-17,7,Requires additional support in reading.
+PERF001021,STU004,Nikhil Saxena,2025-08-17,9,Very active and participates well in class.
+PERF001022,STU006,Arjun Saxena,2025-08-17,8,Needs more practice with homework assignments.
+PERF001023,STU007,Manish Mehta,2025-08-17,10,Needs more practice with homework assignments.
+PERF001024,STU008,Aishwarya Joshi,2025-08-17,9,Very attentive and asks good questions.
+PERF001025,STU009,Amit Bansal,2025-08-17,7,Good teamwork skills demonstrated.
+PERF001026,STU010,Sakshi Mehta,2025-08-17,10,Needs help with time management.
+PERF001027,STU011,Neha Mishra,2025-08-17,8,Shows enthusiasm for learning.
+PERF001028,STU012,Sneha Mehta,2025-08-17,9,Very attentive and asks good questions.
+PERF001029,STU013,Sagar Rao,2025-08-17,8,Good teamwork skills demonstrated.
+PERF001030,STU014,Anjali Tiwari,2025-08-17,8,Very active and participates well in class.
+PERF001031,STU015,Ananya Verma,2025-08-17,9,Very active and participates well in class.
+PERF001032,STU016,Abhishek Reddy,2025-08-17,8,Needs help with time management.
+PERF001033,STU017,Tanvi Nair,2025-08-17,9,Attendance needs improvement.
+PERF001034,STU018,Kritika Patel,2025-08-17,9,Excellent performance this week!
+PERF001035,STU019,Pooja Mehta,2025-08-17,9,Needs help with time management.
+PERF001036,STU020,Ravi Sharma,2025-08-17,10,Needs help with time management.
+PERF001037,STU021,Aishwarya Bansal,2025-08-17,10,Needs extra attention in mathematics.
+PERF001038,STU022,Meera Sharma,2025-08-17,9,Excellent performance this week!
+PERF001039,STU023,Amit Kumar,2025-08-17,7,Good teamwork skills demonstrated.
+PERF001040,STU024,Manish Joshi,2025-08-17,8,Shows great improvement in understanding concepts.
+PERF001041,STU025,Sakshi Mishra,2025-08-17,9,Creative and shows good problem-solving skills.
+PERF001042,STU026,Harsh Arora,2025-08-17,9,Needs more practice with homework assignments.
+PERF001043,STU028,Jyoti Saxena,2025-08-17,10,Very attentive and asks good questions.
+PERF001044,STU029,Pooja Joshi,2025-08-17,9,Good teamwork skills demonstrated.
+PERF001045,STU030,Rahul Goyal,2025-08-17,9,Should practice more at home.
+PERF001046,STU031,Swati Bansal,2025-08-17,8,Creative and shows good problem-solving skills.
+PERF001047,STU032,Aditya Rao,2025-08-17,9,Needs more practice with homework assignments.
+PERF001048,STU033,Arjun Patel,2025-08-17,7,Should focus more on reading skills.
+PERF001049,STU034,Sagar Mishra,2025-08-17,10,Requires additional support in reading.
+PERF001050,STU035,Divya Rao,2025-08-17,7,Attendance needs improvement.
+PERF001051,STU001,Meera Verma,2025-08-24,7,Should focus more on reading skills.
+PERF001052,STU002,Deepak Iyer,2025-08-24,10,Should practice more at home.
+PERF001053,STU003,Rohit Kapoor,2025-08-24,8,Shows enthusiasm for learning.
+PERF001054,STU004,Nikhil Saxena,2025-08-24,10,Excellent performance this week!
+PERF001055,STU005,Abhishek Joshi,2025-08-24,10,Very active and participates well in class.
+PERF001056,STU006,Arjun Saxena,2025-08-24,9,Attendance needs improvement.
+PERF001057,STU007,Manish Mehta,2025-08-24,10,Shows great improvement in understanding concepts.
+PERF001058,STU008,Aishwarya Joshi,2025-08-24,7,Should practice more at home.
+PERF001059,STU009,Amit Bansal,2025-08-24,9,Requires additional support in reading.
+PERF001060,STU010,Sakshi Mehta,2025-08-24,9,Requires additional support in reading.
+PERF001061,STU011,Neha Mishra,2025-08-24,8,Shows great improvement in understanding concepts.
+PERF001062,STU012,Sneha Mehta,2025-08-24,8,Needs help with time management.
+PERF001063,STU013,Sagar Rao,2025-08-24,7,Needs more practice with homework assignments.
+PERF001064,STU014,Anjali Tiwari,2025-08-24,10,Needs extra attention in mathematics.
+PERF001065,STU015,Ananya Verma,2025-08-24,8,Should practice more at home.
+PERF001066,STU016,Abhishek Reddy,2025-08-24,10,Good teamwork skills demonstrated.
+PERF001067,STU017,Tanvi Nair,2025-08-24,10,Making steady progress in all subjects.
+PERF001068,STU018,Kritika Patel,2025-08-24,7,Shows enthusiasm for learning.
+PERF001069,STU019,Pooja Mehta,2025-08-24,9,Needs more practice with homework assignments.
+PERF001070,STU020,Ravi Sharma,2025-08-24,10,Shows enthusiasm for learning.
+PERF001071,STU021,Aishwarya Bansal,2025-08-24,7,Needs more practice with homework assignments.
+PERF001072,STU023,Amit Kumar,2025-08-24,8,Very active and participates well in class.
+PERF001073,STU024,Manish Joshi,2025-08-24,7,Very attentive and asks good questions.
+PERF001074,STU025,Sakshi Mishra,2025-08-24,7,Good teamwork skills demonstrated.
+PERF001075,STU026,Harsh Arora,2025-08-24,8,Good teamwork skills demonstrated.
+PERF001076,STU027,Aishwarya Arora,2025-08-24,10,Shows enthusiasm for learning.
+PERF001077,STU028,Jyoti Saxena,2025-08-24,7,Very attentive and asks good questions.
+PERF001078,STU030,Rahul Goyal,2025-08-24,7,Shows great improvement in understanding concepts.
+PERF001079,STU031,Swati Bansal,2025-08-24,7,Attendance needs improvement.
+PERF001080,STU032,Aditya Rao,2025-08-24,7,Needs more practice with homework assignments.
+PERF001081,STU033,Arjun Patel,2025-08-24,8,Needs extra attention in mathematics.
+PERF001082,STU034,Sagar Mishra,2025-08-24,8,Creative and shows good problem-solving skills.
+PERF001083,STU035,Divya Rao,2025-08-24,7,Should focus more on reading skills.
+PERF001084,STU001,Meera Verma,2025-08-31,9,Excellent performance this week!
+PERF001085,STU002,Deepak Iyer,2025-08-31,8,Very attentive and asks good questions.
+PERF001086,STU003,Rohit Kapoor,2025-08-31,8,Should focus more on reading skills.
+PERF001087,STU005,Abhishek Joshi,2025-08-31,7,Very active and participates well in class.
+PERF001088,STU006,Arjun Saxena,2025-08-31,9,Needs more practice with homework assignments.
+PERF001089,STU007,Manish Mehta,2025-08-31,9,Good teamwork skills demonstrated.
+PERF001090,STU008,Aishwarya Joshi,2025-08-31,9,Very active and participates well in class.
+PERF001091,STU009,Amit Bansal,2025-08-31,10,Shows enthusiasm for learning.
+PERF001092,STU010,Sakshi Mehta,2025-08-31,10,Needs more practice with homework assignments.
+PERF001093,STU011,Neha Mishra,2025-08-31,7,Good teamwork skills demonstrated.
+PERF001094,STU012,Sneha Mehta,2025-08-31,10,Needs more practice with homework assignments.
+PERF001095,STU013,Sagar Rao,2025-08-31,10,Good teamwork skills demonstrated.
+PERF001096,STU014,Anjali Tiwari,2025-08-31,10,Requires additional support in reading.
+PERF001097,STU015,Ananya Verma,2025-08-31,10,Should practice more at home.
+PERF001098,STU016,Abhishek Reddy,2025-08-31,7,Needs extra attention in mathematics.
+PERF001099,STU017,Tanvi Nair,2025-08-31,9,Should focus more on reading skills.
+PERF001100,STU018,Kritika Patel,2025-08-31,9,Very attentive and asks good questions.
+PERF001101,STU019,Pooja Mehta,2025-08-31,8,Making steady progress in all subjects.
+PERF001102,STU020,Ravi Sharma,2025-08-31,8,Should practice more at home.
+PERF001103,STU021,Aishwarya Bansal,2025-08-31,10,Requires additional support in reading.
+PERF001104,STU023,Amit Kumar,2025-08-31,9,Very active and participates well in class.
+PERF001105,STU024,Manish Joshi,2025-08-31,7,Should practice more at home.
+PERF001106,STU025,Sakshi Mishra,2025-08-31,10,Should practice more at home.
+PERF001107,STU026,Harsh Arora,2025-08-31,7,Needs more practice with homework assignments.
+PERF001108,STU027,Aishwarya Arora,2025-08-31,10,Needs more practice with homework assignments.
+PERF001109,STU028,Jyoti Saxena,2025-08-31,10,Creative and shows good problem-solving skills.
+PERF001110,STU029,Pooja Joshi,2025-08-31,10,Needs more practice with homework assignments.
+PERF001111,STU030,Rahul Goyal,2025-08-31,7,Attendance needs improvement.
+PERF001112,STU031,Swati Bansal,2025-08-31,7,Creative and shows good problem-solving skills.
+PERF001113,STU032,Aditya Rao,2025-08-31,8,Excellent performance this week!
+PERF001114,STU033,Arjun Patel,2025-08-31,7,Attendance needs improvement.
+PERF001115,STU034,Sagar Mishra,2025-08-31,8,Very attentive and asks good questions.
+PERF001116,STU035,Divya Rao,2025-08-31,10,Attendance needs improvement.
+PERF001117,STU001,Meera Verma,2025-09-07,10,Requires additional support in reading.
+PERF001118,STU003,Rohit Kapoor,2025-09-07,7,Needs help with time management.
+PERF001119,STU005,Abhishek Joshi,2025-09-07,10,Good teamwork skills demonstrated.
+PERF001120,STU006,Arjun Saxena,2025-09-07,7,Very active and participates well in class.
+PERF001121,STU007,Manish Mehta,2025-09-07,8,Good teamwork skills demonstrated.
+PERF001122,STU009,Amit Bansal,2025-09-07,7,Very attentive and asks good questions.
+PERF001123,STU010,Sakshi Mehta,2025-09-07,9,Making steady progress in all subjects.
+PERF001124,STU011,Neha Mishra,2025-09-07,9,Should practice more at home.
+PERF001125,STU013,Sagar Rao,2025-09-07,8,Making steady progress in all subjects.
+PERF001126,STU015,Ananya Verma,2025-09-07,10,Requires additional support in reading.
+PERF001127,STU016,Abhishek Reddy,2025-09-07,8,Requires additional support in reading.
+PERF001128,STU017,Tanvi Nair,2025-09-07,7,Very attentive and asks good questions.
+PERF001129,STU018,Kritika Patel,2025-09-07,8,Excellent performance this week!
+PERF001130,STU019,Pooja Mehta,2025-09-07,8,Needs extra attention in mathematics.
+PERF001131,STU020,Ravi Sharma,2025-09-07,7,Should focus more on reading skills.
+PERF001132,STU022,Meera Sharma,2025-09-07,8,Needs help with time management.
+PERF001133,STU023,Amit Kumar,2025-09-07,9,Should focus more on reading skills.
+PERF001134,STU024,Manish Joshi,2025-09-07,7,Very active and participates well in class.
+PERF001135,STU025,Sakshi Mishra,2025-09-07,10,Excellent performance this week!
+PERF001136,STU026,Harsh Arora,2025-09-07,10,Requires additional support in reading.
+PERF001137,STU027,Aishwarya Arora,2025-09-07,10,Needs help with time management.
+PERF001138,STU028,Jyoti Saxena,2025-09-07,9,Needs more practice with homework assignments.
+PERF001139,STU029,Pooja Joshi,2025-09-07,8,Needs extra attention in mathematics.
+PERF001140,STU031,Swati Bansal,2025-09-07,10,Requires additional support in reading.
+PERF001141,STU032,Aditya Rao,2025-09-07,10,Shows great improvement in understanding concepts.
+PERF001142,STU033,Arjun Patel,2025-09-07,9,Should practice more at home.
+PERF001143,STU034,Sagar Mishra,2025-09-07,7,Shows enthusiasm for learning.
+PERF001144,STU035,Divya Rao,2025-09-07,10,Needs more practice with homework assignments.
+PERF001145,STU001,Meera Verma,2025-09-14,7,Very attentive and asks good questions.
+PERF001146,STU002,Deepak Iyer,2025-09-14,9,Very active and participates well in class.
+PERF001147,STU003,Rohit Kapoor,2025-09-14,9,Needs extra attention in mathematics.
+PERF001148,STU004,Nikhil Saxena,2025-09-14,7,Needs more practice with homework assignments.
+PERF001149,STU005,Abhishek Joshi,2025-09-14,7,Needs more practice with homework assignments.
+PERF001150,STU006,Arjun Saxena,2025-09-14,10,Needs more practice with homework assignments.
+PERF001151,STU008,Aishwarya Joshi,2025-09-14,8,Should practice more at home.
+PERF001152,STU009,Amit Bansal,2025-09-14,10,Creative and shows good problem-solving skills.
+PERF001153,STU010,Sakshi Mehta,2025-09-14,9,Excellent performance this week!
+PERF001154,STU011,Neha Mishra,2025-09-14,8,Creative and shows good problem-solving skills.
+PERF001155,STU012,Sneha Mehta,2025-09-14,8,Good teamwork skills demonstrated.
+PERF001156,STU014,Anjali Tiwari,2025-09-14,9,Shows enthusiasm for learning.
+PERF001157,STU015,Ananya Verma,2025-09-14,10,Should focus more on reading skills.
+PERF001158,STU016,Abhishek Reddy,2025-09-14,8,Making steady progress in all subjects.
+PERF001159,STU017,Tanvi Nair,2025-09-14,8,Very active and participates well in class.
+PERF001160,STU018,Kritika Patel,2025-09-14,10,Needs more practice with homework assignments.
+PERF001161,STU019,Pooja Mehta,2025-09-14,8,Making steady progress in all subjects.
+PERF001162,STU020,Ravi Sharma,2025-09-14,10,Good teamwork skills demonstrated.
+PERF001163,STU021,Aishwarya Bansal,2025-09-14,9,Excellent performance this week!
+PERF001164,STU022,Meera Sharma,2025-09-14,9,Should focus more on reading skills.
+PERF001165,STU023,Amit Kumar,2025-09-14,8,Shows great improvement in understanding concepts.
+PERF001166,STU024,Manish Joshi,2025-09-14,10,Shows enthusiasm for learning.
+PERF001167,STU025,Sakshi Mishra,2025-09-14,8,Shows great improvement in understanding concepts.
+PERF001168,STU026,Harsh Arora,2025-09-14,9,Should focus more on reading skills.
+PERF001169,STU029,Pooja Joshi,2025-09-14,9,Should focus more on reading skills.
+PERF001170,STU030,Rahul Goyal,2025-09-14,10,Very attentive and asks good questions.
+PERF001171,STU031,Swati Bansal,2025-09-14,7,Needs more practice with homework assignments.
+PERF001172,STU032,Aditya Rao,2025-09-14,9,Attendance needs improvement.
+PERF001173,STU033,Arjun Patel,2025-09-14,8,Needs help with time management.
+PERF001174,STU035,Divya Rao,2025-09-14,8,Attendance needs improvement.
+PERF001175,STU001,Meera Verma,2025-09-21,8,Attendance needs improvement.
+PERF001176,STU002,Deepak Iyer,2025-09-21,9,Needs extra attention in mathematics.
+PERF001177,STU003,Rohit Kapoor,2025-09-21,9,Attendance needs improvement.
+PERF001178,STU004,Nikhil Saxena,2025-09-21,8,Attendance needs improvement.
+PERF001179,STU005,Abhishek Joshi,2025-09-21,8,Should practice more at home.
+PERF001180,STU006,Arjun Saxena,2025-09-21,7,Should focus more on reading skills.
+PERF001181,STU008,Aishwarya Joshi,2025-09-21,7,Very active and participates well in class.
+PERF001182,STU009,Amit Bansal,2025-09-21,10,Needs extra attention in mathematics.
+PERF001183,STU010,Sakshi Mehta,2025-09-21,8,Requires additional support in reading.
+PERF001184,STU011,Neha Mishra,2025-09-21,9,Good teamwork skills demonstrated.
+PERF001185,STU012,Sneha Mehta,2025-09-21,10,Needs more practice with homework assignments.
+PERF001186,STU013,Sagar Rao,2025-09-21,7,Needs help with time management.
+PERF001187,STU014,Anjali Tiwari,2025-09-21,8,Shows enthusiasm for learning.
+PERF001188,STU017,Tanvi Nair,2025-09-21,10,Very active and participates well in class.
+PERF001189,STU019,Pooja Mehta,2025-09-21,10,Making steady progress in all subjects.
+PERF001190,STU020,Ravi Sharma,2025-09-21,7,Creative and shows good problem-solving skills.
+PERF001191,STU021,Aishwarya Bansal,2025-09-21,9,Needs help with time management.
+PERF001192,STU022,Meera Sharma,2025-09-21,9,Creative and shows good problem-solving skills.
+PERF001193,STU023,Amit Kumar,2025-09-21,9,Shows great improvement in understanding concepts.
+PERF001194,STU024,Manish Joshi,2025-09-21,7,Good teamwork skills demonstrated.
+PERF001195,STU025,Sakshi Mishra,2025-09-21,7,Needs help with time management.
+PERF001196,STU026,Harsh Arora,2025-09-21,10,Needs more practice with homework assignments.
+PERF001197,STU027,Aishwarya Arora,2025-09-21,9,Should practice more at home.
+PERF001198,STU028,Jyoti Saxena,2025-09-21,10,Needs help with time management.
+PERF001199,STU029,Pooja Joshi,2025-09-21,8,Very attentive and asks good questions.
+PERF001200,STU030,Rahul Goyal,2025-09-21,10,Needs more practice with homework assignments.
+PERF001201,STU031,Swati Bansal,2025-09-21,9,Creative and shows good problem-solving skills.
+PERF001202,STU032,Aditya Rao,2025-09-21,9,Shows enthusiasm for learning.
+PERF001203,STU033,Arjun Patel,2025-09-21,8,Needs help with time management.
+PERF001204,STU034,Sagar Mishra,2025-09-21,10,Requires additional support in reading.
+PERF001205,STU035,Divya Rao,2025-09-21,7,Making steady progress in all subjects.
+PERF001206,STU001,Meera Verma,2025-09-28,8,Requires additional support in reading.
+PERF001207,STU003,Rohit Kapoor,2025-09-28,8,Needs more practice with homework assignments.
+PERF001208,STU004,Nikhil Saxena,2025-09-28,8,Needs extra attention in mathematics.
+PERF001209,STU005,Abhishek Joshi,2025-09-28,10,Creative and shows good problem-solving skills.
+PERF001210,STU006,Arjun Saxena,2025-09-28,10,Needs more practice with homework assignments.
+PERF001211,STU007,Manish Mehta,2025-09-28,10,Should practice more at home.
+PERF001212,STU008,Aishwarya Joshi,2025-09-28,8,Creative and shows good problem-solving skills.
+PERF001213,STU009,Amit Bansal,2025-09-28,7,Very active and participates well in class.
+PERF001214,STU010,Sakshi Mehta,2025-09-28,7,Very active and participates well in class.
+PERF001215,STU011,Neha Mishra,2025-09-28,10,Very active and participates well in class.
+PERF001216,STU012,Sneha Mehta,2025-09-28,7,Needs help with time management.
+PERF001217,STU013,Sagar Rao,2025-09-28,8,Needs help with time management.
+PERF001218,STU014,Anjali Tiwari,2025-09-28,9,Needs extra attention in mathematics.
+PERF001219,STU015,Ananya Verma,2025-09-28,9,Very attentive and asks good questions.
+PERF001220,STU016,Abhishek Reddy,2025-09-28,8,Excellent performance this week!
+PERF001221,STU017,Tanvi Nair,2025-09-28,7,Making steady progress in all subjects.
+PERF001222,STU018,Kritika Patel,2025-09-28,9,Making steady progress in all subjects.
+PERF001223,STU019,Pooja Mehta,2025-09-28,8,Needs more practice with homework assignments.
+PERF001224,STU020,Ravi Sharma,2025-09-28,10,Creative and shows good problem-solving skills.
+PERF001225,STU021,Aishwarya Bansal,2025-09-28,10,Very active and participates well in class.
+PERF001226,STU022,Meera Sharma,2025-09-28,8,Shows great improvement in understanding concepts.
+PERF001227,STU023,Amit Kumar,2025-09-28,10,Very attentive and asks good questions.
+PERF001228,STU024,Manish Joshi,2025-09-28,10,Excellent performance this week!
+PERF001229,STU026,Harsh Arora,2025-09-28,10,Shows great improvement in understanding concepts.
+PERF001230,STU027,Aishwarya Arora,2025-09-28,7,Creative and shows good problem-solving skills.
+PERF001231,STU028,Jyoti Saxena,2025-09-28,8,Attendance needs improvement.
+PERF001232,STU029,Pooja Joshi,2025-09-28,10,Needs more practice with homework assignments.
+PERF001233,STU030,Rahul Goyal,2025-09-28,10,Good teamwork skills demonstrated.
+PERF001234,STU031,Swati Bansal,2025-09-28,10,Needs extra attention in mathematics.
+PERF001235,STU033,Arjun Patel,2025-09-28,9,Should focus more on reading skills.
+PERF001236,STU034,Sagar Mishra,2025-09-28,8,Good teamwork skills demonstrated.
+PERF001237,STU035,Divya Rao,2025-09-28,7,Creative and shows good problem-solving skills.
+PERF001238,STU002,Deepak Iyer,2025-10-05,10,Making steady progress in all subjects.
+PERF001239,STU004,Nikhil Saxena,2025-10-05,7,Making steady progress in all subjects.
+PERF001240,STU005,Abhishek Joshi,2025-10-05,7,Needs extra attention in mathematics.
+PERF001241,STU007,Manish Mehta,2025-10-05,8,Very attentive and asks good questions.
+PERF001242,STU008,Aishwarya Joshi,2025-10-05,9,Shows great improvement in understanding concepts.
+PERF001243,STU009,Amit Bansal,2025-10-05,8,Needs extra attention in mathematics.
+PERF001244,STU010,Sakshi Mehta,2025-10-05,9,Needs more practice with homework assignments.
+PERF001245,STU011,Neha Mishra,2025-10-05,8,Very attentive and asks good questions.
+PERF001246,STU012,Sneha Mehta,2025-10-05,10,Very active and participates well in class.
+PERF001247,STU013,Sagar Rao,2025-10-05,9,Good teamwork skills demonstrated.
+PERF001248,STU014,Anjali Tiwari,2025-10-05,7,Needs extra attention in mathematics.
+PERF001249,STU015,Ananya Verma,2025-10-05,9,Needs more practice with homework assignments.
+PERF001250,STU016,Abhishek Reddy,2025-10-05,7,Very attentive and asks good questions.
+PERF001251,STU017,Tanvi Nair,2025-10-05,7,Creative and shows good problem-solving skills.
+PERF001252,STU018,Kritika Patel,2025-10-05,8,Requires additional support in reading.
+PERF001253,STU019,Pooja Mehta,2025-10-05,10,Creative and shows good problem-solving skills.
+PERF001254,STU020,Ravi Sharma,2025-10-05,8,Good teamwork skills demonstrated.
+PERF001255,STU021,Aishwarya Bansal,2025-10-05,10,Excellent performance this week!
+PERF001256,STU022,Meera Sharma,2025-10-05,8,Creative and shows good problem-solving skills.
+PERF001257,STU023,Amit Kumar,2025-10-05,7,Attendance needs improvement.
+PERF001258,STU024,Manish Joshi,2025-10-05,8,Requires additional support in reading.
+PERF001259,STU025,Sakshi Mishra,2025-10-05,10,Should focus more on reading skills.
+PERF001260,STU026,Harsh Arora,2025-10-05,8,Shows great improvement in understanding concepts.
+PERF001261,STU027,Aishwarya Arora,2025-10-05,7,Attendance needs improvement.
+PERF001262,STU028,Jyoti Saxena,2025-10-05,10,Should focus more on reading skills.
+PERF001263,STU029,Pooja Joshi,2025-10-05,10,Excellent performance this week!
+PERF001264,STU030,Rahul Goyal,2025-10-05,8,Creative and shows good problem-solving skills.
+PERF001265,STU031,Swati Bansal,2025-10-05,8,Making steady progress in all subjects.
+PERF001266,STU032,Aditya Rao,2025-10-05,10,Needs extra attention in mathematics.
+PERF001267,STU033,Arjun Patel,2025-10-05,7,Very active and participates well in class.
+PERF001268,STU034,Sagar Mishra,2025-10-05,8,Should practice more at home.
+PERF001269,STU035,Divya Rao,2025-10-05,9,Very attentive and asks good questions.
+PERF001270,STU001,Meera Verma,2025-10-12,7,Creative and shows good problem-solving skills.
+PERF001271,STU002,Deepak Iyer,2025-10-12,9,Excellent performance this week!
+PERF001272,STU003,Rohit Kapoor,2025-10-12,9,Very active and participates well in class.
+PERF001273,STU004,Nikhil Saxena,2025-10-12,9,Good teamwork skills demonstrated.
+PERF001274,STU005,Abhishek Joshi,2025-10-12,10,Shows great improvement in understanding concepts.
+PERF001275,STU006,Arjun Saxena,2025-10-12,7,Attendance needs improvement.
+PERF001276,STU007,Manish Mehta,2025-10-12,10,Shows enthusiasm for learning.
+PERF001277,STU008,Aishwarya Joshi,2025-10-12,8,Shows great improvement in understanding concepts.
+PERF001278,STU009,Amit Bansal,2025-10-12,10,Excellent performance this week!
+PERF001279,STU010,Sakshi Mehta,2025-10-12,10,Creative and shows good problem-solving skills.
+PERF001280,STU011,Neha Mishra,2025-10-12,9,Needs help with time management.
+PERF001281,STU013,Sagar Rao,2025-10-12,9,Shows enthusiasm for learning.
+PERF001282,STU014,Anjali Tiwari,2025-10-12,7,Needs extra attention in mathematics.
+PERF001283,STU015,Ananya Verma,2025-10-12,8,Needs help with time management.
+PERF001284,STU016,Abhishek Reddy,2025-10-12,7,Making steady progress in all subjects.
+PERF001285,STU017,Tanvi Nair,2025-10-12,10,Needs help with time management.
+PERF001286,STU018,Kritika Patel,2025-10-12,9,Needs extra attention in mathematics.
+PERF001287,STU019,Pooja Mehta,2025-10-12,8,Making steady progress in all subjects.
+PERF001288,STU020,Ravi Sharma,2025-10-12,10,Excellent performance this week!
+PERF001289,STU021,Aishwarya Bansal,2025-10-12,9,Good teamwork skills demonstrated.
+PERF001290,STU022,Meera Sharma,2025-10-12,7,Needs help with time management.
+PERF001291,STU023,Amit Kumar,2025-10-12,8,Excellent performance this week!
+PERF001292,STU024,Manish Joshi,2025-10-12,9,Shows great improvement in understanding concepts.
+PERF001293,STU025,Sakshi Mishra,2025-10-12,10,Excellent performance this week!
+PERF001294,STU026,Harsh Arora,2025-10-12,10,Needs more practice with homework assignments.
+PERF001295,STU027,Aishwarya Arora,2025-10-12,7,Needs extra attention in mathematics.
+PERF001296,STU028,Jyoti Saxena,2025-10-12,9,Needs more practice with homework assignments.
+PERF001297,STU029,Pooja Joshi,2025-10-12,7,Very active and participates well in class.
+PERF001298,STU030,Rahul Goyal,2025-10-12,7,Creative and shows good problem-solving skills.
+PERF001299,STU031,Swati Bansal,2025-10-12,10,Attendance needs improvement.
+PERF001300,STU032,Aditya Rao,2025-10-12,10,Requires additional support in reading.
+PERF001301,STU033,Arjun Patel,2025-10-12,8,Needs help with time management.
+PERF001302,STU035,Divya Rao,2025-10-12,7,Very attentive and asks good questions.
+PERF001303,STU002,Deepak Iyer,2025-10-19,10,Shows great improvement in understanding concepts.
+PERF001304,STU003,Rohit Kapoor,2025-10-19,8,Creative and shows good problem-solving skills.
+PERF001305,STU004,Nikhil Saxena,2025-10-19,9,Needs help with time management.
+PERF001306,STU005,Abhishek Joshi,2025-10-19,9,Excellent performance this week!
+PERF001307,STU006,Arjun Saxena,2025-10-19,9,Making steady progress in all subjects.
+PERF001308,STU007,Manish Mehta,2025-10-19,9,Needs extra attention in mathematics.
+PERF001309,STU008,Aishwarya Joshi,2025-10-19,9,Excellent performance this week!
+PERF001310,STU009,Amit Bansal,2025-10-19,9,Shows great improvement in understanding concepts.
+PERF001311,STU010,Sakshi Mehta,2025-10-19,10,Requires additional support in reading.
+PERF001312,STU011,Neha Mishra,2025-10-19,8,Making steady progress in all subjects.
+PERF001313,STU012,Sneha Mehta,2025-10-19,9,Making steady progress in all subjects.
+PERF001314,STU013,Sagar Rao,2025-10-19,7,Needs more practice with homework assignments.
+PERF001315,STU014,Anjali Tiwari,2025-10-19,9,Shows great improvement in understanding concepts.
+PERF001316,STU015,Ananya Verma,2025-10-19,10,Excellent performance this week!
+PERF001317,STU016,Abhishek Reddy,2025-10-19,7,Excellent performance this week!
+PERF001318,STU017,Tanvi Nair,2025-10-19,9,Good teamwork skills demonstrated.
+PERF001319,STU018,Kritika Patel,2025-10-19,9,Needs extra attention in mathematics.
+PERF001320,STU019,Pooja Mehta,2025-10-19,8,Needs extra attention in mathematics.
+PERF001321,STU020,Ravi Sharma,2025-10-19,9,Needs more practice with homework assignments.
+PERF001322,STU021,Aishwarya Bansal,2025-10-19,9,Needs help with time management.
+PERF001323,STU022,Meera Sharma,2025-10-19,10,Needs more practice with homework assignments.
+PERF001324,STU023,Amit Kumar,2025-10-19,10,Attendance needs improvement.
+PERF001325,STU024,Manish Joshi,2025-10-19,7,Good teamwork skills demonstrated.
+PERF001326,STU025,Sakshi Mishra,2025-10-19,9,Shows enthusiasm for learning.
+PERF001327,STU026,Harsh Arora,2025-10-19,8,Needs more practice with homework assignments.
+PERF001328,STU028,Jyoti Saxena,2025-10-19,9,Attendance needs improvement.
+PERF001329,STU029,Pooja Joshi,2025-10-19,8,Very attentive and asks good questions.
+PERF001330,STU030,Rahul Goyal,2025-10-19,10,Very attentive and asks good questions.
+PERF001331,STU031,Swati Bansal,2025-10-19,9,Should focus more on reading skills.
+PERF001332,STU032,Aditya Rao,2025-10-19,9,Very active and participates well in class.
+PERF001333,STU033,Arjun Patel,2025-10-19,7,Needs more practice with homework assignments.
+PERF001334,STU034,Sagar Mishra,2025-10-19,8,Needs extra attention in mathematics.
+PERF001335,STU035,Divya Rao,2025-10-19,8,Should focus more on reading skills.
+PERF001336,STU001,Meera Verma,2025-10-26,9,Shows great improvement in understanding concepts.
+PERF001337,STU002,Deepak Iyer,2025-10-26,9,Needs help with time management.
+PERF001338,STU003,Rohit Kapoor,2025-10-26,9,Attendance needs improvement.
+PERF001339,STU004,Nikhil Saxena,2025-10-26,7,Very active and participates well in class.
+PERF001340,STU005,Abhishek Joshi,2025-10-26,8,Should focus more on reading skills.
+PERF001341,STU006,Arjun Saxena,2025-10-26,8,Needs help with time management.
+PERF001342,STU007,Manish Mehta,2025-10-26,9,Good teamwork skills demonstrated.
+PERF001343,STU008,Aishwarya Joshi,2025-10-26,7,Attendance needs improvement.
+PERF001344,STU009,Amit Bansal,2025-10-26,9,Shows enthusiasm for learning.
+PERF001345,STU010,Sakshi Mehta,2025-10-26,8,Excellent performance this week!
+PERF001346,STU011,Neha Mishra,2025-10-26,10,Attendance needs improvement.
+PERF001347,STU012,Sneha Mehta,2025-10-26,8,Creative and shows good problem-solving skills.
+PERF001348,STU013,Sagar Rao,2025-10-26,10,Should focus more on reading skills.
+PERF001349,STU014,Anjali Tiwari,2025-10-26,7,Excellent performance this week!
+PERF001350,STU015,Ananya Verma,2025-10-26,8,Should focus more on reading skills.
+PERF001351,STU016,Abhishek Reddy,2025-10-26,9,Creative and shows good problem-solving skills.
+PERF001352,STU017,Tanvi Nair,2025-10-26,9,Attendance needs improvement.
+PERF001353,STU018,Kritika Patel,2025-10-26,7,Making steady progress in all subjects.
+PERF001354,STU019,Pooja Mehta,2025-10-26,8,Needs more practice with homework assignments.
+PERF001355,STU020,Ravi Sharma,2025-10-26,10,Should focus more on reading skills.
+PERF001356,STU021,Aishwarya Bansal,2025-10-26,8,Should practice more at home.
+PERF001357,STU022,Meera Sharma,2025-10-26,8,Excellent performance this week!
+PERF001358,STU023,Amit Kumar,2025-10-26,7,Creative and shows good problem-solving skills.
+PERF001359,STU024,Manish Joshi,2025-10-26,7,Very attentive and asks good questions.
+PERF001360,STU025,Sakshi Mishra,2025-10-26,8,Very active and participates well in class.
+PERF001361,STU026,Harsh Arora,2025-10-26,9,Good teamwork skills demonstrated.
+PERF001362,STU027,Aishwarya Arora,2025-10-26,7,Needs more practice with homework assignments.
+PERF001363,STU028,Jyoti Saxena,2025-10-26,8,Should focus more on reading skills.
+PERF001364,STU029,Pooja Joshi,2025-10-26,10,Requires additional support in reading.
+PERF001365,STU030,Rahul Goyal,2025-10-26,8,Needs help with time management.
+PERF001366,STU031,Swati Bansal,2025-10-26,10,Good teamwork skills demonstrated.
+PERF001367,STU032,Aditya Rao,2025-10-26,8,Good teamwork skills demonstrated.
+PERF001368,STU033,Arjun Patel,2025-10-26,7,Needs extra attention in mathematics.
+PERF001369,STU034,Sagar Mishra,2025-10-26,7,Making steady progress in all subjects.
+PERF001370,STU035,Divya Rao,2025-10-26,10,Very active and participates well in class.
+PERF001371,STU001,Meera Verma,2025-11-02,9,Needs help with time management.
+PERF001372,STU003,Rohit Kapoor,2025-11-02,7,Making steady progress in all subjects.
+PERF001373,STU004,Nikhil Saxena,2025-11-02,7,Making steady progress in all subjects.
+PERF001374,STU005,Abhishek Joshi,2025-11-02,8,Requires additional support in reading.
+PERF001375,STU006,Arjun Saxena,2025-11-02,9,Good teamwork skills demonstrated.
+PERF001376,STU007,Manish Mehta,2025-11-02,7,Excellent performance this week!
+PERF001377,STU008,Aishwarya Joshi,2025-11-02,9,Good teamwork skills demonstrated.
+PERF001378,STU010,Sakshi Mehta,2025-11-02,9,Very attentive and asks good questions.
+PERF001379,STU011,Neha Mishra,2025-11-02,7,Should practice more at home.
+PERF001380,STU012,Sneha Mehta,2025-11-02,9,Attendance needs improvement.
+PERF001381,STU013,Sagar Rao,2025-11-02,10,Excellent performance this week!
+PERF001382,STU014,Anjali Tiwari,2025-11-02,10,Shows enthusiasm for learning.
+PERF001383,STU015,Ananya Verma,2025-11-02,7,Attendance needs improvement.
+PERF001384,STU019,Pooja Mehta,2025-11-02,9,Very active and participates well in class.
+PERF001385,STU020,Ravi Sharma,2025-11-02,7,Requires additional support in reading.
+PERF001386,STU021,Aishwarya Bansal,2025-11-02,10,Should focus more on reading skills.
+PERF001387,STU022,Meera Sharma,2025-11-02,7,Shows great improvement in understanding concepts.
+PERF001388,STU023,Amit Kumar,2025-11-02,9,Attendance needs improvement.
+PERF001389,STU024,Manish Joshi,2025-11-02,10,Requires additional support in reading.
+PERF001390,STU025,Sakshi Mishra,2025-11-02,7,Requires additional support in reading.
+PERF001391,STU026,Harsh Arora,2025-11-02,7,Attendance needs improvement.
+PERF001392,STU028,Jyoti Saxena,2025-11-02,8,Should focus more on reading skills.
+PERF001393,STU029,Pooja Joshi,2025-11-02,9,Needs help with time management.
+PERF001394,STU030,Rahul Goyal,2025-11-02,7,Making steady progress in all subjects.
+PERF001395,STU031,Swati Bansal,2025-11-02,10,Excellent performance this week!
+PERF001396,STU032,Aditya Rao,2025-11-02,10,Shows great improvement in understanding concepts.
+PERF001397,STU033,Arjun Patel,2025-11-02,7,Should practice more at home.
+PERF001398,STU034,Sagar Mishra,2025-11-02,7,Very attentive and asks good questions.
+PERF001399,STU035,Divya Rao,2025-11-02,10,Making steady progress in all subjects.
+PERF001400,STU002,Deepak Iyer,2025-11-09,9,Very active and participates well in class.
+PERF001401,STU003,Rohit Kapoor,2025-11-09,7,Needs help with time management.
+PERF001402,STU004,Nikhil Saxena,2025-11-09,9,Attendance needs improvement.
+PERF001403,STU005,Abhishek Joshi,2025-11-09,8,Attendance needs improvement.
+PERF001404,STU007,Manish Mehta,2025-11-09,9,Needs extra attention in mathematics.
+PERF001405,STU008,Aishwarya Joshi,2025-11-09,9,Excellent performance this week!
+PERF001406,STU009,Amit Bansal,2025-11-09,7,Should focus more on reading skills.
+PERF001407,STU010,Sakshi Mehta,2025-11-09,8,Making steady progress in all subjects.
+PERF001408,STU011,Neha Mishra,2025-11-09,9,Creative and shows good problem-solving skills.
+PERF001409,STU012,Sneha Mehta,2025-11-09,8,Creative and shows good problem-solving skills.
+PERF001410,STU013,Sagar Rao,2025-11-09,9,Creative and shows good problem-solving skills.
+PERF001411,STU014,Anjali Tiwari,2025-11-09,8,Very active and participates well in class.
+PERF001412,STU015,Ananya Verma,2025-11-09,8,Should practice more at home.
+PERF001413,STU016,Abhishek Reddy,2025-11-09,9,Needs more practice with homework assignments.
+PERF001414,STU017,Tanvi Nair,2025-11-09,7,Requires additional support in reading.
+PERF001415,STU018,Kritika Patel,2025-11-09,8,Needs help with time management.
+PERF001416,STU019,Pooja Mehta,2025-11-09,7,Creative and shows good problem-solving skills.
+PERF001417,STU020,Ravi Sharma,2025-11-09,9,Should focus more on reading skills.
+PERF001418,STU021,Aishwarya Bansal,2025-11-09,10,Requires additional support in reading.
+PERF001419,STU022,Meera Sharma,2025-11-09,9,Making steady progress in all subjects.
+PERF001420,STU023,Amit Kumar,2025-11-09,8,Very attentive and asks good questions.
+PERF001421,STU025,Sakshi Mishra,2025-11-09,9,Very attentive and asks good questions.
+PERF001422,STU026,Harsh Arora,2025-11-09,8,Requires additional support in reading.
+PERF001423,STU029,Pooja Joshi,2025-11-09,7,Should practice more at home.
+PERF001424,STU030,Rahul Goyal,2025-11-09,7,Needs help with time management.
+PERF001425,STU031,Swati Bansal,2025-11-09,10,Should practice more at home.
+PERF001426,STU032,Aditya Rao,2025-11-09,10,Shows enthusiasm for learning.
+PERF001427,STU033,Arjun Patel,2025-11-09,7,Should focus more on reading skills.
+PERF001428,STU034,Sagar Mishra,2025-11-09,8,Needs help with time management.
+PERF001429,STU035,Divya Rao,2025-11-09,10,Needs more practice with homework assignments.
+PERF001430,STU002,Deepak Iyer,2025-11-16,7,Needs extra attention in mathematics.
+PERF001431,STU003,Rohit Kapoor,2025-11-16,10,Making steady progress in all subjects.
+PERF001432,STU004,Nikhil Saxena,2025-11-16,7,Needs extra attention in mathematics.
+PERF001433,STU005,Abhishek Joshi,2025-11-16,8,Shows enthusiasm for learning.
+PERF001434,STU006,Arjun Saxena,2025-11-16,8,Good teamwork skills demonstrated.
+PERF001435,STU007,Manish Mehta,2025-11-16,8,Attendance needs improvement.
+PERF001436,STU009,Amit Bansal,2025-11-16,8,Requires additional support in reading.
+PERF001437,STU010,Sakshi Mehta,2025-11-16,9,Good teamwork skills demonstrated.
+PERF001438,STU011,Neha Mishra,2025-11-16,10,Very attentive and asks good questions.
+PERF001439,STU012,Sneha Mehta,2025-11-16,10,Needs help with time management.
+PERF001440,STU013,Sagar Rao,2025-11-16,8,Requires additional support in reading.
+PERF001441,STU014,Anjali Tiwari,2025-11-16,10,Should practice more at home.
+PERF001442,STU015,Ananya Verma,2025-11-16,7,Shows great improvement in understanding concepts.
+PERF001443,STU016,Abhishek Reddy,2025-11-16,8,Should practice more at home.
+PERF001444,STU017,Tanvi Nair,2025-11-16,10,Needs help with time management.
+PERF001445,STU018,Kritika Patel,2025-11-16,9,Requires additional support in reading.
+PERF001446,STU019,Pooja Mehta,2025-11-16,10,Very attentive and asks good questions.
+PERF001447,STU020,Ravi Sharma,2025-11-16,10,Needs more practice with homework assignments.
+PERF001448,STU021,Aishwarya Bansal,2025-11-16,7,Needs more practice with homework assignments.
+PERF001449,STU022,Meera Sharma,2025-11-16,7,Creative and shows good problem-solving skills.
+PERF001450,STU023,Amit Kumar,2025-11-16,8,Excellent performance this week!
+PERF001451,STU024,Manish Joshi,2025-11-16,7,Needs extra attention in mathematics.
+PERF001452,STU025,Sakshi Mishra,2025-11-16,7,Creative and shows good problem-solving skills.
+PERF001453,STU026,Harsh Arora,2025-11-16,9,Needs help with time management.
+PERF001454,STU027,Aishwarya Arora,2025-11-16,7,Requires additional support in reading.
+PERF001455,STU028,Jyoti Saxena,2025-11-16,10,Should focus more on reading skills.
+PERF001456,STU029,Pooja Joshi,2025-11-16,7,Should practice more at home.
+PERF001457,STU030,Rahul Goyal,2025-11-16,10,Good teamwork skills demonstrated.
+PERF001458,STU031,Swati Bansal,2025-11-16,8,Very active and participates well in class.
+PERF001459,STU032,Aditya Rao,2025-11-16,9,Needs more practice with homework assignments.
+PERF001460,STU033,Arjun Patel,2025-11-16,9,Shows enthusiasm for learning.
+PERF001461,STU034,Sagar Mishra,2025-11-16,7,Very active and participates well in class.
+PERF001462,STU035,Divya Rao,2025-11-16,7,Creative and shows good problem-solving skills.
+PERF001463,STU001,Meera Verma,2025-11-23,9,Should practice more at home.
+PERF001464,STU002,Deepak Iyer,2025-11-23,7,Very attentive and asks good questions.
+PERF001465,STU003,Rohit Kapoor,2025-11-23,10,Should practice more at home.
+PERF001466,STU004,Nikhil Saxena,2025-11-23,7,Needs extra attention in mathematics.
+PERF001467,STU005,Abhishek Joshi,2025-11-23,10,Should practice more at home.
+PERF001468,STU006,Arjun Saxena,2025-11-23,10,Needs extra attention in mathematics.
+PERF001469,STU007,Manish Mehta,2025-11-23,7,Needs help with time management.
+PERF001470,STU008,Aishwarya Joshi,2025-11-23,7,Needs extra attention in mathematics.
+PERF001471,STU009,Amit Bansal,2025-11-23,7,Needs extra attention in mathematics.
+PERF001472,STU010,Sakshi Mehta,2025-11-23,10,Shows great improvement in understanding concepts.
+PERF001473,STU011,Neha Mishra,2025-11-23,7,Should focus more on reading skills.
+PERF001474,STU012,Sneha Mehta,2025-11-23,10,Good teamwork skills demonstrated.
+PERF001475,STU013,Sagar Rao,2025-11-23,10,Needs extra attention in mathematics.
+PERF001476,STU014,Anjali Tiwari,2025-11-23,8,Needs more practice with homework assignments.
+PERF001477,STU016,Abhishek Reddy,2025-11-23,9,Creative and shows good problem-solving skills.
+PERF001478,STU017,Tanvi Nair,2025-11-23,9,Making steady progress in all subjects.
+PERF001479,STU018,Kritika Patel,2025-11-23,7,Excellent performance this week!
+PERF001480,STU019,Pooja Mehta,2025-11-23,10,Needs extra attention in mathematics.
+PERF001481,STU020,Ravi Sharma,2025-11-23,9,Attendance needs improvement.
+PERF001482,STU021,Aishwarya Bansal,2025-11-23,9,Creative and shows good problem-solving skills.
+PERF001483,STU022,Meera Sharma,2025-11-23,7,Should focus more on reading skills.
+PERF001484,STU023,Amit Kumar,2025-11-23,9,Excellent performance this week!
+PERF001485,STU024,Manish Joshi,2025-11-23,7,Needs more practice with homework assignments.
+PERF001486,STU025,Sakshi Mishra,2025-11-23,9,Very active and participates well in class.
+PERF001487,STU026,Harsh Arora,2025-11-23,10,Creative and shows good problem-solving skills.
+PERF001488,STU027,Aishwarya Arora,2025-11-23,10,Needs help with time management.
+PERF001489,STU029,Pooja Joshi,2025-11-23,10,Attendance needs improvement.
+PERF001490,STU030,Rahul Goyal,2025-11-23,10,Good teamwork skills demonstrated.
+PERF001491,STU031,Swati Bansal,2025-11-23,9,Very attentive and asks good questions.
+PERF001492,STU032,Aditya Rao,2025-11-23,9,Very active and participates well in class.
+PERF001493,STU034,Sagar Mishra,2025-11-23,10,Shows great improvement in understanding concepts.
+PERF001494,STU035,Divya Rao,2025-11-23,9,Excellent performance this week!
+PERF001495,STU001,Meera Verma,2025-11-30,10,Requires additional support in reading.
+PERF001496,STU002,Deepak Iyer,2025-11-30,7,Very attentive and asks good questions.
+PERF001497,STU003,Rohit Kapoor,2025-11-30,10,Good teamwork skills demonstrated.
+PERF001498,STU004,Nikhil Saxena,2025-11-30,7,Should practice more at home.
+PERF001499,STU005,Abhishek Joshi,2025-11-30,9,Creative and shows good problem-solving skills.
+PERF001500,STU006,Arjun Saxena,2025-11-30,8,Should focus more on reading skills.
+PERF001501,STU008,Aishwarya Joshi,2025-11-30,10,Shows enthusiasm for learning.
+PERF001502,STU009,Amit Bansal,2025-11-30,9,Very attentive and asks good questions.
+PERF001503,STU010,Sakshi Mehta,2025-11-30,7,Needs extra attention in mathematics.
+PERF001504,STU011,Neha Mishra,2025-11-30,8,Should focus more on reading skills.
+PERF001505,STU012,Sneha Mehta,2025-11-30,10,Requires additional support in reading.
+PERF001506,STU013,Sagar Rao,2025-11-30,8,Needs extra attention in mathematics.
+PERF001507,STU014,Anjali Tiwari,2025-11-30,7,Shows great improvement in understanding concepts.
+PERF001508,STU015,Ananya Verma,2025-11-30,7,Shows enthusiasm for learning.
+PERF001509,STU016,Abhishek Reddy,2025-11-30,8,Shows great improvement in understanding concepts.
+PERF001510,STU017,Tanvi Nair,2025-11-30,9,Shows great improvement in understanding concepts.
+PERF001511,STU019,Pooja Mehta,2025-11-30,8,Needs help with time management.
+PERF001512,STU020,Ravi Sharma,2025-11-30,8,Needs extra attention in mathematics.
+PERF001513,STU021,Aishwarya Bansal,2025-11-30,10,Creative and shows good problem-solving skills.
+PERF001514,STU022,Meera Sharma,2025-11-30,10,Shows great improvement in understanding concepts.
+PERF001515,STU023,Amit Kumar,2025-11-30,9,Very active and participates well in class.
+PERF001516,STU025,Sakshi Mishra,2025-11-30,8,Creative and shows good problem-solving skills.
+PERF001517,STU026,Harsh Arora,2025-11-30,8,Making steady progress in all subjects.
+PERF001518,STU027,Aishwarya Arora,2025-11-30,10,Shows enthusiasm for learning.
+PERF001519,STU028,Jyoti Saxena,2025-11-30,8,Shows great improvement in understanding concepts.
+PERF001520,STU029,Pooja Joshi,2025-11-30,7,Needs more practice with homework assignments.
+PERF001521,STU030,Rahul Goyal,2025-11-30,10,Shows great improvement in understanding concepts.
+PERF001522,STU032,Aditya Rao,2025-11-30,9,Attendance needs improvement.
+PERF001523,STU033,Arjun Patel,2025-11-30,9,Shows enthusiasm for learning.
+PERF001524,STU034,Sagar Mishra,2025-11-30,8,Needs extra attention in mathematics.
+PERF001525,STU035,Divya Rao,2025-11-30,9,Making steady progress in all subjects.
+PERF001526,STU001,Meera Verma,2025-12-07,8,Shows great improvement in understanding concepts.
+PERF001527,STU002,Deepak Iyer,2025-12-07,7,Needs more practice with homework assignments.
+PERF001528,STU003,Rohit Kapoor,2025-12-07,9,Shows great improvement in understanding concepts.
+PERF001529,STU004,Nikhil Saxena,2025-12-07,9,Should practice more at home.
+PERF001530,STU005,Abhishek Joshi,2025-12-07,8,Needs more practice with homework assignments.
+PERF001531,STU006,Arjun Saxena,2025-12-07,10,Should focus more on reading skills.
+PERF001532,STU007,Manish Mehta,2025-12-07,7,Making steady progress in all subjects.
+PERF001533,STU008,Aishwarya Joshi,2025-12-07,7,Should focus more on reading skills.
+PERF001534,STU009,Amit Bansal,2025-12-07,8,Should practice more at home.
+PERF001535,STU010,Sakshi Mehta,2025-12-07,8,Shows enthusiasm for learning.
+PERF001536,STU011,Neha Mishra,2025-12-07,10,Shows enthusiasm for learning.
+PERF001537,STU012,Sneha Mehta,2025-12-07,9,Needs help with time management.
+PERF001538,STU013,Sagar Rao,2025-12-07,9,Shows enthusiasm for learning.
+PERF001539,STU014,Anjali Tiwari,2025-12-07,7,Creative and shows good problem-solving skills.
+PERF001540,STU015,Ananya Verma,2025-12-07,8,Shows great improvement in understanding concepts.
+PERF001541,STU016,Abhishek Reddy,2025-12-07,10,Attendance needs improvement.
+PERF001542,STU017,Tanvi Nair,2025-12-07,9,Making steady progress in all subjects.
+PERF001543,STU018,Kritika Patel,2025-12-07,9,Very active and participates well in class.
+PERF001544,STU020,Ravi Sharma,2025-12-07,8,Very attentive and asks good questions.
+PERF001545,STU021,Aishwarya Bansal,2025-12-07,9,Very active and participates well in class.
+PERF001546,STU022,Meera Sharma,2025-12-07,7,Should focus more on reading skills.
+PERF001547,STU023,Amit Kumar,2025-12-07,9,Attendance needs improvement.
+PERF001548,STU024,Manish Joshi,2025-12-07,7,Excellent performance this week!
+PERF001549,STU025,Sakshi Mishra,2025-12-07,8,Very attentive and asks good questions.
+PERF001550,STU026,Harsh Arora,2025-12-07,10,Attendance needs improvement.
+PERF001551,STU027,Aishwarya Arora,2025-12-07,8,Very active and participates well in class.
+PERF001552,STU028,Jyoti Saxena,2025-12-07,7,Needs more practice with homework assignments.
+PERF001553,STU029,Pooja Joshi,2025-12-07,8,Excellent performance this week!
+PERF001554,STU030,Rahul Goyal,2025-12-07,8,Making steady progress in all subjects.
+PERF001555,STU031,Swati Bansal,2025-12-07,9,Making steady progress in all subjects.
+PERF001556,STU032,Aditya Rao,2025-12-07,8,Very attentive and asks good questions.
+PERF001557,STU033,Arjun Patel,2025-12-07,10,Shows great improvement in understanding concepts.
+PERF001558,STU034,Sagar Mishra,2025-12-07,8,Should focus more on reading skills.
+PERF001559,STU035,Divya Rao,2025-12-07,7,Making steady progress in all subjects.
+PERF001560,STU001,Meera Verma,2025-12-14,7,Needs extra attention in mathematics.
+PERF001561,STU002,Deepak Iyer,2025-12-14,8,Shows great improvement in understanding concepts.
+PERF001562,STU003,Rohit Kapoor,2025-12-14,7,Needs help with time management.
+PERF001563,STU004,Nikhil Saxena,2025-12-14,10,Needs more practice with homework assignments.
+PERF001564,STU006,Arjun Saxena,2025-12-14,8,Should practice more at home.
+PERF001565,STU007,Manish Mehta,2025-12-14,7,Excellent performance this week!
+PERF001566,STU008,Aishwarya Joshi,2025-12-14,10,Shows great improvement in understanding concepts.
+PERF001567,STU009,Amit Bansal,2025-12-14,10,Requires additional support in reading.
+PERF001568,STU010,Sakshi Mehta,2025-12-14,7,Excellent performance this week!
+PERF001569,STU011,Neha Mishra,2025-12-14,10,Needs help with time management.
+PERF001570,STU012,Sneha Mehta,2025-12-14,10,Needs more practice with homework assignments.
+PERF001571,STU013,Sagar Rao,2025-12-14,10,Attendance needs improvement.
+PERF001572,STU015,Ananya Verma,2025-12-14,7,Needs extra attention in mathematics.
+PERF001573,STU016,Abhishek Reddy,2025-12-14,8,Good teamwork skills demonstrated.
+PERF001574,STU018,Kritika Patel,2025-12-14,7,Needs more practice with homework assignments.
+PERF001575,STU019,Pooja Mehta,2025-12-14,7,Excellent performance this week!
+PERF001576,STU020,Ravi Sharma,2025-12-14,9,Should practice more at home.
+PERF001577,STU022,Meera Sharma,2025-12-14,8,Shows enthusiasm for learning.
+PERF001578,STU023,Amit Kumar,2025-12-14,8,Making steady progress in all subjects.
+PERF001579,STU025,Sakshi Mishra,2025-12-14,10,Needs more practice with homework assignments.
+PERF001580,STU026,Harsh Arora,2025-12-14,7,Very attentive and asks good questions.
+PERF001581,STU027,Aishwarya Arora,2025-12-14,8,Needs more practice with homework assignments.
+PERF001582,STU028,Jyoti Saxena,2025-12-14,9,Needs help with time management.
+PERF001583,STU029,Pooja Joshi,2025-12-14,7,Creative and shows good problem-solving skills.
+PERF001584,STU030,Rahul Goyal,2025-12-14,10,Needs more practice with homework assignments.
+PERF001585,STU031,Swati Bansal,2025-12-14,7,Very attentive and asks good questions.
+PERF001586,STU032,Aditya Rao,2025-12-14,8,Shows great improvement in understanding concepts.
+PERF001587,STU033,Arjun Patel,2025-12-14,10,Needs help with time management.
+PERF001588,STU034,Sagar Mishra,2025-12-14,10,Should practice more at home.
+PERF001589,STU035,Divya Rao,2025-12-14,7,Should practice more at home.
+PERF001590,STU001,Meera Verma,2025-12-21,7,Needs extra attention in mathematics.
+PERF001591,STU002,Deepak Iyer,2025-12-21,10,Attendance needs improvement.
+PERF001592,STU003,Rohit Kapoor,2025-12-21,7,Excellent performance this week!
+PERF001593,STU004,Nikhil Saxena,2025-12-21,9,Requires additional support in reading.
+PERF001594,STU005,Abhishek Joshi,2025-12-21,7,Creative and shows good problem-solving skills.
+PERF001595,STU007,Manish Mehta,2025-12-21,10,Needs more practice with homework assignments.
+PERF001596,STU008,Aishwarya Joshi,2025-12-21,9,Making steady progress in all subjects.
+PERF001597,STU009,Amit Bansal,2025-12-21,10,Should practice more at home.
+PERF001598,STU010,Sakshi Mehta,2025-12-21,7,Should practice more at home.
+PERF001599,STU011,Neha Mishra,2025-12-21,9,Making steady progress in all subjects.
+PERF001600,STU012,Sneha Mehta,2025-12-21,8,Very active and participates well in class.
+PERF001601,STU013,Sagar Rao,2025-12-21,7,Attendance needs improvement.
+PERF001602,STU014,Anjali Tiwari,2025-12-21,7,Shows enthusiasm for learning.
+PERF001603,STU015,Ananya Verma,2025-12-21,10,Shows enthusiasm for learning.
+PERF001604,STU016,Abhishek Reddy,2025-12-21,8,Needs extra attention in mathematics.
+PERF001605,STU017,Tanvi Nair,2025-12-21,10,Creative and shows good problem-solving skills.
+PERF001606,STU018,Kritika Patel,2025-12-21,8,Good teamwork skills demonstrated.
+PERF001607,STU019,Pooja Mehta,2025-12-21,9,Good teamwork skills demonstrated.
+PERF001608,STU020,Ravi Sharma,2025-12-21,7,Good teamwork skills demonstrated.
+PERF001609,STU021,Aishwarya Bansal,2025-12-21,10,Shows great improvement in understanding concepts.
+PERF001610,STU023,Amit Kumar,2025-12-21,8,Shows enthusiasm for learning.
+PERF001611,STU024,Manish Joshi,2025-12-21,8,Excellent performance this week!
+PERF001612,STU025,Sakshi Mishra,2025-12-21,10,Very attentive and asks good questions.
+PERF001613,STU026,Harsh Arora,2025-12-21,9,Needs help with time management.
+PERF001614,STU027,Aishwarya Arora,2025-12-21,9,Very attentive and asks good questions.
+PERF001615,STU028,Jyoti Saxena,2025-12-21,9,Very active and participates well in class.
+PERF001616,STU029,Pooja Joshi,2025-12-21,7,Requires additional support in reading.
+PERF001617,STU030,Rahul Goyal,2025-12-21,9,Creative and shows good problem-solving skills.
+PERF001618,STU031,Swati Bansal,2025-12-21,10,Shows enthusiasm for learning.
+PERF001619,STU032,Aditya Rao,2025-12-21,9,Attendance needs improvement.
+PERF001620,STU033,Arjun Patel,2025-12-21,10,Shows great improvement in understanding concepts.
+PERF001621,STU034,Sagar Mishra,2025-12-21,10,Very active and participates well in class.
+PERF001622,STU035,Divya Rao,2025-12-21,8,Very active and participates well in class.
+PERF001623,STU001,Meera Verma,2025-12-28,10,Excellent performance this week!
+PERF001624,STU002,Deepak Iyer,2025-12-28,9,Needs extra attention in mathematics.
+PERF001625,STU003,Rohit Kapoor,2025-12-28,8,Needs extra attention in mathematics.
+PERF001626,STU004,Nikhil Saxena,2025-12-28,9,Creative and shows good problem-solving skills.
+PERF001627,STU005,Abhishek Joshi,2025-12-28,7,Needs extra attention in mathematics.
+PERF001628,STU006,Arjun Saxena,2025-12-28,10,Shows great improvement in understanding concepts.
+PERF001629,STU007,Manish Mehta,2025-12-28,8,Needs help with time management.
+PERF001630,STU008,Aishwarya Joshi,2025-12-28,9,Attendance needs improvement.
+PERF001631,STU009,Amit Bansal,2025-12-28,10,Good teamwork skills demonstrated.
+PERF001632,STU010,Sakshi Mehta,2025-12-28,8,Good teamwork skills demonstrated.
+PERF001633,STU011,Neha Mishra,2025-12-28,9,Creative and shows good problem-solving skills.
+PERF001634,STU012,Sneha Mehta,2025-12-28,9,Attendance needs improvement.
+PERF001635,STU013,Sagar Rao,2025-12-28,10,Needs help with time management.
+PERF001636,STU014,Anjali Tiwari,2025-12-28,7,Shows enthusiasm for learning.
+PERF001637,STU015,Ananya Verma,2025-12-28,9,Should focus more on reading skills.
+PERF001638,STU016,Abhishek Reddy,2025-12-28,10,Creative and shows good problem-solving skills.
+PERF001639,STU017,Tanvi Nair,2025-12-28,10,Shows enthusiasm for learning.
+PERF001640,STU018,Kritika Patel,2025-12-28,7,Good teamwork skills demonstrated.
+PERF001641,STU019,Pooja Mehta,2025-12-28,8,Needs extra attention in mathematics.
+PERF001642,STU020,Ravi Sharma,2025-12-28,9,Shows great improvement in understanding concepts.
+PERF001643,STU021,Aishwarya Bansal,2025-12-28,10,Needs extra attention in mathematics.
+PERF001644,STU023,Amit Kumar,2025-12-28,7,Very attentive and asks good questions.
+PERF001645,STU024,Manish Joshi,2025-12-28,7,Very active and participates well in class.
+PERF001646,STU025,Sakshi Mishra,2025-12-28,9,Needs more practice with homework assignments.
+PERF001647,STU026,Harsh Arora,2025-12-28,8,Needs extra attention in mathematics.
+PERF001648,STU027,Aishwarya Arora,2025-12-28,10,Very attentive and asks good questions.
+PERF001649,STU030,Rahul Goyal,2025-12-28,7,Making steady progress in all subjects.
+PERF001650,STU031,Swati Bansal,2025-12-28,7,Attendance needs improvement.
+PERF001651,STU032,Aditya Rao,2025-12-28,9,Needs extra attention in mathematics.
+PERF001652,STU033,Arjun Patel,2025-12-28,8,Needs extra attention in mathematics.
+PERF001653,STU035,Divya Rao,2025-12-28,9,Should focus more on reading skills.

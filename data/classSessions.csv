@@ -1,0 +1,147 @@
+id,date,subject,lessonTopic,teacherNotes,type
+SESS000001,2025-01-01,Physical Education,Basic Science Experiments,assessment session on Basic Science Experiments. Good participation from all students.,assessment
+SESS000002,2025-01-02,Art,Alphabet Practice,Taught Alphabet Practice. Used visual aids to help students understand better.,classwork
+SESS000003,2025-01-08,English,Alphabet Practice,Taught Alphabet Practice to students. Most students understood the concept well.,assessment
+SESS000004,2025-01-10,Hindi,Story Writing,Conducted activity on Story Writing. Students were engaged and participated actively.,activity
+SESS000005,2025-01-14,Science,Alphabet Practice,Taught Alphabet Practice. Used visual aids to help students understand better.,classwork
+SESS000006,2025-01-17,Physical Education,Number Patterns,classwork session on Number Patterns. Good participation from all students.,classwork
+SESS000007,2025-01-20,Hindi,Indian History,assessment session on Indian History. Good participation from all students.,assessment
+SESS000008,2025-01-21,Science,Story Writing,Taught Story Writing. Used visual aids to help students understand better.,activity
+SESS000009,2025-01-22,Social Studies,Alphabet Practice,activity session on Alphabet Practice. Good participation from all students.,activity
+SESS000010,2025-01-23,Physical Education,Alphabet Practice,classwork session on Alphabet Practice. Good participation from all students.,classwork
+SESS000011,2025-01-24,English,Poetry,classwork on Poetry. Students showed interest and asked questions.,classwork
+SESS000012,2025-01-28,English,Grammar Basics,Taught Grammar Basics to students. Most students understood the concept well.,activity
+SESS000013,2025-01-29,Mathematics,Indian History,Conducted assessment on Indian History. Students were engaged and participated actively.,assessment
+SESS000014,2025-01-30,English,Poetry,Taught Poetry. Used visual aids to help students understand better.,assessment
+SESS000015,2025-01-31,Social Studies,Addition and Subtraction,Conducted activity on Addition and Subtraction. Students were engaged and participated actively.,activity
+SESS000016,2025-02-03,Social Studies,Grammar Basics,Conducted assessment on Grammar Basics. Students were engaged and participated actively.,assessment
+SESS000017,2025-02-04,Social Studies,Geography Basics,Taught Geography Basics. Used visual aids to help students understand better.,classwork
+SESS000018,2025-02-06,Hindi,Shapes and Colors,activity session on Shapes and Colors. Good participation from all students.,activity
+SESS000019,2025-02-10,Hindi,Basic Science Experiments,Taught Basic Science Experiments. Used visual aids to help students understand better.,activity
+SESS000020,2025-02-11,Mathematics,Grammar Basics,Covered Grammar Basics in Mathematics. Some students needed extra explanation.,activity
+SESS000021,2025-02-13,Social Studies,Our Body,Conducted classwork on Our Body. Students were engaged and participated actively.,classwork
+SESS000022,2025-02-17,English,Geography Basics,Covered Geography Basics in English. Some students needed extra explanation.,classwork
+SESS000023,2025-02-18,Mathematics,Reading Comprehension,activity session on Reading Comprehension. Good participation from all students.,activity
+SESS000024,2025-02-20,Physical Education,Our Body,Covered Our Body in Physical Education. Some students needed extra explanation.,assessment
+SESS000025,2025-02-21,Art,Reading Comprehension,Conducted activity on Reading Comprehension. Students were engaged and participated actively.,activity
+SESS000026,2025-02-24,Hindi,Story Writing,activity on Story Writing. Students showed interest and asked questions.,activity
+SESS000027,2025-02-25,Mathematics,Geography Basics,Taught Geography Basics. Used visual aids to help students understand better.,activity
+SESS000028,2025-02-26,Social Studies,Multiplication Tables,activity session on Multiplication Tables. Good participation from all students.,activity
+SESS000029,2025-02-27,Science,Poetry,Covered Poetry in Science. Some students needed extra explanation.,activity
+SESS000030,2025-02-28,Hindi,Plants and Animals,Covered Plants and Animals in Hindi. Some students needed extra explanation.,activity
+SESS000031,2025-03-05,English,Poetry,activity session on Poetry. Good participation from all students.,activity
+SESS000032,2025-03-06,English,Drawing and Coloring,classwork session on Drawing and Coloring. Good participation from all students.,classwork
+SESS000033,2025-03-10,Hindi,Our Body,Conducted assessment on Our Body. Students were engaged and participated actively.,assessment
+SESS000034,2025-03-12,Art,Addition and Subtraction,Covered Addition and Subtraction in Art. Some students needed extra explanation.,activity
+SESS000035,2025-03-17,Hindi,Poetry,Conducted activity on Poetry. Students were engaged and participated actively.,activity
+SESS000036,2025-03-19,English,Drawing and Coloring,Taught Drawing and Coloring to students. Most students understood the concept well.,activity
+SESS000037,2025-03-20,Mathematics,Alphabet Practice,assessment on Alphabet Practice. Students showed interest and asked questions.,assessment
+SESS000038,2025-03-21,Hindi,Geography Basics,Taught Geography Basics to students. Most students understood the concept well.,classwork
+SESS000039,2025-03-24,Mathematics,Indian History,Taught Indian History to students. Most students understood the concept well.,assessment
+SESS000040,2025-03-26,Social Studies,Story Writing,Taught Story Writing to students. Most students understood the concept well.,assessment
+SESS000041,2025-03-27,Science,Plants and Animals,Taught Plants and Animals. Used visual aids to help students understand better.,assessment
+SESS000042,2025-03-28,Science,Fractions,Taught Fractions to students. Most students understood the concept well.,classwork
+SESS000043,2025-04-03,Mathematics,Poetry,Taught Poetry. Used visual aids to help students understand better.,classwork
+SESS000044,2025-04-04,Social Studies,Grammar Basics,Conducted activity on Grammar Basics. Students were engaged and participated actively.,activity
+SESS000045,2025-04-08,Science,Number Patterns,Taught Number Patterns. Used visual aids to help students understand better.,activity
+SESS000046,2025-04-09,Social Studies,Number Patterns,Taught Number Patterns. Used visual aids to help students understand better.,activity
+SESS000047,2025-04-10,Science,Multiplication Tables,Taught Multiplication Tables. Used visual aids to help students understand better.,classwork
+SESS000048,2025-04-11,Art,Drawing and Coloring,activity session on Drawing and Coloring. Good participation from all students.,activity
+SESS000049,2025-04-18,Physical Education,Alphabet Practice,Covered Alphabet Practice in Physical Education. Some students needed extra explanation.,assessment
+SESS000050,2025-04-21,English,Story Writing,Conducted assessment on Story Writing. Students were engaged and participated actively.,assessment
+SESS000051,2025-04-23,Hindi,Weather and Climate,Covered Weather and Climate in Hindi. Some students needed extra explanation.,assessment
+SESS000052,2025-04-28,Physical Education,Story Writing,Conducted activity on Story Writing. Students were engaged and participated actively.,activity
+SESS000053,2025-04-29,Physical Education,Weather and Climate,assessment on Weather and Climate. Students showed interest and asked questions.,assessment
+SESS000054,2025-05-01,English,Reading Comprehension,Conducted assessment on Reading Comprehension. Students were engaged and participated actively.,assessment
+SESS000055,2025-05-02,English,Geography Basics,classwork on Geography Basics. Students showed interest and asked questions.,classwork
+SESS000056,2025-05-07,Mathematics,Grammar Basics,Covered Grammar Basics in Mathematics. Some students needed extra explanation.,classwork
+SESS000057,2025-05-08,Hindi,Fractions,Conducted classwork on Fractions. Students were engaged and participated actively.,classwork
+SESS000058,2025-05-13,Hindi,Drawing and Coloring,activity on Drawing and Coloring. Students showed interest and asked questions.,activity
+SESS000059,2025-05-15,Physical Education,Number Patterns,classwork on Number Patterns. Students showed interest and asked questions.,classwork
+SESS000060,2025-05-16,Physical Education,Our Body,classwork session on Our Body. Good participation from all students.,classwork
+SESS000061,2025-05-19,Mathematics,Indian History,Covered Indian History in Mathematics. Some students needed extra explanation.,assessment
+SESS000062,2025-05-21,Science,Basic Science Experiments,activity on Basic Science Experiments. Students showed interest and asked questions.,activity
+SESS000063,2025-05-22,Physical Education,Reading Comprehension,assessment session on Reading Comprehension. Good participation from all students.,assessment
+SESS000064,2025-05-23,Science,Community Helpers,activity session on Community Helpers. Good participation from all students.,activity
+SESS000065,2025-05-26,Hindi,Reading Comprehension,assessment on Reading Comprehension. Students showed interest and asked questions.,assessment
+SESS000066,2025-05-28,Physical Education,Poetry,activity session on Poetry. Good participation from all students.,activity
+SESS000067,2025-06-04,Hindi,Story Writing,activity on Story Writing. Students showed interest and asked questions.,activity
+SESS000068,2025-06-06,Science,Reading Comprehension,Taught Reading Comprehension. Used visual aids to help students understand better.,assessment
+SESS000069,2025-06-10,Physical Education,Indian History,activity on Indian History. Students showed interest and asked questions.,activity
+SESS000070,2025-06-11,Mathematics,Basic Science Experiments,Taught Basic Science Experiments. Used visual aids to help students understand better.,activity
+SESS000071,2025-06-12,Science,Community Helpers,activity session on Community Helpers. Good participation from all students.,activity
+SESS000072,2025-06-13,Science,Shapes and Colors,Conducted classwork on Shapes and Colors. Students were engaged and participated actively.,classwork
+SESS000073,2025-06-17,Art,Reading Comprehension,activity session on Reading Comprehension. Good participation from all students.,activity
+SESS000074,2025-06-19,Social Studies,Basic Science Experiments,Covered Basic Science Experiments in Social Studies. Some students needed extra explanation.,classwork
+SESS000075,2025-06-20,Art,Grammar Basics,classwork session on Grammar Basics. Good participation from all students.,classwork
+SESS000076,2025-06-27,Science,Indian History,classwork session on Indian History. Good participation from all students.,classwork
+SESS000077,2025-06-30,Mathematics,Our Body,Conducted activity on Our Body. Students were engaged and participated actively.,activity
+SESS000078,2025-07-02,English,Reading Comprehension,assessment on Reading Comprehension. Students showed interest and asked questions.,assessment
+SESS000079,2025-07-14,Science,Number Patterns,Covered Number Patterns in Science. Some students needed extra explanation.,classwork
+SESS000080,2025-07-15,Hindi,Reading Comprehension,assessment session on Reading Comprehension. Good participation from all students.,assessment
+SESS000081,2025-07-16,English,Fractions,Taught Fractions to students. Most students understood the concept well.,assessment
+SESS000082,2025-07-17,Science,Geography Basics,Conducted activity on Geography Basics. Students were engaged and participated actively.,activity
+SESS000083,2025-07-21,English,Poetry,Taught Poetry. Used visual aids to help students understand better.,assessment
+SESS000084,2025-07-22,Science,Story Writing,classwork on Story Writing. Students showed interest and asked questions.,classwork
+SESS000085,2025-07-31,Physical Education,Plants and Animals,assessment session on Plants and Animals. Good participation from all students.,assessment
+SESS000086,2025-08-04,Hindi,Indian History,activity session on Indian History. Good participation from all students.,activity
+SESS000087,2025-08-06,Physical Education,Basic Science Experiments,Conducted activity on Basic Science Experiments. Students were engaged and participated actively.,activity
+SESS000088,2025-08-07,English,Community Helpers,classwork on Community Helpers. Students showed interest and asked questions.,classwork
+SESS000089,2025-08-11,Physical Education,Multiplication Tables,Conducted assessment on Multiplication Tables. Students were engaged and participated actively.,assessment
+SESS000090,2025-08-18,Hindi,Addition and Subtraction,Taught Addition and Subtraction to students. Most students understood the concept well.,activity
+SESS000091,2025-08-19,Mathematics,Alphabet Practice,Conducted assessment on Alphabet Practice. Students were engaged and participated actively.,assessment
+SESS000092,2025-08-20,Art,Number Patterns,Taught Number Patterns. Used visual aids to help students understand better.,assessment
+SESS000093,2025-08-21,Social Studies,Our Body,activity on Our Body. Students showed interest and asked questions.,activity
+SESS000094,2025-08-22,Social Studies,Story Writing,Taught Story Writing to students. Most students understood the concept well.,assessment
+SESS000095,2025-08-25,Art,Reading Comprehension,Conducted assessment on Reading Comprehension. Students were engaged and participated actively.,assessment
+SESS000096,2025-08-26,Hindi,Indian History,assessment session on Indian History. Good participation from all students.,assessment
+SESS000097,2025-08-27,Social Studies,Weather and Climate,Covered Weather and Climate in Social Studies. Some students needed extra explanation.,assessment
+SESS000098,2025-08-28,Physical Education,Multiplication Tables,Taught Multiplication Tables. Used visual aids to help students understand better.,classwork
+SESS000099,2025-08-29,Hindi,Geography Basics,Taught Geography Basics to students. Most students understood the concept well.,activity
+SESS000100,2025-09-02,Physical Education,Fractions,Conducted assessment on Fractions. Students were engaged and participated actively.,assessment
+SESS000101,2025-09-03,English,Story Writing,Taught Story Writing. Used visual aids to help students understand better.,classwork
+SESS000102,2025-09-04,Hindi,Drawing and Coloring,Conducted classwork on Drawing and Coloring. Students were engaged and participated actively.,classwork
+SESS000103,2025-09-05,English,Plants and Animals,activity session on Plants and Animals. Good participation from all students.,activity
+SESS000104,2025-09-08,Mathematics,Weather and Climate,Taught Weather and Climate to students. Most students understood the concept well.,activity
+SESS000105,2025-09-09,Science,Community Helpers,activity on Community Helpers. Students showed interest and asked questions.,activity
+SESS000106,2025-09-16,Hindi,Story Writing,Conducted assessment on Story Writing. Students were engaged and participated actively.,assessment
+SESS000107,2025-09-18,Social Studies,Poetry,assessment session on Poetry. Good participation from all students.,assessment
+SESS000108,2025-09-19,Science,Geography Basics,Conducted classwork on Geography Basics. Students were engaged and participated actively.,classwork
+SESS000109,2025-09-23,Mathematics,Story Writing,Taught Story Writing to students. Most students understood the concept well.,activity
+SESS000110,2025-09-25,Physical Education,Reading Comprehension,Taught Reading Comprehension. Used visual aids to help students understand better.,activity
+SESS000111,2025-10-01,Mathematics,Drawing and Coloring,Taught Drawing and Coloring to students. Most students understood the concept well.,classwork
+SESS000112,2025-10-06,Art,Shapes and Colors,classwork session on Shapes and Colors. Good participation from all students.,classwork
+SESS000113,2025-10-10,Mathematics,Story Writing,classwork on Story Writing. Students showed interest and asked questions.,classwork
+SESS000114,2025-10-15,Art,Grammar Basics,Covered Grammar Basics in Art. Some students needed extra explanation.,assessment
+SESS000115,2025-10-17,Physical Education,Multiplication Tables,Taught Multiplication Tables to students. Most students understood the concept well.,assessment
+SESS000116,2025-10-21,Mathematics,Reading Comprehension,Taught Reading Comprehension to students. Most students understood the concept well.,assessment
+SESS000117,2025-10-28,Social Studies,Weather and Climate,Taught Weather and Climate to students. Most students understood the concept well.,classwork
+SESS000118,2025-10-30,Social Studies,Indian History,classwork on Indian History. Students showed interest and asked questions.,classwork
+SESS000119,2025-10-31,Science,Drawing and Coloring,Covered Drawing and Coloring in Science. Some students needed extra explanation.,activity
+SESS000120,2025-11-05,Physical Education,Number Patterns,Taught Number Patterns. Used visual aids to help students understand better.,classwork
+SESS000121,2025-11-06,Mathematics,Geography Basics,activity session on Geography Basics. Good participation from all students.,activity
+SESS000122,2025-11-07,Physical Education,Addition and Subtraction,Conducted assessment on Addition and Subtraction. Students were engaged and participated actively.,assessment
+SESS000123,2025-11-10,Social Studies,Grammar Basics,Conducted classwork on Grammar Basics. Students were engaged and participated actively.,classwork
+SESS000124,2025-11-11,Mathematics,Basic Science Experiments,activity on Basic Science Experiments. Students showed interest and asked questions.,activity
+SESS000125,2025-11-12,Art,Multiplication Tables,assessment on Multiplication Tables. Students showed interest and asked questions.,assessment
+SESS000126,2025-11-14,Hindi,Basic Science Experiments,activity on Basic Science Experiments. Students showed interest and asked questions.,activity
+SESS000127,2025-11-17,Physical Education,Plants and Animals,classwork session on Plants and Animals. Good participation from all students.,classwork
+SESS000128,2025-11-19,Hindi,Poetry,classwork session on Poetry. Good participation from all students.,classwork
+SESS000129,2025-11-21,Social Studies,Shapes and Colors,Covered Shapes and Colors in Social Studies. Some students needed extra explanation.,classwork
+SESS000130,2025-11-24,Science,Number Patterns,Taught Number Patterns to students. Most students understood the concept well.,classwork
+SESS000131,2025-11-27,English,Addition and Subtraction,Covered Addition and Subtraction in English. Some students needed extra explanation.,activity
+SESS000132,2025-11-28,Social Studies,Geography Basics,Covered Geography Basics in Social Studies. Some students needed extra explanation.,assessment
+SESS000133,2025-12-02,Social Studies,Story Writing,Covered Story Writing in Social Studies. Some students needed extra explanation.,activity
+SESS000134,2025-12-03,Social Studies,Reading Comprehension,Covered Reading Comprehension in Social Studies. Some students needed extra explanation.,activity
+SESS000135,2025-12-04,Science,Poetry,assessment session on Poetry. Good participation from all students.,assessment
+SESS000136,2025-12-08,Science,Drawing and Coloring,Taught Drawing and Coloring. Used visual aids to help students understand better.,assessment
+SESS000137,2025-12-09,Mathematics,Addition and Subtraction,Taught Addition and Subtraction. Used visual aids to help students understand better.,classwork
+SESS000138,2025-12-12,Science,Weather and Climate,Conducted classwork on Weather and Climate. Students were engaged and participated actively.,classwork
+SESS000139,2025-12-15,Social Studies,Addition and Subtraction,Covered Addition and Subtraction in Social Studies. Some students needed extra explanation.,classwork
+SESS000140,2025-12-17,Mathematics,Reading Comprehension,Conducted activity on Reading Comprehension. Students were engaged and participated actively.,activity
+SESS000141,2025-12-18,English,Alphabet Practice,Covered Alphabet Practice in English. Some students needed extra explanation.,classwork
+SESS000142,2025-12-22,Science,Fractions,Taught Fractions to students. Most students understood the concept well.,activity
+SESS000143,2025-12-23,Social Studies,Geography Basics,classwork on Geography Basics. Students showed interest and asked questions.,classwork
+SESS000144,2025-12-25,English,Community Helpers,Taught Community Helpers. Used visual aids to help students understand better.,classwork
+SESS000145,2025-12-26,Social Studies,Poetry,Covered Poetry in Social Studies. Some students needed extra explanation.,activity
+SESS000146,2025-12-30,Hindi,Story Writing,Covered Story Writing in Hindi. Some students needed extra explanation.,activity

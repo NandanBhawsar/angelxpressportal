@@ -1,0 +1,562 @@
+[
+  {
+    "id": "STU001",
+    "name": "Meera Verma",
+    "age": 11,
+    "grade": "Class 6",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Leadership skills",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU002",
+    "name": "Deepak Iyer",
+    "age": 13,
+    "grade": "Class 8",
+    "background": "Lives with parents, father works as daily wage laborer",
+    "strengths": [
+      "Good at Math",
+      "Creative and artistic"
+    ],
+    "weaknesses": [
+      "Time management",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU003",
+    "name": "Rohit Kapoor",
+    "age": 9,
+    "grade": "Class 3",
+    "background": "Lives in nearby slum area, parents work as domestic help",
+    "strengths": [
+      "Good at Math",
+      "Creative and artistic"
+    ],
+    "weaknesses": [
+      "Needs practice in writing",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU004",
+    "name": "Nikhil Saxena",
+    "age": 13,
+    "grade": "Class 7",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Good at Math",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Needs practice in writing"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU005",
+    "name": "Abhishek Joshi",
+    "age": 7,
+    "grade": "Class 1",
+    "background": "Family runs small shop, helps after school",
+    "strengths": [
+      "Quick learner",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU006",
+    "name": "Arjun Saxena",
+    "age": 7,
+    "grade": "Class 2",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Good at Math",
+      "Creative and artistic"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU007",
+    "name": "Manish Mehta",
+    "age": 12,
+    "grade": "Class 7",
+    "background": "Family runs small shop, helps after school",
+    "strengths": [
+      "Excellent reader",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Struggles with Math word problems",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU008",
+    "name": "Aishwarya Joshi",
+    "age": 10,
+    "grade": "Class 4",
+    "background": "Lives with extended family, both parents work in city",
+    "strengths": [
+      "Quick learner",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Struggles with Math word problems",
+      "Needs practice in writing"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU009",
+    "name": "Amit Bansal",
+    "age": 14,
+    "grade": "Class 8",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Good memory",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU010",
+    "name": "Sakshi Mehta",
+    "age": 11,
+    "grade": "Class 5",
+    "background": "Lives in nearby slum area, parents work as domestic help",
+    "strengths": [
+      "Leadership skills",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Struggles with Math word problems",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU011",
+    "name": "Neha Mishra",
+    "age": 7,
+    "grade": "Class 1",
+    "background": "Family runs small shop, helps after school",
+    "strengths": [
+      "Creative and artistic",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU012",
+    "name": "Sneha Mehta",
+    "age": 9,
+    "grade": "Class 3",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Leadership skills",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU013",
+    "name": "Sagar Rao",
+    "age": 6,
+    "grade": "Class 1",
+    "background": "Stays with grandmother, parents work in another state",
+    "strengths": [
+      "Good at Math",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU014",
+    "name": "Anjali Tiwari",
+    "age": 10,
+    "grade": "Class 4",
+    "background": "Family runs small shop, helps after school",
+    "strengths": [
+      "Good memory",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU015",
+    "name": "Ananya Verma",
+    "age": 14,
+    "grade": "Class 8",
+    "background": "Family runs small shop, helps after school",
+    "strengths": [
+      "Quick learner",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs practice in writing",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU016",
+    "name": "Abhishek Reddy",
+    "age": 11,
+    "grade": "Class 6",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Excellent reader",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs practice in writing",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU017",
+    "name": "Tanvi Nair",
+    "age": 11,
+    "grade": "Class 6",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Good at Math",
+      "Quick learner"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU018",
+    "name": "Kritika Patel",
+    "age": 9,
+    "grade": "Class 4",
+    "background": "Single parent household, mother works in nearby factory",
+    "strengths": [
+      "Quick learner",
+      "Good memory"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU019",
+    "name": "Pooja Mehta",
+    "age": 9,
+    "grade": "Class 4",
+    "background": "Stays with grandmother, parents work in another state",
+    "strengths": [
+      "Quick learner",
+      "Leadership skills"
+    ],
+    "weaknesses": [
+      "Time management",
+      "Needs to focus more"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU020",
+    "name": "Ravi Sharma",
+    "age": 6,
+    "grade": "Class 1",
+    "background": "Lives with parents, father works as daily wage laborer",
+    "strengths": [
+      "Good memory",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU021",
+    "name": "Aishwarya Bansal",
+    "age": 8,
+    "grade": "Class 2",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Excellent reader",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Needs practice in writing",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU022",
+    "name": "Meera Sharma",
+    "age": 11,
+    "grade": "Class 6",
+    "background": "Single parent household, mother works in nearby factory",
+    "strengths": [
+      "Leadership skills",
+      "Creative and artistic"
+    ],
+    "weaknesses": [
+      "Time management",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU023",
+    "name": "Amit Kumar",
+    "age": 10,
+    "grade": "Class 4",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Creative and artistic",
+      "Quick learner"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU024",
+    "name": "Manish Joshi",
+    "age": 11,
+    "grade": "Class 6",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Quick learner",
+      "Good memory"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Time management"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU025",
+    "name": "Sakshi Mishra",
+    "age": 10,
+    "grade": "Class 5",
+    "background": "Parents work in construction, lives in temporary housing",
+    "strengths": [
+      "Good at Math",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Needs practice in writing"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU026",
+    "name": "Harsh Arora",
+    "age": 12,
+    "grade": "Class 6",
+    "background": "Stays with grandmother, parents work in another state",
+    "strengths": [
+      "Quick learner",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU027",
+    "name": "Aishwarya Arora",
+    "age": 7,
+    "grade": "Class 2",
+    "background": "Single parent household, mother works in nearby factory",
+    "strengths": [
+      "Creative and artistic",
+      "Good memory"
+    ],
+    "weaknesses": [
+      "Shy, needs confidence building",
+      "Needs improvement in reading"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU028",
+    "name": "Jyoti Saxena",
+    "age": 6,
+    "grade": "Class 1",
+    "background": "Lives with parents, father works as daily wage laborer",
+    "strengths": [
+      "Good at Math",
+      "Helps other students"
+    ],
+    "weaknesses": [
+      "Time management",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU029",
+    "name": "Pooja Joshi",
+    "age": 13,
+    "grade": "Class 8",
+    "background": "Stays with grandmother, parents work in another state",
+    "strengths": [
+      "Quick learner",
+      "Good memory"
+    ],
+    "weaknesses": [
+      "Time management",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU030",
+    "name": "Rahul Goyal",
+    "age": 6,
+    "grade": "Class 1",
+    "background": "Lives with extended family, both parents work in city",
+    "strengths": [
+      "Helps other students",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Needs practice in writing"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU031",
+    "name": "Swati Bansal",
+    "age": 9,
+    "grade": "Class 4",
+    "background": "Lives with parents, father works as daily wage laborer",
+    "strengths": [
+      "Helps other students",
+      "Quick learner"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU032",
+    "name": "Aditya Rao",
+    "age": 7,
+    "grade": "Class 2",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Quick learner",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU033",
+    "name": "Arjun Patel",
+    "age": 13,
+    "grade": "Class 7",
+    "background": "Both parents work, lives with siblings",
+    "strengths": [
+      "Helps other students",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU034",
+    "name": "Sagar Mishra",
+    "age": 9,
+    "grade": "Class 4",
+    "background": "Lives with extended family, both parents work in city",
+    "strengths": [
+      "Good at Math",
+      "Excellent reader"
+    ],
+    "weaknesses": [
+      "Needs improvement in reading",
+      "Struggles with Math word problems"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "STU035",
+    "name": "Divya Rao",
+    "age": 7,
+    "grade": "Class 1",
+    "background": "Lives with parents, father works as daily wage laborer",
+    "strengths": [
+      "Leadership skills",
+      "Good at Math"
+    ],
+    "weaknesses": [
+      "Needs to focus more",
+      "Shy, needs confidence building"
+    ],
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  }
+]

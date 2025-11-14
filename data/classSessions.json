@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "SESS000001",
+    "date": "2025-01-01",
+    "subject": "Physical Education",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "assessment session on Basic Science Experiments. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000002",
+    "date": "2025-01-02",
+    "subject": "Art",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Taught Alphabet Practice. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000003",
+    "date": "2025-01-08",
+    "subject": "English",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Taught Alphabet Practice to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000004",
+    "date": "2025-01-10",
+    "subject": "Hindi",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Conducted activity on Story Writing. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000005",
+    "date": "2025-01-14",
+    "subject": "Science",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Taught Alphabet Practice. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000006",
+    "date": "2025-01-17",
+    "subject": "Physical Education",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "classwork session on Number Patterns. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000007",
+    "date": "2025-01-20",
+    "subject": "Hindi",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "assessment session on Indian History. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000008",
+    "date": "2025-01-21",
+    "subject": "Science",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Taught Story Writing. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000009",
+    "date": "2025-01-22",
+    "subject": "Social Studies",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "activity session on Alphabet Practice. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000010",
+    "date": "2025-01-23",
+    "subject": "Physical Education",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "classwork session on Alphabet Practice. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000011",
+    "date": "2025-01-24",
+    "subject": "English",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "classwork on Poetry. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000012",
+    "date": "2025-01-28",
+    "subject": "English",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Taught Grammar Basics to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000013",
+    "date": "2025-01-29",
+    "subject": "Mathematics",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "Conducted assessment on Indian History. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000014",
+    "date": "2025-01-30",
+    "subject": "English",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Taught Poetry. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000015",
+    "date": "2025-01-31",
+    "subject": "Social Studies",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Conducted activity on Addition and Subtraction. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000016",
+    "date": "2025-02-03",
+    "subject": "Social Studies",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Conducted assessment on Grammar Basics. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000017",
+    "date": "2025-02-04",
+    "subject": "Social Studies",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Taught Geography Basics. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000018",
+    "date": "2025-02-06",
+    "subject": "Hindi",
+    "lessonTopic": "Shapes and Colors",
+    "teacherNotes": "activity session on Shapes and Colors. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000019",
+    "date": "2025-02-10",
+    "subject": "Hindi",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "Taught Basic Science Experiments. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000020",
+    "date": "2025-02-11",
+    "subject": "Mathematics",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Covered Grammar Basics in Mathematics. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000021",
+    "date": "2025-02-13",
+    "subject": "Social Studies",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "Conducted classwork on Our Body. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000022",
+    "date": "2025-02-17",
+    "subject": "English",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Covered Geography Basics in English. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000023",
+    "date": "2025-02-18",
+    "subject": "Mathematics",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "activity session on Reading Comprehension. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000024",
+    "date": "2025-02-20",
+    "subject": "Physical Education",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "Covered Our Body in Physical Education. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000025",
+    "date": "2025-02-21",
+    "subject": "Art",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Conducted activity on Reading Comprehension. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000026",
+    "date": "2025-02-24",
+    "subject": "Hindi",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "activity on Story Writing. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000027",
+    "date": "2025-02-25",
+    "subject": "Mathematics",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Taught Geography Basics. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000028",
+    "date": "2025-02-26",
+    "subject": "Social Studies",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "activity session on Multiplication Tables. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000029",
+    "date": "2025-02-27",
+    "subject": "Science",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Covered Poetry in Science. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000030",
+    "date": "2025-02-28",
+    "subject": "Hindi",
+    "lessonTopic": "Plants and Animals",
+    "teacherNotes": "Covered Plants and Animals in Hindi. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000031",
+    "date": "2025-03-05",
+    "subject": "English",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "activity session on Poetry. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000032",
+    "date": "2025-03-06",
+    "subject": "English",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "classwork session on Drawing and Coloring. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000033",
+    "date": "2025-03-10",
+    "subject": "Hindi",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "Conducted assessment on Our Body. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000034",
+    "date": "2025-03-12",
+    "subject": "Art",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Covered Addition and Subtraction in Art. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000035",
+    "date": "2025-03-17",
+    "subject": "Hindi",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Conducted activity on Poetry. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000036",
+    "date": "2025-03-19",
+    "subject": "English",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "Taught Drawing and Coloring to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000037",
+    "date": "2025-03-20",
+    "subject": "Mathematics",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "assessment on Alphabet Practice. Students showed interest and asked questions.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000038",
+    "date": "2025-03-21",
+    "subject": "Hindi",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Taught Geography Basics to students. Most students understood the concept well.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000039",
+    "date": "2025-03-24",
+    "subject": "Mathematics",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "Taught Indian History to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000040",
+    "date": "2025-03-26",
+    "subject": "Social Studies",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Taught Story Writing to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000041",
+    "date": "2025-03-27",
+    "subject": "Science",
+    "lessonTopic": "Plants and Animals",
+    "teacherNotes": "Taught Plants and Animals. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000042",
+    "date": "2025-03-28",
+    "subject": "Science",
+    "lessonTopic": "Fractions",
+    "teacherNotes": "Taught Fractions to students. Most students understood the concept well.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000043",
+    "date": "2025-04-03",
+    "subject": "Mathematics",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Taught Poetry. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000044",
+    "date": "2025-04-04",
+    "subject": "Social Studies",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Conducted activity on Grammar Basics. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000045",
+    "date": "2025-04-08",
+    "subject": "Science",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Taught Number Patterns. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000046",
+    "date": "2025-04-09",
+    "subject": "Social Studies",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Taught Number Patterns. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000047",
+    "date": "2025-04-10",
+    "subject": "Science",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "Taught Multiplication Tables. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000048",
+    "date": "2025-04-11",
+    "subject": "Art",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "activity session on Drawing and Coloring. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000049",
+    "date": "2025-04-18",
+    "subject": "Physical Education",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Covered Alphabet Practice in Physical Education. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000050",
+    "date": "2025-04-21",
+    "subject": "English",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Conducted assessment on Story Writing. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000051",
+    "date": "2025-04-23",
+    "subject": "Hindi",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "Covered Weather and Climate in Hindi. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000052",
+    "date": "2025-04-28",
+    "subject": "Physical Education",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Conducted activity on Story Writing. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000053",
+    "date": "2025-04-29",
+    "subject": "Physical Education",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "assessment on Weather and Climate. Students showed interest and asked questions.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000054",
+    "date": "2025-05-01",
+    "subject": "English",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Conducted assessment on Reading Comprehension. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000055",
+    "date": "2025-05-02",
+    "subject": "English",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "classwork on Geography Basics. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000056",
+    "date": "2025-05-07",
+    "subject": "Mathematics",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Covered Grammar Basics in Mathematics. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000057",
+    "date": "2025-05-08",
+    "subject": "Hindi",
+    "lessonTopic": "Fractions",
+    "teacherNotes": "Conducted classwork on Fractions. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000058",
+    "date": "2025-05-13",
+    "subject": "Hindi",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "activity on Drawing and Coloring. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000059",
+    "date": "2025-05-15",
+    "subject": "Physical Education",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "classwork on Number Patterns. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000060",
+    "date": "2025-05-16",
+    "subject": "Physical Education",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "classwork session on Our Body. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000061",
+    "date": "2025-05-19",
+    "subject": "Mathematics",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "Covered Indian History in Mathematics. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000062",
+    "date": "2025-05-21",
+    "subject": "Science",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "activity on Basic Science Experiments. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000063",
+    "date": "2025-05-22",
+    "subject": "Physical Education",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "assessment session on Reading Comprehension. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000064",
+    "date": "2025-05-23",
+    "subject": "Science",
+    "lessonTopic": "Community Helpers",
+    "teacherNotes": "activity session on Community Helpers. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000065",
+    "date": "2025-05-26",
+    "subject": "Hindi",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "assessment on Reading Comprehension. Students showed interest and asked questions.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000066",
+    "date": "2025-05-28",
+    "subject": "Physical Education",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "activity session on Poetry. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000067",
+    "date": "2025-06-04",
+    "subject": "Hindi",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "activity on Story Writing. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000068",
+    "date": "2025-06-06",
+    "subject": "Science",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Taught Reading Comprehension. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000069",
+    "date": "2025-06-10",
+    "subject": "Physical Education",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "activity on Indian History. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000070",
+    "date": "2025-06-11",
+    "subject": "Mathematics",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "Taught Basic Science Experiments. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000071",
+    "date": "2025-06-12",
+    "subject": "Science",
+    "lessonTopic": "Community Helpers",
+    "teacherNotes": "activity session on Community Helpers. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000072",
+    "date": "2025-06-13",
+    "subject": "Science",
+    "lessonTopic": "Shapes and Colors",
+    "teacherNotes": "Conducted classwork on Shapes and Colors. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000073",
+    "date": "2025-06-17",
+    "subject": "Art",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "activity session on Reading Comprehension. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000074",
+    "date": "2025-06-19",
+    "subject": "Social Studies",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "Covered Basic Science Experiments in Social Studies. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000075",
+    "date": "2025-06-20",
+    "subject": "Art",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "classwork session on Grammar Basics. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000076",
+    "date": "2025-06-27",
+    "subject": "Science",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "classwork session on Indian History. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000077",
+    "date": "2025-06-30",
+    "subject": "Mathematics",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "Conducted activity on Our Body. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000078",
+    "date": "2025-07-02",
+    "subject": "English",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "assessment on Reading Comprehension. Students showed interest and asked questions.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000079",
+    "date": "2025-07-14",
+    "subject": "Science",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Covered Number Patterns in Science. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000080",
+    "date": "2025-07-15",
+    "subject": "Hindi",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "assessment session on Reading Comprehension. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000081",
+    "date": "2025-07-16",
+    "subject": "English",
+    "lessonTopic": "Fractions",
+    "teacherNotes": "Taught Fractions to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000082",
+    "date": "2025-07-17",
+    "subject": "Science",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Conducted activity on Geography Basics. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000083",
+    "date": "2025-07-21",
+    "subject": "English",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Taught Poetry. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000084",
+    "date": "2025-07-22",
+    "subject": "Science",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "classwork on Story Writing. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000085",
+    "date": "2025-07-31",
+    "subject": "Physical Education",
+    "lessonTopic": "Plants and Animals",
+    "teacherNotes": "assessment session on Plants and Animals. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000086",
+    "date": "2025-08-04",
+    "subject": "Hindi",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "activity session on Indian History. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000087",
+    "date": "2025-08-06",
+    "subject": "Physical Education",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "Conducted activity on Basic Science Experiments. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000088",
+    "date": "2025-08-07",
+    "subject": "English",
+    "lessonTopic": "Community Helpers",
+    "teacherNotes": "classwork on Community Helpers. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000089",
+    "date": "2025-08-11",
+    "subject": "Physical Education",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "Conducted assessment on Multiplication Tables. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000090",
+    "date": "2025-08-18",
+    "subject": "Hindi",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Taught Addition and Subtraction to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000091",
+    "date": "2025-08-19",
+    "subject": "Mathematics",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Conducted assessment on Alphabet Practice. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000092",
+    "date": "2025-08-20",
+    "subject": "Art",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Taught Number Patterns. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000093",
+    "date": "2025-08-21",
+    "subject": "Social Studies",
+    "lessonTopic": "Our Body",
+    "teacherNotes": "activity on Our Body. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000094",
+    "date": "2025-08-22",
+    "subject": "Social Studies",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Taught Story Writing to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000095",
+    "date": "2025-08-25",
+    "subject": "Art",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Conducted assessment on Reading Comprehension. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000096",
+    "date": "2025-08-26",
+    "subject": "Hindi",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "assessment session on Indian History. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000097",
+    "date": "2025-08-27",
+    "subject": "Social Studies",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "Covered Weather and Climate in Social Studies. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000098",
+    "date": "2025-08-28",
+    "subject": "Physical Education",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "Taught Multiplication Tables. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000099",
+    "date": "2025-08-29",
+    "subject": "Hindi",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Taught Geography Basics to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000100",
+    "date": "2025-09-02",
+    "subject": "Physical Education",
+    "lessonTopic": "Fractions",
+    "teacherNotes": "Conducted assessment on Fractions. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000101",
+    "date": "2025-09-03",
+    "subject": "English",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Taught Story Writing. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000102",
+    "date": "2025-09-04",
+    "subject": "Hindi",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "Conducted classwork on Drawing and Coloring. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000103",
+    "date": "2025-09-05",
+    "subject": "English",
+    "lessonTopic": "Plants and Animals",
+    "teacherNotes": "activity session on Plants and Animals. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000104",
+    "date": "2025-09-08",
+    "subject": "Mathematics",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "Taught Weather and Climate to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000105",
+    "date": "2025-09-09",
+    "subject": "Science",
+    "lessonTopic": "Community Helpers",
+    "teacherNotes": "activity on Community Helpers. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000106",
+    "date": "2025-09-16",
+    "subject": "Hindi",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Conducted assessment on Story Writing. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000107",
+    "date": "2025-09-18",
+    "subject": "Social Studies",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "assessment session on Poetry. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000108",
+    "date": "2025-09-19",
+    "subject": "Science",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Conducted classwork on Geography Basics. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000109",
+    "date": "2025-09-23",
+    "subject": "Mathematics",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Taught Story Writing to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000110",
+    "date": "2025-09-25",
+    "subject": "Physical Education",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Taught Reading Comprehension. Used visual aids to help students understand better.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000111",
+    "date": "2025-10-01",
+    "subject": "Mathematics",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "Taught Drawing and Coloring to students. Most students understood the concept well.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000112",
+    "date": "2025-10-06",
+    "subject": "Art",
+    "lessonTopic": "Shapes and Colors",
+    "teacherNotes": "classwork session on Shapes and Colors. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000113",
+    "date": "2025-10-10",
+    "subject": "Mathematics",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "classwork on Story Writing. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000114",
+    "date": "2025-10-15",
+    "subject": "Art",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Covered Grammar Basics in Art. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000115",
+    "date": "2025-10-17",
+    "subject": "Physical Education",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "Taught Multiplication Tables to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000116",
+    "date": "2025-10-21",
+    "subject": "Mathematics",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Taught Reading Comprehension to students. Most students understood the concept well.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000117",
+    "date": "2025-10-28",
+    "subject": "Social Studies",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "Taught Weather and Climate to students. Most students understood the concept well.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000118",
+    "date": "2025-10-30",
+    "subject": "Social Studies",
+    "lessonTopic": "Indian History",
+    "teacherNotes": "classwork on Indian History. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000119",
+    "date": "2025-10-31",
+    "subject": "Science",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "Covered Drawing and Coloring in Science. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000120",
+    "date": "2025-11-05",
+    "subject": "Physical Education",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Taught Number Patterns. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000121",
+    "date": "2025-11-06",
+    "subject": "Mathematics",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "activity session on Geography Basics. Good participation from all students.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000122",
+    "date": "2025-11-07",
+    "subject": "Physical Education",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Conducted assessment on Addition and Subtraction. Students were engaged and participated actively.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000123",
+    "date": "2025-11-10",
+    "subject": "Social Studies",
+    "lessonTopic": "Grammar Basics",
+    "teacherNotes": "Conducted classwork on Grammar Basics. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000124",
+    "date": "2025-11-11",
+    "subject": "Mathematics",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "activity on Basic Science Experiments. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000125",
+    "date": "2025-11-12",
+    "subject": "Art",
+    "lessonTopic": "Multiplication Tables",
+    "teacherNotes": "assessment on Multiplication Tables. Students showed interest and asked questions.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000126",
+    "date": "2025-11-14",
+    "subject": "Hindi",
+    "lessonTopic": "Basic Science Experiments",
+    "teacherNotes": "activity on Basic Science Experiments. Students showed interest and asked questions.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000127",
+    "date": "2025-11-17",
+    "subject": "Physical Education",
+    "lessonTopic": "Plants and Animals",
+    "teacherNotes": "classwork session on Plants and Animals. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000128",
+    "date": "2025-11-19",
+    "subject": "Hindi",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "classwork session on Poetry. Good participation from all students.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000129",
+    "date": "2025-11-21",
+    "subject": "Social Studies",
+    "lessonTopic": "Shapes and Colors",
+    "teacherNotes": "Covered Shapes and Colors in Social Studies. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000130",
+    "date": "2025-11-24",
+    "subject": "Science",
+    "lessonTopic": "Number Patterns",
+    "teacherNotes": "Taught Number Patterns to students. Most students understood the concept well.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000131",
+    "date": "2025-11-27",
+    "subject": "English",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Covered Addition and Subtraction in English. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000132",
+    "date": "2025-11-28",
+    "subject": "Social Studies",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "Covered Geography Basics in Social Studies. Some students needed extra explanation.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000133",
+    "date": "2025-12-02",
+    "subject": "Social Studies",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Covered Story Writing in Social Studies. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000134",
+    "date": "2025-12-03",
+    "subject": "Social Studies",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Covered Reading Comprehension in Social Studies. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000135",
+    "date": "2025-12-04",
+    "subject": "Science",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "assessment session on Poetry. Good participation from all students.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000136",
+    "date": "2025-12-08",
+    "subject": "Science",
+    "lessonTopic": "Drawing and Coloring",
+    "teacherNotes": "Taught Drawing and Coloring. Used visual aids to help students understand better.",
+    "type": "assessment"
+  },
+  {
+    "id": "SESS000137",
+    "date": "2025-12-09",
+    "subject": "Mathematics",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Taught Addition and Subtraction. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000138",
+    "date": "2025-12-12",
+    "subject": "Science",
+    "lessonTopic": "Weather and Climate",
+    "teacherNotes": "Conducted classwork on Weather and Climate. Students were engaged and participated actively.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000139",
+    "date": "2025-12-15",
+    "subject": "Social Studies",
+    "lessonTopic": "Addition and Subtraction",
+    "teacherNotes": "Covered Addition and Subtraction in Social Studies. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000140",
+    "date": "2025-12-17",
+    "subject": "Mathematics",
+    "lessonTopic": "Reading Comprehension",
+    "teacherNotes": "Conducted activity on Reading Comprehension. Students were engaged and participated actively.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000141",
+    "date": "2025-12-18",
+    "subject": "English",
+    "lessonTopic": "Alphabet Practice",
+    "teacherNotes": "Covered Alphabet Practice in English. Some students needed extra explanation.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000142",
+    "date": "2025-12-22",
+    "subject": "Science",
+    "lessonTopic": "Fractions",
+    "teacherNotes": "Taught Fractions to students. Most students understood the concept well.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000143",
+    "date": "2025-12-23",
+    "subject": "Social Studies",
+    "lessonTopic": "Geography Basics",
+    "teacherNotes": "classwork on Geography Basics. Students showed interest and asked questions.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000144",
+    "date": "2025-12-25",
+    "subject": "English",
+    "lessonTopic": "Community Helpers",
+    "teacherNotes": "Taught Community Helpers. Used visual aids to help students understand better.",
+    "type": "classwork"
+  },
+  {
+    "id": "SESS000145",
+    "date": "2025-12-26",
+    "subject": "Social Studies",
+    "lessonTopic": "Poetry",
+    "teacherNotes": "Covered Poetry in Social Studies. Some students needed extra explanation.",
+    "type": "activity"
+  },
+  {
+    "id": "SESS000146",
+    "date": "2025-12-30",
+    "subject": "Hindi",
+    "lessonTopic": "Story Writing",
+    "teacherNotes": "Covered Story Writing in Hindi. Some students needed extra explanation.",
+    "type": "activity"
+  }
+]

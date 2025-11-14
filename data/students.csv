@@ -1,0 +1,36 @@
+id,name,age,grade,background,strengths,weaknesses,createdAt
+STU001,Meera Verma,11,Class 6,"Parents work in construction, lives in temporary housing","Leadership skills; Helps other students","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU002,Deepak Iyer,13,Class 8,"Lives with parents, father works as daily wage laborer","Good at Math; Creative and artistic","Time management; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU003,Rohit Kapoor,9,Class 3,"Lives in nearby slum area, parents work as domestic help","Good at Math; Creative and artistic","Needs practice in writing; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU004,Nikhil Saxena,13,Class 7,"Parents work in construction, lives in temporary housing","Good at Math; Excellent reader","Shy, needs confidence building; Needs practice in writing",2024-12-01T00:00:00.000Z
+STU005,Abhishek Joshi,7,Class 1,"Family runs small shop, helps after school","Quick learner; Helps other students","Needs improvement in reading; Time management",2024-12-01T00:00:00.000Z
+STU006,Arjun Saxena,7,Class 2,"Parents work in construction, lives in temporary housing","Good at Math; Creative and artistic","Needs to focus more; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU007,Manish Mehta,12,Class 7,"Family runs small shop, helps after school","Excellent reader; Helps other students","Struggles with Math word problems; Shy, needs confidence building",2024-12-01T00:00:00.000Z
+STU008,Aishwarya Joshi,10,Class 4,"Lives with extended family, both parents work in city","Quick learner; Excellent reader","Struggles with Math word problems; Needs practice in writing",2024-12-01T00:00:00.000Z
+STU009,Amit Bansal,14,Class 8,"Both parents work, lives with siblings","Good memory; Good at Math","Needs improvement in reading; Time management",2024-12-01T00:00:00.000Z
+STU010,Sakshi Mehta,11,Class 5,"Lives in nearby slum area, parents work as domestic help","Leadership skills; Excellent reader","Struggles with Math word problems; Shy, needs confidence building",2024-12-01T00:00:00.000Z
+STU011,Neha Mishra,7,Class 1,"Family runs small shop, helps after school","Creative and artistic; Excellent reader","Shy, needs confidence building; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU012,Sneha Mehta,9,Class 3,"Parents work in construction, lives in temporary housing","Leadership skills; Excellent reader","Shy, needs confidence building; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU013,Sagar Rao,6,Class 1,"Stays with grandmother, parents work in another state","Good at Math; Helps other students","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU014,Anjali Tiwari,10,Class 4,"Family runs small shop, helps after school","Good memory; Good at Math","Needs to focus more; Time management",2024-12-01T00:00:00.000Z
+STU015,Ananya Verma,14,Class 8,"Family runs small shop, helps after school","Quick learner; Good at Math","Needs practice in writing; Time management",2024-12-01T00:00:00.000Z
+STU016,Abhishek Reddy,11,Class 6,"Parents work in construction, lives in temporary housing","Excellent reader; Good at Math","Needs practice in writing; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU017,Tanvi Nair,11,Class 6,"Both parents work, lives with siblings","Good at Math; Quick learner","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU018,Kritika Patel,9,Class 4,"Single parent household, mother works in nearby factory","Quick learner; Good memory","Needs to focus more; Shy, needs confidence building",2024-12-01T00:00:00.000Z
+STU019,Pooja Mehta,9,Class 4,"Stays with grandmother, parents work in another state","Quick learner; Leadership skills","Time management; Needs to focus more",2024-12-01T00:00:00.000Z
+STU020,Ravi Sharma,6,Class 1,"Lives with parents, father works as daily wage laborer","Good memory; Helps other students","Needs improvement in reading; Shy, needs confidence building",2024-12-01T00:00:00.000Z
+STU021,Aishwarya Bansal,8,Class 2,"Both parents work, lives with siblings","Excellent reader; Helps other students","Needs practice in writing; Time management",2024-12-01T00:00:00.000Z
+STU022,Meera Sharma,11,Class 6,"Single parent household, mother works in nearby factory","Leadership skills; Creative and artistic","Time management; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU023,Amit Kumar,10,Class 4,"Both parents work, lives with siblings","Creative and artistic; Quick learner","Needs to focus more; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU024,Manish Joshi,11,Class 6,"Both parents work, lives with siblings","Quick learner; Good memory","Shy, needs confidence building; Time management",2024-12-01T00:00:00.000Z
+STU025,Sakshi Mishra,10,Class 5,"Parents work in construction, lives in temporary housing","Good at Math; Helps other students","Shy, needs confidence building; Needs practice in writing",2024-12-01T00:00:00.000Z
+STU026,Harsh Arora,12,Class 6,"Stays with grandmother, parents work in another state","Quick learner; Good at Math","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU027,Aishwarya Arora,7,Class 2,"Single parent household, mother works in nearby factory","Creative and artistic; Good memory","Shy, needs confidence building; Needs improvement in reading",2024-12-01T00:00:00.000Z
+STU028,Jyoti Saxena,6,Class 1,"Lives with parents, father works as daily wage laborer","Good at Math; Helps other students","Time management; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU029,Pooja Joshi,13,Class 8,"Stays with grandmother, parents work in another state","Quick learner; Good memory","Time management; Shy, needs confidence building",2024-12-01T00:00:00.000Z
+STU030,Rahul Goyal,6,Class 1,"Lives with extended family, both parents work in city","Helps other students; Good at Math","Needs improvement in reading; Needs practice in writing",2024-12-01T00:00:00.000Z
+STU031,Swati Bansal,9,Class 4,"Lives with parents, father works as daily wage laborer","Helps other students; Quick learner","Needs to focus more; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU032,Aditya Rao,7,Class 2,"Both parents work, lives with siblings","Quick learner; Good at Math","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU033,Arjun Patel,13,Class 7,"Both parents work, lives with siblings","Helps other students; Good at Math","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU034,Sagar Mishra,9,Class 4,"Lives with extended family, both parents work in city","Good at Math; Excellent reader","Needs improvement in reading; Struggles with Math word problems",2024-12-01T00:00:00.000Z
+STU035,Divya Rao,7,Class 1,"Lives with parents, father works as daily wage laborer","Leadership skills; Good at Math","Needs to focus more; Shy, needs confidence building",2024-12-01T00:00:00.000Z
